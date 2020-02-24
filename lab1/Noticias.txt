@@ -1,0 +1,877 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<atom:link href="https://sevilla.abc.es/rss/feeds/Sevilla_Sevilla.xml" rel="self" type="application/rss+xml" />
+<title>Sevilla</title>
+<link>https://sevilla.abc.es</link>
+<description>Sevilla</description>
+<language>es-es</language>
+<pubDate>Mon, 24 Feb 2020 22:42:58 +0100</pubDate>
+<lastBuildDate>Mon, 24 Feb 2020 22:42:58 +0100</lastBuildDate>
+<ttl>2</ttl>
+<item>
+<title>El PP denuncia el «degradado e indigno» estado en el que se encuentra la Plaza Nueva de Sevilla</title>
+<link>https://sevilla.abc.es/sevilla/sevi-pp-denuncia-degradado-indigno-estado-encuentra-plaza-nueva-sevilla-202002241749_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/24/s/collage-pp-plazanueva.jpg-kCYE--620x349@abc.jpg&quot;&gt;La concejal del Grupo Popular, Ana Jáuregui, denunció ayer el estado «degradado e indigno de la Plaza Nueva», criticando que «es una metáfora perfecta de lo que se ha convertido la ciudad de Sevilla. Una ciudad acogedora de eventos que lucen de manera efímera, pero que no gestionan ni para transformar ni para resolver los problemas del día a día». 
+
+
+Así, Jáuregui detalló de manera minuciosa todos los desperfectos y problemas que existen en la Plaza Nueva, que pasan, en primer lugar por los daños sufridos en la solería de mármol, «como consecuencia de los continuos eventos que la Plaza Nueva alberga, tras los cuales apenas se hacen trabajos de mantenimiento». 
+
+
+En cuanto al pavimento levantado en la zona de tránsito de vehículos, desde el PP «exigimos intervenir en la zona comprendida entre el Hotel Inglaterra y la parada de taxis, donde el pavimento está levantado y supone un verdadero peligro para peatones y especialmente para los conductores de motos». 
+
+
+Jáuregui recordó que «desde el Grupo Popular ya denunciamos en octubre del año pasado el estado de la vía pública y calzada en nuestra ciudad. Presentamos más de tres mil imágenes como una pequeña muestra del estado lamentable en el que se encuentra la vía pública de la ciudad». 
+
+
+Arreglo del acerado
+Además, la concejal popular recordó que en octubre «presentamos una propuesta para que el gobierno de Espadas realizara un plan de choque para el arreglo del acerado, las calzadas, pinturas de la vía pública de las señales viales, así como los pasos de cebra. Algo que parece no es una prioridad de este gobierno», manifestó Jáuregui. 
+
+
+En lo referente al estado en el que se encuentran los bancos de la Plaza Nueva, estos son empleados, según su crítica, como «despensas o lugares donde personas sin hogar alojan sus enseres personales. Solo hay que darse una vuelta, a partir de media tarde para comprobar este hecho, invitamos al señor Espadas a salir del despacho y que vea la realidad, el estado y la suciedad de la plaza, y tome medidas urgentes». 
+
+
+El PP asegura que por las noches, las personas sin hogar ocupan bancos, así como portales de edificios. «Siendo sensibles a las situaciones tan delicadas de estas personas, esto es un absoluto fracaso de los servicios sociales del Ayuntamiento, puesto que el gobierno municipal debe ofrecer recursos sociales a estas personas». 
+
+
+La concejal popular destacó, asimismo, que «es necesario revisar los motivos ornamentales de la plaza porque muchos de ellos o faltan o se encuentran en mal estado». Recuerda el PP que a principios de año, la Gerencia de Urbanismo publicaba en prensa el incremento del presupuesto en un 25% con respecto a 2019, «para conservación de monumentos públicos y mobiliario ubicados en espacios públicos y emblemáticos». 
+
+
+
+«Es necesario revisar los motivos ornamentales de la plaza porque muchos de ellos o faltan o se encuentran en mal estado»
+
+
+
+Uno de los temas que más «indignación» ha provocado para los populares es la suciedad de la Plaza Nueva. «Es del todo nauseabundo el estado de determinadas zonas de la Plaza Nueva, donde o no se limpia o falla clamorosamente la manera en la que se hace. Esta denuncia no es nueva, puesto que en el pasado mes de septiembre demostramos con un simple gesto el grado de suciedad incrustada que tenía el suelo de la Plaza Nueva».
+
+
+En este sentido, recuerda la concejal popular que «si bien el Gobierno local reaccionó rápidamente procediendo a una concienciada limpieza, semanas después la Plaza Nueva volvió a su estado de suciedad habitual. Basta pasear por el entorno de los aparcamientos para bicicletas para ver y pisar excrementos de aves incrustados en el suelo que deterioran y dañan la imagen de este lugar».</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 17:49:40 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-pp-denuncia-degradado-indigno-estado-encuentra-plaza-nueva-sevilla-202002241749_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>El padre del bebé muerto en El Cerezo niega que le dieran un golpe o lo zarandeara</title>
+<link>https://sevilla.abc.es/sevilla/sevi-padre-bebe-muerto-cerezo-niega-dieran-golpe-o-zarandeara-202002241621_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static3-sevilla.abc.es/media/sevilla/2020/02/24/s/acusados-bebe-cerezo-kijC-U55687400557QTy-620x349@abc.JPG&quot;&gt;La Audiencia de Sevilla ha acogido este lunes la segunda sesión del juicio con jurado contra Bryan S.R.G. y Ruth F.G., padres del bebé de seis meses fallecido en junio de 2017 en el Hospital Virgen Macarena de la capital por una fractura en el cráneo y síntomas del síndrome del bebé zarandeado. Hoy ha sido el turno del interrogatorio a los dos acusados. El padre, que se enfrenta a la prisión permanente revisable acusado del asesinato de su hijo, ha negado que le haya dado un golpe o lo zarandeara bruscamente, insistiendo en que el niño de atragantó tomando el biberón de leche y por ello acudió al centro hospitalario. 
+
+
+La madre del bebé, para quien la Fiscalía solicita año y medio de cárcel por un delito de malos tratos y otro de abandono de familia, ha negado igualmente que su expareja le diera un golpe al hijo de ambos. Los dos han coincidido en apuntar a una amiga, Raquel, como la posible autora del golpe que pudo acabar con la vida de su hijo. Ella fue quien bajo al bebé por las escaleras del bloque de la calle Playa de Valdelagrana, del barrio del Cerezo, donde vivían los acusados de okupas. 
+
+
+Era un quinto piso y bajó las escaleras corriendo porque el niño se estaba ahogando. Tanto el padre como la madre han señalado que hay vecinos del barrio que han escuchado a esta mujer decir que «le dio un golpe sin querer» al niño al bajar las escaleras, «pero no se quiere comer el marrón», han añadido los acusados. 
+
+
+Esta teoría ya fue planteada por la defensa de Bryan S.R.G. en el primer juicio celebrado el pasado año y que tuvo que ser suspendido y anulada la prueba por el intento de suicidio del acusado. 
+
+
+La madre ha admitido este lunes que no acudió a algunas citas médicas, hechos que podrían constituir el delito de abandono de familia. Además, ha asegurado que en una sola ocasión discutió con su pareja porque al darle masajes al bebé para que éste tomara correctamente el biberón le hizo unas marcas en la cara. Es el único episodio de maltrato por el que acusan a ambos. 
+
+
+Fumaban porros
+Los dos también 
+
+han reconocido que fumaban porros
+. Ella ha dicho que incluso delante del niño, mientras él ha asegurado que salían al balcón. Semanas antes del 12 de junio de 2017, cuando tuvieron que acudir al hospital con el bebé, que murió cinco días después, comenzó a vivir con ellos esta amiga, Raquel. Todos en situación ilegal en el piso. De hecho, los acusados han mantenido que ella se quedó a vivir allí cuando fueron detenidos, aunque el jefe del Grupo de Homicidios de la Policía Nacional, instructor de la investigación, ha dicho que no le consta.
+
+
+Precisamente, la declaración de este inspector en el juicio ha vuelto a causar bastante protestas por parte de las defensas, sobre todo, por las respuestas que iba dando el agente a las preguntas de la fiscal. De hecho, el abogado del acusado ha ironizado sobre las contestaciones del jefe policial: &quot;Usted cree mucho&quot;. 
+
+
+El agente, como ya hiciera en el primer juicio, ha dado respuestas muy extensas y detalladas de la investigación, lo que ha provocado que el propio abogado defensor le interrumpiera, con la correspondiente llamada de atención de Mercedes Alaya. 
+
+
+Manipulación de testigos
+Ha afirmado que las vecinas y amigas trasladaron a los agentes que las discusiones y peleas entre la pareja de acusados eran continuas. De hecho, una de ellas le dijo que oyó golpes el día 12 en la casa de los acusados y momentos después vio a Raquel bajando con el niño por las escaleras. 
+
+
+Según el jefe del Grupo de Homicidios, sólo Bryan S.R.G. estaba en el piso en el tramo horario en el que ocurrieron los hechos que causaron la muerte del bebé. 
+
+
+Por último, el agente ha acusado a Ruth F.G. de amenazar y manipular a testigos como su hermana Libertad y su amiga Raquel. Incluso, la acusada dañó el vehículo de su excuñado.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 16:21:49 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-padre-bebe-muerto-cerezo-niega-dieran-golpe-o-zarandeara-202002241621_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>El distrito Cerro-Amate tendrá  caseta propia en la Feria de Abril 2020</title>
+<link>https://sevilla.abc.es/sevilla/sevi-distrito-cerro-amate-tendra-caseta-propia-feria-abril-2020-202002241454_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/24/s/casetas-feria-sevill-U65330438341nhP-620x349@abc.jpg&quot;&gt;El Ayuntamiento de Sevilla, a través de la Delegación de Gobernación y Fiestas Mayores, ha adjudicado cinco casetas que han quedado vacantes para la Feria de Abril de 2020 y ha optado por utilizar una de ellas para destinarla al Distrito Cerro-Amate, que hasta ahora compartía espacio con el Distrito Este-Alcosa-Torreblanca. Esta adjudicación, que aún tiene que ser ratificada por la Junta de Gobierno Local, se ha aprobado hoy en la Comisión de Fiestas Mayores del Ayuntamiento y también contempla que las cuatro restantes se repartan entre las categorías de &#039;Familiares&#039;, a la que se adjudica dos casetas, &#039;Entidades&#039; y &#039;Titularidad perdida&#039;, con una cada una respectivamente. 
+
+
+Así, la propuesta de adjudicación aprobada hoy ha sido realizada por el Área de Fiestas Mayores, siguiendo los criterios técnicos establecidos en la Ordenanza Municipal de la Feria de Sevilla, una vez finalizado el plazo de pago de las tasas de concesión de casetas. 
+
+
+En primer lugar, dicha propuesta incluye para el Distrito Cerro-Amate se destine la mayor de las casetas que ha quedado vacante. Se trata de una caseta de tres módulos, cuya titularidad ha sido retirada por parte de Fiestas Mayores. Así, la Feria de Abril pasará de seis casetas de Distritos a contar con un total de siete. El delegado de Gobernación y Fiestas Mayores, Juan Carlos Cabrera, ha destacado que «el objetivo de esta iniciativa es que el Distrito Cerro-Amate disponga de una caseta propia en el Real al ser uno de los mayores en población de la ciudad y dado que, hasta ahora, compartía espacio con otro de los más habitados como es Este-Alcosa-Torreblanca». Para Cabrera, «esta decisión supone dotar a la Feria de Abril de una nueva caseta pública de libre acceso para disfrute de todos los sevillanos y sevillanas y de quienes nos visitan». 
+
+
+Asimismo, la propuesta también contempla la adjudicación de las otras cuatro casetas, todas ellas de un módulo cada una, a solicitudes inscritas en las tipologías de &#039;Familiares&#039;, &#039;Entidades&#039; y &#039;Titularidad perdida&#039;. Para el reparto, se ha tenido en cuenta que el número total de solicitudes pendientes de adjudicación asciende a 1.199, siendo 728 para &#039;Familiares&#039;, 417 para &#039;Entidades&#039; y 54 para &#039;Titularidad perdida&#039;. De este modo, siguiendo los criterios de proporcionalidad de las solicitudes existentes tal y como establece la Ordenanza Municipal de la Feria de Sevilla, se ha optado por destinar dos casetas a la categoría &#039;Familiares&#039;, al ser la que concentra el mayor número de solicitudes, y las dos restantes a &#039;Entidades&#039; y &#039;Titularidad Perdida&#039;, respectivamente. 
+
+
+Estas otras cuatro casetas han quedado vacantes por distintos motivos, como no presentar la solicitud en plazo, retirada de la titularidad por parte del Área de Fiestas Mayores o no realizar el abono de las tasas en el plazo previsto para ello.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 14:54:31 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-distrito-cerro-amate-tendra-caseta-propia-feria-abril-2020-202002241454_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>El próximo lunes se iniciarán las obras del nuevo colector y bulevar verde en la Ronda de Tejares</title>
+<link>https://sevilla.abc.es/sevilla/sevi-proximo-lunes-iniciaran-obras-nuevo-colector-y-bulevar-verde-ronda-tejares-202002241332_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static2-sevilla.abc.es/media/sevilla/2020/02/24/s/espadas-reurbanizacion-triana-k9JD--620x349@abc.jpg&quot;&gt;El Ayuntamiento, a través de la empresa pública de aguas Emasesa en coordinación con el Distrito Triana, iniciará la primera semana de marzo las obras de sustitución del colector de la Ronda de Tejares, desde Ronda de Triana hasta la Avenida de Blas Infante y la reurbanización integral de la zona afectada por las mismas (que incluye la propia Ronda de Tejares y la Barriada del Carmen).
+
+
+Con 9,86 millones de euros de presupuesto total y un plazo de ejecución de año y medio –hasta septiembre de 2021–, el proyecto contempla crear un gran bulevar con criterios medioambientales en la Ronda de Tejares, con un amplio paseo peatonal, más arboleda e iluminación, pavimento drenante y distintos equipamientos y mobiliario, en cuyo diseño se dará participación a las asociaciones vecinales, y todo ello con mantenimiento de plazas de aparcamiento.
+
+
+La complejidad de este proyecto y su duración han llevado a gestar una comisión de coordinación de servicios municipales –Emasesa, Gerencia de Urbanismo, Parques y Jardines, Movilidad, Tussam y Lipasam y el Distrito Triana– y a planificar los trabajos en seis fases o tramos de obras, con objeto de reducir en lo posible las molestias a los vecinos y su afección a la circulación. Teniendo en cuenta que las obras arrancarán el 2 de marzo en el tramo situado entre Arcángel San Miguel y la Avenida de Coria, las fases son las siguientes:
+
+
+• Tramo 1: Arcángel San Miguel-Avenida de Coria. De marzo de 2020 a abril de 2021.
+
+
+• Tramo 2: Manuel Arellano, confluencia con calle Castilla-Ronda de Triana. De abril de 2020 a febrero de 2021.
+
+
+• Tramo 3: San José de Calasanz, desde los Viveros de Los Remedios hasta su confluencia con Rubén Darío. De julio de 2020 a febrero de 2021.
+
+
+• Tramo 4: Rubén Darío-Arcángel San Miguel. De agosto de 2020 a febrero de 2021.
+
+
+• Tramo 5: Avenida de Coria- San Vicente de Paúl (justo frente a la Barriada de la Dársena). De diciembre de 2020 a julio de 2021.
+
+
+• Tramo 6: San Vicente de Paúl-Miguel Arellano. De enero de 2021 al mes de septiembre de 2021.
+
+
+«La duración de las fases es aproximada, puesto que la obra se intentará acelerar en lo posible. Se trata de una gran obra de ciudad, que complementa al nuevo colector de Niebla, ejecutado hace dos años, y que conforman una gran infraestructura para prevenir inundaciones en los barrios de Los Remedios y Triana», según ha explicado la delegada del Distrito Triana, María Encarnación Aguilar.
+
+
+Cambios en el tráfico
+Durante estas obras se habilitará el Charco de la Pava –la zona donde se localiza el Circo del Sol y el entorno del Centro Deportivo Vega de Triana– como aparcamiento provisional con entrada por el paso inferior que hay frente a la calle Fray Tomás de Berlanga –el paso peatonal de entrada al Parque Vega de Triana–, eliminando para ello los bolardos fijos existentes en la actualidad. Se está tramitando con Urbanismo dotar de alumbrado público el interior para facilitar el acceso a los vehículos y para mayor seguridad de los usuarios.
+
+
+Desde el Área de Movilidad se ha elaborado un plan de tráfico con alternativas para las entradas y salidas de las calles afectadas por las obras y que tendrán en cuenta las distintas fases de ejecución del proyecto. Junto con los avisos por obras, se irán colocando las correspondientes placas para informar sobre los desvíos y cambios de sentido de la circulación.
+
+
+Durante la ejecución del proyecto de obras se verá afectada la Línea 43 de Tussam (Plaza de la Magdalena-El Tardón), aunque esta afección no llegará hasta después de Semana Santa. Entonces, esta línea realizará su recorrido por la Ronda de Triana y se habilitarán alternativas para dar servicio a la zona Turruñuelo-Coruña-Avenida de Coria. A partir de agosto, la afección alcanzará también a la Línea 40 (Plaza de la Magdalena-Triana).
+
+
+En todo caso, la empresa municipal de transportes irá informando a los usuarios de la ubicación de las paradas y el recorrido alternativo por las calles interiores que confluyen en Ronda de Triana y la Barriada del Carmen.
+
+
+El gran bulevar
+La propuesta realizada desde Emasesa es crear un gran bulevar para el disfrute y el paseo de vecinos y vecinas a lo largo de toda la Ronda de Tejares con unos criterios medioambientales y contra el cambio climático, además de instalar equipamientos vecinales y mobiliario que se irán perfilando en próximos meses con la participación del Distrito Triana y las entidades vecinales.
+
+
+El bulevar llevará:
+
+
+• Un amplio acerado peatonal, que rondará los 10 metros de ancho.
+
+
+• Dos bandas de arbolado y parterres.
+
+
+• Entre ambas se colocará pavimento drenante para una mejor absorción del agua de lluvia y, además, que la retenga para el riego natural de la vegetación y el arbolado.
+
+
+• El mantenimiento del arbolado existente salvo en aquellos casos puntuales. Incremento del número de árboles –al finalizar, la masa arbórea será superior a la actual– y parterres.
+
+
+• Línea de farolas dobles de alumbrado entre las dos bandas de la arboleda, reforzando así la iluminación de la zona para atender el paseo y los nuevos equipamientos y para mayor sensación de seguridad.
+
+
+El trazado del nuevo colector discurrirá paralelo al antiguo –se desplaza a mitad de la ronda–, evitando así que afecte a las raíces de los árboles que actualmente tiene el antiguo, puesto que este último discurre ahora pegado al Muro de Defensa. Se han realizado cambios con respecto al diseño inicial del trazado y se ha optado por dejar el antiguo colector enterrado y con su interior sellado en vez de sacarlo, para así no perjudicar a las raíces de la arboleda. El diseño final, además, será compatible con el mantenimiento de plazas de aparcamiento en la zona.
+
+
+Se cambiarán casi 2,5 kilómetros de tuberías que alcanzan en sus tramos principales hasta los 3 metros de diámetros, que requieren una maquinaria muy especializada y de grandes dimensiones.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 13:32:35 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-proximo-lunes-iniciaran-obras-nuevo-colector-y-bulevar-verde-ronda-tejares-202002241332_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>El militar brasileño detenido en San Pablo tenía que entregar la cocaína a otra persona en Alcampo</title>
+<link>https://sevilla.abc.es/sevilla/sevi-militar-brasileno-detenido-san-pablo-tenia-entregar-cocaina-otra-persona-alcampo-202002241239_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/24/s/droga-bolsonaro-sevilla-kKNB--620x349@abc.jpg&quot;&gt;Manoel Silva Rodriguez, el militar brasileño que formaba parte de la comitiva del presidente Jair Bolsonaro y que fue pillado en el aeropuerto de Sevilla con 37 kilos de cocaína, ha sido juzgado este lunes y se ha mostrado «profundamente arrepentido», al tiempo que ha explicado que tenía que entregar la droga a una persona en el centro comercial Alcampo. Ha aceptado una condena de seis años y un día de cárcel por un delito contra la salud pública y una multa de dos millones de euros.
+
+
+Este lunes estaba señalado el juicio contra Silva en la Sección Séptima. Inicialmente se enfrentaba a ocho años de cárcel y una multa de cuatro años, pero tras confesar la Fiscalía ha rebajado la petición de condena. 
+
+
+Silva ha reconocido los hechos, se ha mostrado «profundamente arrepentido» y ha aceptado seis años y un día de cárcel y pagar dos millones de euros de multa. El juicio ha quedado visto para sentencia. 
+
+
+«Mi misión era traer la droga a Europa y volver», explicó el militar, cuya defensa han ejercido los letrados Enrique Rojo y Diego Silva. «Quien me la entregó me dijo que su destino era Suiza y que yo debía meterla en Europa», dijo, detallando que tras salir del aeropuerto debería haber llevado esa cocaína al centro comercial Alcampo «sobre las tres o cuatro de la tarde» del día 25 para allí dar la droga a otro hombre a quien «no conocía». 
+
+
+«Tenía que ir con ropa de camuflaje, una camisa verde, y la otra persona me conocería por una foto. Íbamos a quedar en el Burger King y él me haría una señal», explicó.
+
+
+Tenía un sueldo muy bajo
+«Era la primera vez que lo hacía, me arrepiento profundamente y pido perdón al pueblo español y a las autoridades españolas. En 20 años de militar nunca me han abierto un expediente y nunca he tenido ninguna sanción, pero mi sueldo no es muy alto y estaba pasando por dificultades económicas», ha reconocido ante el juez con la ayuda de un intérprete, indicando además que se sacaba un dinero extra vendiendo y comprando móviles.
+
+
+En el juicio han declarado tres guardias civiles y han coincidido en destacar que cuando pasó por el control, fue trasladado a una máquina de rayos X que detectó los bloques y que al ser preguntado éste contestó que «se trataba de queso».
+
+
+No obstante, ante la prohibición de introducir alimentos procedentes de animales de fuera de la Unión Europea uno de los agentes hizo una cata de uno de los bloques con un punzón, «salió polvo blanco y en un primer análisis ya dio positivo en cocaína». Preguntado por si al militar podrían haberle intercambiado las maletas, uno de los agentes ha precisado que «los bloques estaban repartidos en las tres maletas que llevaba mezclados con efectos suyos».
+
+
+Tras su declaración, el fiscal ha modificado sus conclusiones al considerar que el acusado «ha sido sincero y ha reconocido los hechos», motivo por el ha rebajado la pena de prisión a los seis años y ha ordenado la destrucción de la droga.
+
+
+En su último turno de palabra, el acusado ha vuelto a mostrar su arrepentimiento y ha asegurado que cuando regrese a su país volverá con su familia y volverá a trabajar.
+
+
+Su abogado Diego Silva ha precisado que en sentencia el tribunal tendrá que pronunciarse sobre el plazo de la pena que tendrá que cumplir en España. «Lo normal es que una vez que tenga el tercer grado la libertad condicional se sustituya por la expulsión del país y este periodo final de la pena lo cumpla ya en Brasil en libertad», ha precisado.
+
+
+Por último, ha recordado que se hizo una investigación para averiguar el destino de la droga pero «finalmente no fue fructífera y va a ser él el único que asuma toda la responsabilidad». 
+
+
+El militar brasileño formaba parte de una expedición de avanzadilla previa al viaje programado a Japón por el presidente brasileño, Jair Bolsonaro, y fue detenido el 25 junio del año pasado en el aeropuerto de Sevilla con 37 kilogramos de cocaína dentro de una maleta que llevaba consigo.
+
+
+Sobre las 14 horas del 25 de junio de 2019, tras venir junto a otros 20 pasajeros de un vuelo militar de la Brasilian Air Force pasó por el control aduanero del aeropuerto de Sevilla donde la Guardia Civil intervino, en una maleta de su propiedad, «37 bloques rectangulares de una sustancia que debidamente analizada resultó ser cocaína» con un peso de 37 kilos y una pureza base del 80,14 por ciento. Su valor alcanzaba en torno al millón y medio de euros en el mercado clandestino.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 12:39:28 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-militar-brasileno-detenido-san-pablo-tenia-entregar-cocaina-otra-persona-alcampo-202002241239_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>El rector de la Universidad de Sevilla promete tres centros de transferencia tecnológica en la Cartuja</title>
+<link>https://sevilla.abc.es/sevilla/sevi-rector-universidad-sevilla-promete-tres-centros-transferencia-tecnologica-cartuja-202002241232_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static2-sevilla.abc.es/media/sevilla/2020/02/24/s/sevilla-rector-castro-kkaC--620x349@abc.jpeg&quot;&gt;El rector de la Universidad de Sevilla y candidato a la reelección, Miguel Ángel Castro, ha anunciado este lunes la creación de tres grandes centros de transferencia tecnológica en la Isla de la Cartuja. Castro, que ha presentado su programa electoral para un segundo mandato, ha explicado que esos tres grandes centros estarían ubicados en unos terrenos de unas dos hectáreas, unos 20.000 metros cuadrados, muy cerca del futuro edificio del Cateps y la Escuela de Ingenieros, terrenos que son propiedad de la Hispalense y en los que pretende poner en marcha tres edificios para llevar a cabo líneas de transferencias del conocimiento. Estos nuevos complejos se sumarían a otros existentes como el Cabimer o a otros proyectos ya iniciados como el gran centro de innovación en los terrenos del Puerto de Sevilla. Para poner en marcha esa idea, Castro también quiere que se revisen los transportes públicos en la zona, ya que cuando la Politécnica se traslade al edificio de la Cartuja habrá 13.000 estudiantes en la zona. 
+
+
+El rector, que ha dicho presentar «un proyecto ambicioso para seguir transformando la universidad en el segundo ciclo», también ha explicado que la Hispalense está en un momento crucial de cambios y muy importante. «La Universidad de Sevilla está en un momento de tremendos cambios y grandísimos retos. Tengo un proyecto ambicioso y comprometido para los próximos cuatro años», ha dicho Castro, que se presenta con un programa denominado 
+«Constelacion Taurus».
+
+
+Próximos proyectos
+Basándose en el plan estratégico 2018-2025 de la Universidad de Sevilla, Castro incluye en su programa proyectos ya conocidos como el traslado a la Cartuja, al edificio de Cateps, de la Escuela Politécnica, para el curso 2021-2022, terminar el Campus de Humanidades en la Fábrica de Tabacos, la transformación de la Facultad de Farmacia, culminar la Escuela de Ingeniería Agronómica, el campus de la Facultad de Medicina en la zona de la Macarena y dar una solución a las Escuelas de Ingenería y Edificación en Reina Mercedes. 
+
+
+En el programa también hay un proyecto de transformación digital que supondrá eliminar el papel e incrementar la formación no presencial on line, sobre todo en los másteres, y un importante proyecto de rejuvenecimiento de la Universidad de Sevilla. En este sentido, Castro ha explicado que actualmente la edad de la plantilla de profesores de la Hispalense es alta ya que la media de edad los profesores es de 53 años y de 59 en los catedráticos por los que pretende que salgan nuevas convocatorias por áreas de conocimiento, aunque ese proyecto estará ligado a la financiación y a que se flexibilice la normativa para ello.
+
+
+El rector también ha incluido en su programa un estudio del adelanto de los exámenes de septiembre a julio. Según ha explicado, en los primeros meses del periodo de gobierno, hará un análisis de como va en otras universidades y sus ventajas e inconvenientes. «Creo que es importante que escuche antes de emitir una opinión, porque puedo condicionar el posicionamiento», ha dicho explicando que sería importante ver cómo ha variado la tasa de éxito de los segundo exámenes en otras universidades.
+
+
+Castro ha comenzado hoy su campaña, durante la cual visitará a distintos colectivos, desde los estudiantes, sindicatos o empresarios y el gobierno. Las elecciones son el 19 de marzo y el rector espera el máximo apoyo.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 12:32:10 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-rector-universidad-sevilla-promete-tres-centros-transferencia-tecnologica-cartuja-202002241232_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>Las seis noticias que debes conocer hoy, lunes 24 de febrero</title>
+<link>https://sevilla.abc.es/sevilla/sevi-seis-noticias-debes-conocer-lunes-24-febrero-202002240944_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static3-sevilla.abc.es/media/sevilla/2020/02/24/s/seis-noticias-lunes-kSeD--620x349@abc.jpg&quot;&gt;Buenos días, estas son las noticias del lunes 24 de febrero que debes conocer. [Si te perdiste las noticias imprescindibles del pasado viernes, puedes leerlas haciendo clic en este enlace].
+
+
+
+1. Nueve de cada diez viajeros vendrían a Sevilla a pesar de la tasa turística. La propuesta del Ayuntamiento de Sevilla de crear una tasa turística no encuentra rechazo entre los viajeros que visitan la ciudad. Sólo uno de cada diez cambiaría de destino por este gravamen, como recoge la encuesta anual que realiza el equipo de Turismo Sevilla con más de 4.500 entrevistas a visitantes de una decena de nacionalidades.
+
+
+Entre las cuestiones que se les ha planteado está si seguirían viviendo a la capital andaluza aunque se les cobrase un impuesto de un euro diario por pasar la noche. El 88, 7 por ciento de los consultados aseguró que vendría igualmente; mientras que otro 9,82 por ciento respondió que no seguiría viniendo. Apenas un 1,45 por ciento evitó pronunciarse.
+
+
+Estos datos refuerzan todavía más la determinación del Consistorio para dar curso a la medida, que no tiene un camino fácil. Precisa de un apoyo del Gobierno andaluz para imponerla en todo el territorio o un cambio de la Ley de Haciendas Locales para que cada municipio pueda crearla a título individual. En el primer caso, no hay un consenso general para aplicarla como ya hacen las comunidades de Cataluña y Baleares. En el segundo, sería necesaria la colaboración del Ejecutivo central para articular tal modificación. De una forma u otra, el Ayuntamiento sevillano no cejará en el empeño.
+
+
+
+2. Pablo Casado fulmina a Alfonso Alonso y rescata a Iturgaiz como candidato a lendakari. La crisis del PP vasco acabó estallando entre las manos a Pablo Casado de mala manera. Cuando parecía que las aguas habían vuelto, más o menos, a su cauce al aceptarse desde Vitoria la coalición electoral con Ciudadanos, Alfonso Alonso soltó el bombazo en Twitter a las 18.47, al anunciar que el presidente Pablo Casado le acababa de comunicar que no sería candidato a las elecciones vascas del 5 de abril. El secretario general, Teodoro García Egea, convocó a los medios de comunicación a las ocho de la tarde y anunció que el nuevo candidato a lendakari será Carlos Iturgaiz.
+
+
+El choque entre el PP vasco y la dirección nacional ha sido dramático hasta el final. La confianza entre Alfonso Alonso y Génova estaba totalmente rota, y así era prácticamente imposible no solo encarar unas elecciones autonómicas, sino mantener una relación política, dentro de un mismo partido, que fuera normal.
+
+
+Con este golpe de autoridad de Casado, Génova envía un aviso a otros barones y dirigentes territoriales, que han visto con crudeza cuál es el resultado de enfrentarse a Génova, sobre todo cuando no se tiene fuerza política o votos, como era el caso de Alonso. En Galicia, Feijóo puede imponer sus condiciones e incluso rechazar la coalición con Ciudadanos. Pero el presidente gallego se encamina hacia su cuarta mayoría absoluta. Nadie en el PP está, ahora mismo, en su posición ni con su fuerza.
+
+
+
+3. Andalucía cobrará tasas por utilizar museos, grabar aves silvestres y el control de la contaminación. Cuando el Parlamento andaluz aprobó su primera Ley de Tasas y Precios Públicos gobernaba el país Felipe González. José Rodríguez de la Borbolla presidía el Gobierno autonómico y Juanma Moreno iba al instituto. La selección española había protagonizado una enorme decepción, otra más, al caer en la primera fase de la Eurocopa. Y los niños se reían delante del televisor con la bruja Avería y los electroduendes de «La Bola de Cristal».
+
+
+El mundo ha cambiado mucho en 31 años. Pero no la norma que regula las tasas y precios públicos en Andalucía. Vigente desde 1988, es la ley más antigua de España en esta materia. Se ha quedado tan obsoleta que recogía tasas por servicios públicos que ya ni siquiera se prestan, como la cuota de suscripción del Boletín Oficial de la Junta de Andalucía (BOJA) en papel, que no se imprime desde mayo de 2012, así como otros trámites que han pasado a desempeñar diferentes administraciones. El ejemplo más claro es la tasa que grava la vivienda de protección oficial, cuya calificación provisional y definitiva compete desde el año 2010 a los ayuntamientos.
+
+
+A falta de una regulación homogénea, durante más de tres décadas las distintas consejerías han parcheando la ley existente mediante una treintena de normas distintas, entre leyes de presupuestos y decretos especiales, creando una maraña tan dispersa y tupida que a veces hasta los funcionarios podían perderse en ella.
+
+
+
+4. El coche eléctrico en Sevilla: o paga o lo carga en su garaje. Sevilla, la primera ciudad española que ha declarado la emergencia energética en Pleno municipal, mantiene apagada desde hace más de tres años su red pública de carga de coches enchufables.
+
+
+La infraestructura ya existe. Se creó en 2012 con 75 puntos situados en varias vías principales, garajes de hoteles, centros comerciales, sedes de empresas municipales y aparcamientos subterráneos. Fue el llamado proyecto «Movele», que contó con una generosa financiación europea que hizo de la ciudad un ejemplo para la proliferación de este tipo de coches. Pero el sueño verde apenas duró un lustro, cumpliendo el plazo mínimo para no tener que devolver las ayudas.
+
+
+Tras el abandono de la red de electrolineras, la capital andaluza se sitúa a la cola en la apuesta por el coche eléctrico que gana terreno en los núcleos más poblados. La situación contrasta con ejemplos como Barcelona, que cuenta con más de un centenar o Madrid, que tiene alrededor de cincuenta.
+
+
+
+5. Italia blinda el norte ante la expansión del coronavirus. Aumenta de forma exponencial la epidemia del coronavirus en Italia. Son tres las muertes -una mujer de Cremona en Lombardía es la tercera víctima- y 162 personas infectadas, según el balance de la tarde del domingo. Solo en Lombardía hay 89 contagiados, y 25 en Véneto.
+
+
+Tras el decreto ley del Gobierno con medidas extraordinarias, las autoridades locales están aprobando también ordenanzas con duras restricciones. Se suspenden clases en escuelas y universidades de regiones del norte, se cierran pubs y discotecas en Lombardía y se suspende el Carnaval de Venecia. «Cierra el norte», titulan algunos medios.
+
+
+«Madre mía, parece que estamos en guerra, no se ve a nadie en el pueblo». Así saluda Giuseppina, una vecina de Castiglione d’Adda (Lodi), municipio de 4.700 habitantes, que constituye el epicentro del foco de la epidemia, porque de aquí es originario el «Paciente Uno», de nombre Mattia Y. M., una persona atlética y deportista, de 38 años, el primer contagiado por el coronavirus.
+
+
+
+6. Todas las galerías de fotos del Zurich Maratón de Sevilla 2020. El etíope Mekuant Ayenew Gebre y la ugandesa Juliet Chekwel se han proclamado este domingo vencedores, con récord de la prueba, del Zurich Maratón de Sevilla 2020, una carrera que ha valido también como Campeonato de España y que ha coronado a Javi Guerra y a Marta Galimany, que además han logrado su billete para los Juegos Olímpicos de Tokio.
+
+
+En una prueba que repitió por tercer año consecutivo la Etiqueta de Oro de World Athletics, los atletas etíopes y kenianos se escaparon superado el ecuador de la carrera en categoría masculina. El etíope asestó el golpe definitivo en el kilómetro 35, y entró en solitario en meta marcando 2:04:46, la mejor marca mundial de la temporada, mejor marca personal y que redujo en dos minutos la referencia del año pasado de su compatriota Ayana Tsedat (2:06:36).
+
+
+En la categoría femenina, la debutante Chekwel cruzó la línea de llegada en 2:23:13, más de un minuto por debajo de la marca récord de la edición anterior de la etíope Gutemi Shone Imana (2:24:29). La etíopes Gada Bontu (2:23:39) y Sifan Melaku (2:23:49), también más rápidas que la ganadora de 2019, se subieron al segundo y al tercer cajón del podio, respectivamente.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 09:44:40 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-seis-noticias-debes-conocer-lunes-24-febrero-202002240944_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>Cirujanos del Virgen del Rocío de Sevilla operarán tumores, hernias, tiroides y lipomas en Uganda</title>
+<link>https://sevilla.abc.es/sevilla/sevi-cirujanos-virgen-rocio-sevilla-operaran-tumores-hernias-tiroides-y-lipomas-uganda-202002240721_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/21/s/viaje-uganda-rocio-U04186715732leo-620x349@abc.jpeg&quot;&gt;Un equipo de nueve profesionales del Hospital Universitario Virgen del Rocío ha viajado hasta Kamutur en Uganda, en colaboración con la Fundación Cirujanos en Acción, para intervenir a personas de la región que presenten problemas de salud, principalmente con hernias y patología de tiroides. 
+
+
+En total, prevén atender a unos 150 pacientes en quirófanos además de en consultas, durante diez jornadas que se extenderán hasta el 3 de marzo. Entre los procedimientos que habitualmente resuelven en estos países se encuentran las hernias inguinales y umbilicales, lipomas o fibroadenomas gigantes, bocios y otra patología de tiroides, eventraciones, tumores y enfermedades varias en régimen ambulatorio. 
+
+
+Los profesionales van preparados para aplicar anestesias locales con sedación, raquídeas y generales con intubación orotraqueal. Todo ello, en un hospital local en construcción que dispone de dos zonas de quirófano y hospitalización para el postparto. La idea es que los pacientes puedan resolver su problema de salud en un solo acto quirúrgico y al día siguiente puedan regresar a casa para reincorporarse a su vida cotidiana. 
+
+
+Para preparar el viaje de cooperación, la Unidad de Esterilización del Virgen del Rocío ha cedido un espacio como almacén y ayuda en las labores necesarias, y la Unidad de Electromedicina ha proporcionado materiales que se emplearán en destino. Además, el Fondo de Cooperación al Desarrollo y Ayuda Humanitaria del Servicio Andaluz de Salud ha concedido los permisos para este viaje humanitario. 
+
+
+El grupo de voluntarios que ha desarrollado el proyecto está formado por nueve profesionales del Hospital Universitario Virgen del Rocío y cuenta además con el apoyo de toda la Unidad de Anestesiología y Rehabilitación y de Cirugía General y del Aparato Digestivo, que han facilitado el apoyo necesario a los integrantes de este proyecto para que puedan desplazarse hasta Kamutur. 
+
+
+Se trata de las enfermeras María del Mar Martínez Gómez y Mariló González Sobrino; Diego Angulo González, radiólogo; las anestesiólogas Inmaculada Benítez Linero y Guiomar Rosel Fernández; los especialistas en Cirugía General y Aparato Digestivo Manuel Bustos Jiménez, Abdul Razak Muchref, Ana Senent Boza, y Eduardo Perea del Pozo, quien además es el responsable de la misión ante la Fundación Cirujanos en Acción y promotor de esta iniciativa cuando era médico residente en el hospital sevillano. 
+
+
+Otros voluntarios del hospital se han sumado al proyecto prestando apoyo logístico durante toda la etapa de preparación de la misión. La recopilación del material es fruto del aprovechamiento de recursos que dispone el Hospital Universitario Virgen del Rocío, así como a la ayuda recibida desde otras empresas externas.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 07:21:13 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-cirujanos-virgen-rocio-sevilla-operaran-tumores-hernias-tiroides-y-lipomas-uganda-202002240721_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>Manuel López Soriano: «Nuestro incienso “Los tres Reyes” se ha quemado en el Panteón de Agripa»</title>
+<link>https://sevilla.abc.es/sevilla/sevi-manuel-lopez-soriano-nuestro-incienso-tres-reyes-quemado-panteon-agripa-202002240719_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/24/s/manuel-lopez-soriano-kwd--620x349@abc.jpg&quot;&gt;Manolo y su hermano Antonio forman la cuarta generación de un negocio que lleva 175 años dando luz y olor a la Cuaresma y a la Semana Santa sevillana. 
+
+
+Además de las hermandades, los conventos y las parroquias, en la clientela de este supermercado espiritual del Salvador (hoy en Álvarez Quintero) se encuentran personas que se quieren llevar a sus casas y a sus países de origen «el olor de la Semana Santa sevillana».
+
+
+Hagamos historia. Ustedes comenzaron lejos de El Salvador.
+
+
+Así es. Nuestro negocio comenzó en 1845 en la finca de mi bisabuela Rosario en La Puebla del Río, donde se empieza a elaborar nuestras primeras vela.
+
+
+Imagino que de los bosques que rodeaban el cortijo familiar sacaban sus bisabuelos la cera y la miel para el negocio.
+
+
+Cierto. La finca estaba rodeada de un frondoso eucaliptal donde se ubicaban las colmenas en los propios árboles y allí obtenían la materia prima.
+
+
+Una venta que era, entonces, más doméstica que religiosa.
+
+
+Efectivamente. El alumbrado que hoy conocemos era prácticamente inexistente. En las casas, para iluminarlas, se empleaban lámparas de aceite y velas.
+
+
+¿Por qué sus bisabuelos deciden dejar La Puebla del Río e instalarse en El Salvador?
+
+
+Vinieron buscando el progreso empresarial y un mercado más amplio.
+
+
+En El Salvador montan fábrica, comercio y vivienda en una casa de tres plantas. Un tres en uno, ¿no?
+
+
+(Risas) Totalmente. Un tres en uno que tuvo que serles muy práctico aunque estuvieran un poquito apretados.
+
+
+¿La electrificación de Sevilla obligó a reinventar el negocio?
+
+
+Evidentemente. Digamos que el negocio focaliza su mercado en la venta de velas, bujías y derivados. En las fotos familiares se visualiza perfectamente esa transición. En las primeras fotos aparece la tienda solo con velas y después se van introduciendo imaginería religiosa y objetos litúrgicos. Según la temporada, la tienda llegó a vender muñecas de juguete para los Reyes.
+
+
+Hoy están ustedes en la calle Álvarez Quintero, con un retrato de su bisabuelo como tributo a su emprendimiento y se han convertido en una especie de supermercado espiritual…
+
+
+Así es. Hoy ofrecemos las velas de siempre, incienso «Los Tres Reyes» e imaginería religiosa, sin olvidar objetos sacros.
+
+
+Déme algunos datos, por favor: ¿cuántos kilos de cera manejan ustedes en la temporada alta?
+
+
+Entre 110.000 y 130.000 kilos anuales. En temporada alta manejamos casi el ochenta por ciento de esa cifra. La cera es nacional.
+
+
+–¿Qué altares son los más iluminados?
+
+
+Los de mayor relevancia que estamos atendiendo son los de El Silencio, el Gran Poder y el Buen Fin.
+
+
+¿Su mercado es local o regional?
+
+
+Nacional. Aunque el acento se pone en el regional y el provincial. Nosotros vendemos desde Cádiz a Almería, aunque también sean clientes hermandades de Madrid, El Ferrol, Barcelona, Valladolid…
+
+
+Hace unos años, en colaboración con la Universidad y Lipassam, crearon ustedes la llamada «cera eco». ¿Qué es eso?
+
+
+Una cera limpia. Su composición es la menos abrasiva para el suelo y la más fácil de limpiar. La que menos residuos deja por llevar menos contenido en aceites y parafinas.
+
+
+¿La cera más pura que ilumina la Semana Santa es la de los palios?
+
+
+Sin duda. La cera de un palio y la de los crucificados es la más olorosa, mantiene las propiedades más naturales y es de ceras de abeja cien por cien, sin añadidos ni aditivos que puedan ser lesivas para las imágenes.
+
+
+Uno de los productos estrellas de su establecimiento es el incienso «Los tres Reyes». ¿De dónde procede y que lo hace distinto a los demás?
+
+
+Procede de Arabia, pero mis bisabuelos le dieron el toque sevillano e inventaron una fórmula que lo hace distinto a los demás. Muchas hermandades usan nuestro incienso como base del suyo, al que le añaden otro aromático para darle un toque más identitario.
+
+
+Hay clientes que cuando lo huelen suelen exclamar: «Éste es el que yo estaba buscando»…
+
+
+Hay clientes que lo dicen gráficamente: «Hombre éste es “El tres Reyes” que yo andaba buscando y no lo que me han dado por ahí».
+
+
+El caso es que ese incienso ha llegado lejos, fuera de Sevilla.
+
+
+Efectivamente. Este incienso se ha quemado en el Panteón de Agripa en Roma, en la Catedral de Niza y, ya mucho más cerca, en la Catedral de Sevilla. Pero muchos clientes extranjeros nos lo piden desde California, México, Francia, Malta. En definitiva, me piden el olor de la Semana Santa que tanto les cautiva.
+
+
+Una cera tan pura y blanqueada al sol como la que hacían sus bisabuelos hace 175 años, ¿se encuentra en el mercado o el mercado pide otras cosas?
+
+
+Sin duda. La cera pura sigue iluminando parte de la Semana Santa como hace más de un siglo.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 07:19:42 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-manuel-lopez-soriano-nuestro-incienso-tres-reyes-quemado-panteon-agripa-202002240719_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>La tasa turística no es problema para nueve de cada diez viajeros que vienen a Sevilla</title>
+<link>https://sevilla.abc.es/sevilla/sevi-tasa-turistica-no-problema-para-nueve-cada-diez-viajeros-vienen-sevilla-202002232342_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/16/s/informe-turistico-sevilla-620x349-kqbC-U15652380636GOZ-620x349@abc.jpg&quot;&gt;La propuesta del Ayuntamiento de Sevilla de crear una tasa turística no encuentra rechazo entre los viajeros que visitan la ciudad. Sólo uno de cada diez cambiaría de destino por este gravamen, como recoge la encuesta anual que realiza el equipo de Turismo Sevilla con más de 4.500 entrevistas a visitantes de una decena de nacionalidades. Entre las cuestiones que se les ha planteado está si seguirían viviendo a la capital andaluza aunque se les cobrase un impuesto de un euro diario por pasar la noche. El 88, 7 por ciento de los consultados aseguró que vendría igualmente; mientras que otro 9,82 por ciento respondió que no seguiría viniendo. Apenas un 1,45 por ciento evitó pronunciarse. 
+
+
+Estos datos refuerzan todavía más la determinación del Consistorio para dar curso a la medida, que no tiene un camino fácil. Precisa de un apoyo del Gobierno andaluz para imponerla en todo el territorio o un cambio de la Ley de Haciendas Locales para que cada municipio pueda crearla a título individual. En el primer caso, no hay un consenso general para aplicarla como ya hacen las comunidades de Cataluña y Baleares. En el segundo, sería necesaria la colaboración del Ejecutivo central para articular tal modificación. De una forma u otra, el Ayuntamiento sevillano no cejará en el empeño.
+
+
+Hotel o piso turístico
+Otra de las cuestiones es el tiempo que se quedan y la vía de reserva. Tanto en un parámetro como en el otro el estudio de Turismo Sevilla difiere de otras como la Encuesta de Ocupación Hotelera del INE, que excluye otras alternativas de alojamiento como las viviendas con fines turísticos y las casas de amigos o familiares. Los viajeros entrevistados se quedan una media de tres días. De ellos, un 35,9 por ciento lo hace en pisos o apartamentos, mientras que otro 32,47 por ciento se hospeda en hoteles de tres y cuatro estrellas. El 21,3 por ciento elige un hostal o una pensión y sólo un 6,7 por ciento lo hace como invitado con familiares o amigos.
+
+
+¿Cómo reservan?
+La manera de contratar el alojamiento es, en más de la mitad de los casos, a través del portal Booking.com para reserva de hoteles y apartamentos turísticos. El 51,5 por ciento lo hace por esta vía, mientras que el 21,1 por ciento utiliza Airbnb, el portal para pisos y casa con fines turísticos. Otro 15,6 por ciento aprovecha las ofertas que les ofrece la web de la aerolínea para reservar y el 9 por ciento restante recurre al propio hospedaje mediante su página de internet o el teléfono. 
+
+
+La previsión a la hora de buscar alojamiento no depende sólo de lo organizado que sea el turista cuando viaja, también de la época. Los meses de mayor ocupación precisan de una mejor planificación, como ocurre en abril y mayo, que coincide con la Semana Santa y la Feria o septiembre y octubre, que son los de mayor ocupación hotelera. Por el contrario, diciembre es el que menos previsión necesita, pues hay mucha disponibilidad en la ciudad. 
+
+
+Sobre la manera de viajar, admiten que lo hacen principalmente en pareja en el 40,1 por ciento de los casos. Le siguen los que optan por visitar otra ciudad con amigos (el 23,03 por ciento) y en tercer lugar, solos (16,94 por ciento). En familia visitó Sevilla un 15,3 por ciento de los encuestados y con los niños, apenas el 2,6 por ciento.
+
+
+
+
+¿Cuánto gastan?
+Otro de los aspectos que se ha analizado es el gasto que hacen y que en 2019 se ha visto afectado por los vaivenes del mercado y la inestabilidad política. El temor del Brexit ha calado de lleno en Reino Unido, el cuarto mercado emisor para Sevilla y de los que mayor poder adquisitivo tienen. El desembolso ha bajado de los casi cien euros diarios por persona en 2018 a los 87,35, unos catorceeuros menos. Recortan en salidas nocturnas y comidas fundamentalmente. Por el contrario, destinan más a alojamiento por el aumento del precio en los hoteles y por la mejora de la calidad en los mismos, pues eligen fundamentalmente los de tres y cuatro estrellas, frente a apartamentos y pensiones.
+
+
+
+El turista que más gasta es el estadounidense, con una media de 103,42 euros al día, aunque también recortó, con unos 17 euros menos. El que menos, el alemán que se deja 75 euros al día, diez menos que el año pasado.
+
+
+La imagen de Sevilla
+Otro de los aspectos interesantes que se analiza es la imagen que el turista tiene de Sevilla antes y después de visitarla. Antes de conocer el destino la consideran por este orden una ciudad monumental, flamenca, de río, de tapas, taurina, de fiestas populares, cosmopolita, de museos, de Murillo y de rodajes. Sin embargo, el orden de percepción cambia significativamente tras la visita y se anteponen aspectos como ciudad cosmopolita que sube de la séptima posición a la cuarta por delante del flamenco y los toros. También gana puestos la gastronomía tras probarla.
+
+
+
+
+El Alcázar, la primera parada del turista
+El Alcázar y las Setas son los primeros lugares que el turista visita cuando llega a Sevilla. Le siguen el entorno monumental de Triana y el barrio de Santa Cruz. La Catedral ocupa el cuarto lugar, mientras que las zonas comerciales de Sierpes-Tetuán y Nervión se colocan en el quinto puestoo. Le siguen por este orden: la Plaza de España y el parque de María Luisa, la Torre del Oro y el río. A mayor distancia se sitúan la Casa Pilatos, el Museo de Bellas Artes y el Archivo de Indias. El Salvador, el Palacio de Dueñas y la Cartuja son los siguientes lugares de interés turístico que mejor valoran los visitantes. En el último lugar están los estadios de fútbol y el Acuario.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Sun, 23 Feb 2020 23:42:14 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-tasa-turistica-no-problema-para-nueve-cada-diez-viajeros-vienen-sevilla-202002232342_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>El coche eléctrico en Sevilla: o paga o lo carga en su garaje</title>
+<link>https://sevilla.abc.es/sevilla/sevi-coche-electrico-sevilla-o-paga-o-carga-garaje-202002232302_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/24/s/coches-electricos-sevilla-kdkE--620x349@abc.jpg&quot;&gt;Sevilla, la primera ciudad española que ha declarado la emergencia energética en Pleno municipal, mantiene apagada desde hace más de tres años su red pública de carga de coches enchufables. 
+
+
+La infraestructura ya existe. Se creó en 2012 con 75 puntos situados en varias vías principales, garajes de hoteles, centros comerciales, sedes de empresas municipales y aparcamientos subterráneos. Fue el llamado proyecto «Movele», que contó con una generosa financiación europea que hizo de la ciudad un ejemplo para la proliferación de este tipo de coches. Pero el sueño verde apenas duró un lustro, cumpliendo el plazo mínimo para no tener que devolver las ayudas.
+
+
+Tras el abandono de la red de electrolineras, la capital andaluza se sitúa a la cola en la apuesta por el coche eléctrico que gana terreno en los núcleos más poblados. La situación contrasta con ejemplos como Barcelona, que cuenta con más de un centenar o Madrid, que tiene alrededor de cincuenta. 
+
+
+
+Los nuevos centros comerciales y grandes superficies han incluido dispositivos de este tipo, pero muchos de ellos son previo pago por el servicio o el tiempo de estancia 
+
+
+
+También la superan Bilbao, Murcia o Zaragoza, todas con menos población y un parque móvil más limitado. Eso sí, disponer de estos dispositivos para la recarga gratuita fomenta la compra de vehículos verdes que contriyen a reducir la contaminación.
+
+
+Hoy la mayor parte de aquellos puntos de «repostaje» de libre acceso que tenía Sevilla están apagados y los propietarios de vehículos ecológicos se ven obligados a recurrir a parkings o complejos comerciales para alimentar las baterías. El mapa de alternativas es limitado, como muestra la apliación electromaps creada para encontrar estaciones de recarga disponibles en tiempo real, en la que se señala con enorme distintivo rojo aquellas que están inuntilizadas.
+
+
+Si el conductor accede a la ciudad por el Patrocinio, que es una de las entradas habituales para los días laborables, los primeros postes de alimentación que encuentra son los de la isla de la Cartuja, donde no queda uno disponible a pie de calle. La empresa Tesla ha instalado cargadores en el garaje de Torre Sevilla, pero suelen ser sólo para los de esta marca y además tienen un coste por el uso. También hay opción en el parking subterráneo de la compañía Insur, que requiere del abono de la tarifa de estacionamiento si se quiere usar.
+
+
+
+El Ayuntamiento está trabajando en un acuerdo con una empresa del sector para una primera experiencia en algunos puntos y posteriormente una licitación a operadores
+
+
+
+De uso exclusivo para clientes son el de Red Española Eléctrica (REE), que se encuentra cerca del rascacielos, y el de la compañía de ingeniería Ayesa. También hay otro en el hotel Barceló Renacimiento para huéspedes y clientes que tiene coste ,al menos, del tiempo de permanencia del vehículo en las instalaciones.
+
+
+Si el conductor abandona la Cartuja y pone rumbo hacia Triana encuentra el primer punto de carga en el hotel Ribera en la plaza de Chapina. De largo tendrá que pasar por el centro comercial Plaza de Armas donde se ubicaba otro que ya no funciona. De camino al Centro sólo cuenta con estaciones en los parkings subterráneos del Arenal, la calle Imagen, el Paseo de ristina, el resto las tienen inutilizadas, según la aplicación. 
+
+
+En el resto de la ciudad tampoco están disponibles los de la avenida San Francisco Javier, ni los del centro comercial Los Arcos, que actualmente está en plena reforma. Sí disponen de electrolineras los nuevos complejos comerciales como Lagoh y Torre Sevilla y concesionarios que atienden en varios polígonos industriales y que los han instalado por la salida al mercado de los primeros modelos enchufables.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Sun, 23 Feb 2020 23:02:38 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-coche-electrico-sevilla-o-paga-o-carga-garaje-202002232302_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>La Policía Local de Sevilla precinta diez bares en las inmediaciones de la Alameda de Hércules</title>
+<link>https://sevilla.abc.es/sevilla/sevi-policia-local-sevilla-precinta-diez-bares-inmediaciones-alameda-hercules-202002231715_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/23/s/patrulla-alameda-bares-k3tF--620x349@abc.jpg&quot;&gt;La Policía Local de Sevilla precintó la pasada madrugada diez establecimientos en el entorno de Alameda de Hércules. Nueve ellos fueron por expender bebidas alcohólicas para su consumo en la calle y uno, en la calle Faustino Álvarez, por superar el doble del aforo permitido. Estas actuaciones se enmarcan en un operativo de inspección policial impulsado por la Delegación de Gobernación del Ayuntamiento. 
+
+
+Siete de los establecimientos precintados por expender bebidas para su consumo en la calle se encuentran en la Alameda de Hércules y los demás están en la calle Peris Mencheta, Miguel de Carvajal y Faustino Álvarez. Este último se clausuró por superar el doble del máximo aforo permitido (115). En el momento de la inspección se encontraban en su interior 260 personas.
+
+
+A última hora de la madrugada se procedió al desalojo de un local en la Avenida de Blas Infante tras una inspección por agentes de Policía Local. Durante la noche se comprobó además el cumplimiento de los precintos realizados en la madrugada de ayer en otros establecimientos de la ciudad.
+
+
+El teniente alcalde y delegado de Gobernación y Fiestas Mayores del Ayuntamiento de Sevilla, Juan Carlos Cabrera, insiste en «el carácter prioritario para su delegación de la protección del derecho al descanso en los barrios de Sevilla y, sobre todo, evitar situaciones de riesgo para los clientes al vulnerar algunos responsables de las actividades hosteleras las normas mínimas de autoprotección en los locales. Por ello, vamos a seguir controlando, especialmente de cara a Semana Santa, cualquier incumplimiento o irregularidad en los establecimientos de la zona de influencia que pueda comprometer la seguridad de los clientes y el tránsito por las zonas peatonales», añade Cabrera.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Sun, 23 Feb 2020 17:15:01 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-policia-local-sevilla-precinta-diez-bares-inmediaciones-alameda-hercules-202002231715_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>La Junta de Andalucía pide al Gobierno central que rebaje el IVA del alquiler de sillas de la Semana Santa</title>
+<link>https://sevilla.abc.es/sevilla/sevi-junta-andalucia-pide-gobierno-central-rebaje-alquiler-sillas-semana-santa-202002231711_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/23/s/silla-semana-santa-kroG--620x349@abc.jpg&quot;&gt;La Junta de Andalucía ha solicitado al Ministerio de Hacienda una reunión para tratar la rebaja del IVA por el alquiler de sillas, tribunas y palcos para ver las procesiones de Semana Santa.
+
+
+El consejero de Hacienda, Industria y Energía, Juan Bravo, ha trasladado esta inquietud a la ministra de Hacienda, María Jesús Montero, tras la última reunión del Consejo de Política Fiscal y Financiera (CPFF) y ahora el secretario general de Hacienda ha solicitado formalmente por carta a la secretaria de Estado de Hacienda una reunión de trabajo en la que «estudiar la posible aplicación del tipo reducido del diez por ciento» en lugar del 21 previsto.
+
+
+Según ha informado el Gobierno andaluz en una nota de prensa, en la carta que la Junta de Andalucía ha remitido al Gobierno de España se pone de manifiesto que «la Semana Santa en Andalucía es un acontecimiento de interés turístico internacional» con una importante «repercusión económica y de empleo».
+
+
+Para justificar el estudio de la rebaja del IVA, el Gobierno de Andalucía ha destacado el «enorme impacto religioso, cultural y turístico» de la Semana Santa, no sólo a nivel nacional sino también internacional y «la gran labor social que realizan las hermandades y cofradías, siendo la actividad descrita -el alquilar de sillas, tribunas y palcos- una fuente relevante de ingresos para las mismas».
+
+
+Por ello, se ha solicitado que la reunión se celebre «a la mayor brevedad posible dadas las fechas en las que nos encontramos» al considerar la Junta que se podría encontrar margen dentro de la Ley del IVA para aplicar el tipo reducido del diez por ciento o incluso estudiando el marco de la Directiva Comunitaria.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Sun, 23 Feb 2020 17:11:11 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-junta-andalucia-pide-gobierno-central-rebaje-alquiler-sillas-semana-santa-202002231711_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>Asociaciones vecinales solicitan un estudio de movilidad por los aparcamientos del centro comercial</title>
+<link>https://sevilla.abc.es/sevilla/sevi-asociaciones-vecinales-solicitan-estudio-movilidad-aparcamientos-centro-comercial-202002231439_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/19/s/parque-quinto-centenario-ker--620x349@abc.png&quot;&gt;Las asociaciones Parque Vivo del Guadaira, Foro de Heliópolis y Bermejales Activa denuncian la desidia de las autoridades ante la «pérdida de calidad ambiental y de accesibilidad» que sufren los barrios del distrito Bellavista-La Palmera. 
+
+
+Para estos vecinos, la apertura del centro comercial en Palmas Altas ha generado problemas de circulación y aparcamiento, que se acentúan los días de partido en el Benito Villamarín. Además, denuncian la generalización de las botellonas «en los parques y su entorno».
+
+
+Estos colectivos insisten en que han dirigido sus peticiones por escrito al alcalde y a los responsables de diferentes áreas municipales, y en repetidas ocasiones a los encargados del distrito, sin haber recibido por el momento solución alguna a sus demandas.
+
+
+En su comunicado, las asociaciones piden que el Ayuntamiento de Sevilla realice, en colaboración con las autoridades pertinentes a nivel autonómico y estatal, un estudio de movilidad relativo al impacto de la puesta en marcha del nuevo centro comercial y de las futuras obras que están previstas en la zona. 
+
+
+Francisco Aguilar, secretario general del Foro de Heliópolis, señala que la falta de aparcamiento en el entorno de la superficie comercial de Palmas Altas lleva a los vehículos a buscar aparcamiento en la zona residencial del barrio de Los Bermejales.
+
+
+Otra de sus quejas es la proliferación de botellonas nocturnas y coincidiendo con los partidos del Betis, ante lo que exigen una mayor presencia y acción de la Policía Local y «la aplicación estricta de las ordenanzas y sanciones». Los principales lugares afectados son «la calle Tajo o Venezuela» y las zonas ajardinadas, ante lo que proponen «el cierre de accesos por la noche de Glorieta de la Enfermería y Colegio de Corpus Christi» para dificultar «la entrada de coches y motos».
+
+
+
+El comunicado de estos vecinos incluye la petición al Ayuntamiento de que solicite al grupo LAR España que restituya los «daños» y que recupere «unos estándares de calidad mínimos» en los terrenos afectados por las obras del centro comercial de Palmas Altas. Por otro lado, los colectivos que suscriben el comunicado temen que el aumento de la circulación de vehículos en la zona pueda conllevar un deterioro ambiental y una pérdida de la calidad del aire. 
+
+
+
+Para enfrentar esta amenaza, las asociaciones proponen desarrollar un programa de plantación de 3.000 árboles en estos barrios, la mitad en los próximos tres años, prestando especial atención al parque Bermejales Sur. Aguilar, miembro del Foro de Heliópolis, recuerda cómo hace años «el barrio tenía una arboleda muy frondosa, especialmente en verano», que hoy ha disminuido sensiblemente. 
+
+
+Estos colectivos vecinales piden también al Ayuntamiento que actúe de manera «transparente» y sin improvisaciones respecto a futuros problemas que puedan conllevar «las obras del puente del Centenario y de los nuevos proyectos residenciales» que se pongan en marcha en este distrito.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Sun, 23 Feb 2020 14:39:11 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-asociaciones-vecinales-solicitan-estudio-movilidad-aparcamientos-centro-comercial-202002231439_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>Cs critica el «deplorable estado de abandono» del Pabellón de Alfonso XII en el parque de María Luisa</title>
+<link>https://sevilla.abc.es/sevilla/sevi-critica-deplorable-estado-abandono-pabellon-alfonso-parque-maria-luisa-202002231340_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/23/s/parque-maria-luisa.jpg-k54H--620x349@abc.jpg&quot;&gt;La concejal de Ciudadanos en el Ayuntamiento de Sevilla Amelia Velázquez ha criticado este domingo «el deplorable estado de abandono» que presenta el Pabellón de Alfonso XII en la Isleta de los Patos del Parque de María Luisa.
+
+
+En este sentido, ha lamentado que este singular templete hexagonal de inspiración mudéjar, en el que según cuenta la leyenda el rey Alfonso XII declaró su amor a María de las Mercedes, presente «un importante déficit de limpieza y conservación que evidencia la dejadez por parte del equipo de gobierno en cuanto al mantenimiento del patrimonio de nuestra ciudad».
+
+
+Velázquez, que ha visitado la zona junto al concejal de la formación naranja Lorenzo López, ha puesto el acento en un comunicado en «la suciedad acumulada en el suelo, las columnas y barandillas» del espacio, que «dejan a las claras que hace muchas semanas que los servicios de limpieza no actúan en esta zona del parque».
+
+
+«Una problemática muy grave que afecta de forma preocupante al agua del estanque que rodea al propio templete en el que se acumulan restos de hojas y ramas secas, colillas, latas, papeles e incluso una costra de bacterias y hongos que generan un escenario de insalubridad para la fauna que habita en el parque», ha advertido.
+
+
+La concejal de la formación naranja en el Consistorio hispalense ha criticado también «las pintadas y grafitis que pueblan las columnas y capiteles» del templete y que «ofrecen una lamentable imagen a los sevillanos y turistas que visitan a diario este histórico parque de la ciudad».
+
+
+Junto a ello, ha alertado «del mal estado en el que se encuentra la señalética del itinerario botánico de la Isleta de los Patos», que «se muestra totalmente desgastada, con los cristales rotos y parte de su información desactualizada».
+
+
+Velázquez ha exigido al equipo de gobierno que «de una vez por todas se tome en serio el mantenimiento y la conservación de los jardines históricos de la ciudad», poniendo «especial hincapié&quot; en &quot;la mejora de una de las joyas verdes de nuestro patrimonio como es el Parque de María Luisa, que por la desidia de este Ayuntamiento se encuentra completamente abandonado».
+
+
+Por ello, ha reclamado al delegado de Parques y Jardines que «actúe de inmediato» para «frenar el deterioro al que están sometidos tanto el Pabellón de Alfonso XII como la propia Isleta de los Patos».</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Sun, 23 Feb 2020 13:40:45 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-critica-deplorable-estado-abandono-pabellon-alfonso-parque-maria-luisa-202002231340_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>El Ayuntamiento aprueba obras para la mejora en los parques empresariales Store y Parsi por 300.000 euros</title>
+<link>https://sevilla.abc.es/sevilla/sevi-ayuntamiento-aprueba-obras-para-mejora-parques-empresariales-store-y-parsi-300000-euros-202002231339_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/23/s/obras-poligono-Store.jpg-k2g--620x349@abc.jpg&quot;&gt;El Ayuntamiento de Sevilla, a través de su Delegación de Economía, Comercio, Relaciones con la Comunidad Universitaria y Área Metropolitana y en coordinación con la Gerencia de Urbanismo, ha licitado un nuevo paquete de obras para parques empresariales, que en esta ocasión atañen a la mejora de viales y acerados en el Store y Parsi que suman un presupuesto conjunto de 292.761 euros, y en el marco de la estrategia municipal de impulso a la actividad de estos recintos económicos y, a la vez, facilitar la movilidad de trabajadores y clientes.
+
+
+La primera de estas intervenciones se acometerá sobre el acerado que linda con las traseras de las naves que desarrollan su actividad en la calle Escarpia, entre las vías Alcayata y Serrucho, sitas en el Parque Empresarial Store (distrito Norte) y «ahora en mal estado debido a la fractura de su solería, la presión de las raíces de los árboles sobre el pavimento y la dificultad de evacuación de las lluvias hacia los imbornales, que provoca encharcamientos», según ha explicado en un comunicado.
+
+
+Además, ha señalado que el objetivo de esa actuación es unificar el pavimento del acerado, eliminado sus actuales áreas terrizas y creando un itinerario peatonal accesible, sin barreras arquitectónicas. El acerado, con solería hexagonal, tendrá 1,8 metros de anchura y se facilitará el tránsito con nuevos pasos de peatones, según criterios establecidos por el Área de Movilidad. Esa obra cuenta con un presupuesto de 147.883 euros, con tres meses de plazo máximo de ejecución tras la adjudicación y formalización del contrato.
+
+
+En el caso del Parque Empresarial Parsi (distrito Cerro-Amate), la actuación supone la mejora de la pavimentación con aglomerado asfáltico de las calzadas para cinco calles (Imprenta, Gramaje, Ilustración, Litografía, Pino Estrobo) y la propia Avenida de Parsi, que se encuentran en mal estado por el paso del tiempo y la acción de las lluvias. Tras el fresado previo, se extenderá la nueva capa de rodadura y se pintarán la señalización horizontal, obras que poseen un presupuesto municipal de 144.877 euros.
+
+
+«Se trata de nuevas iniciativas en el plan plurianual de inversiones iniciado en el año 2016 para los parques empresariales y que acumulan ocho millones de euros, en estos momentos, están en ejecución las obras de la calle Nivel, también en el Store, y en los últimos meses han culminado intervenciones en viales y acerados de El Pino, La Negrilla y Calonge», ha explicado el delegado de Economía, Comercio, Relaciones con la Comunidad Universitaria y Área Metropolitana del Ayuntamiento, Francisco Páez.
+
+
+El delegado ha destacado «la importancia del diálogo constante y constructivo» entre el propio Consistorio y la Asociación de Parques Empresariales de Sevilla (APES) y con las distintas comunidades de propietarios de estos recintos económicos para ir abordando «nuevas mejoras y medidas adicionales que contribuyan, asimismo, a la captación de inversiones».
+
+
+Mejoras en la plaza Currito el Practicante en Torreblanca
+El Ayuntamiento de Sevilla, a través del Distrito Este-Alcosa-Torreblanca en coordinación con la Gerencia de Urbanismo, ha iniciado una nueva inversión en el barrio de Torreblanca dentro del programa de mejoras en los barrios de la ciudad, concretamente la ejecución de un proyecto de 36.500 euros y dos meses de obra para la adecuación y mejora de la plaza Currito el Practicante con el objetivo de habilitar una zona de uso infantil y familiar para el barrio.
+
+
+«Con esta iniciativa, avanzamos en la mejora de un área que ya se ha convertido en una referencia para los residentes y que va a contar con mejores instalaciones para la convivencia y ocio familiar y especialmente para los menores», ha resaltado la delegada del Distrito Este-Alcosa-Torreblanca, Adela Castaño, en una visita a la zona.
+
+
+Según reseña en una nota de prensa el Ayuntamiento, con el objetivo de impulsar este uso infantil, el diseño contempla la renovación de la zona central de este enclave a través de una superficie de hormigón pulido sobre la que se rotularán juegos tradicionales. Se trata de una iniciativa que se ha venido desarrollando en los últimos años en patios de centros educativos con resultados positivos. Esta nueva superficie se caracteriza además por su gran resistencia a las condiciones climáticas que prolongan su uso unidas a propiedades antideslizantes.
+
+
+Igualmente, se procederá a la renovación de la zona de juegos infantiles que hasta el momento presentaba una base de caucho, actualmente en mal estado de conservación. Pasará ahora a tener aspecto de césped artificial, que entre sus cualidades el Ayuntamiento destaca que responde a la normativa y minimiza los impactos en caso de caídas. Se actualizarán además los juegos existentes a través de la sustitución del tobogán actual por uno nuevo de acero inoxidable y los juegos biosaludables instalados. Se respetarán los árboles del entorno que se plantaron recientemente y se instalarán dos nuevos bancos junto a papeleras.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Sun, 23 Feb 2020 13:39:39 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-ayuntamiento-aprueba-obras-para-mejora-parques-empresariales-store-y-parsi-300000-euros-202002231339_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>El PP pide una línea de ayudas a comunidades de vecinos para el mantenimiento de zonas verdes</title>
+<link>https://sevilla.abc.es/sevilla/sevi-pp-pide-linea-ayudas-comunidades-vecinos-para-mantenimiento-zonas-verdes-202002231334_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static3-sevilla.abc.es/media/sevilla/2020/02/23/s/PP-ALMENAS-arbol-ks9G--620x349@abc.jpeg&quot;&gt;El Partido Popular ha solicitado al gobierno socialista, liderado por Juan Espadas, una línea de ayudas a comunidades de vecinos «con zonas verdes de naturaleza privada pero de uso público».
+
+
+Esta propuesta la hace el portavoz popular, Beltrán Pérez, en el marco de una visita a la barriada de las Almenas, en la que viven 400 familias que «hacen un notable esfuerzo por el mantenimiento de sus zonas verdes que, en lo práctico, es disfrutada por cualquier vecino del entorno al ser de uso público».
+
+
+Pérez ha explicado en un comunicado que «el objeto de esta propuesta es instaurar una línea de ayudas, en régimen de concurrencia competitiva, para contribuir al mantenimiento y conservación de las zonas verdes o jardines, que aún siendo de naturaleza privada, mantienen el uso público, como cualquier otro espacio de la ciudad».
+
+
+Pérez ha señalado que «esta propuesta fue elevada al pleno municipal en diciembre de 2017 siendo respaldada por unanimidad». «Sin embargo, el gobierno socialista, como ocurre con tantas propuestas que prosperan en el plenario, no ha hecho absolutamente nada», ha advertido el portavoz popular. 
+
+
+«Las comunidades de vecinos siguen esperando que el Consistorio anuncie la convocatoria para esa línea de ayudas a las acogerse y, así, poder aliviar la dura y costosa carga que para muchas de ellas supone tener un patrimonio verde que todo el mundo disfruta en perfecto estado», ha explicado.
+
+
+Además, ha indicado que en el caso concreto de la barriada de las Almenas hay un árbol de grandes proporciones afectado por el último temporal de vientos y que «tiene parte de su tronco y copa desplomado sobre un edificio». «Ese árbol constituye, en estos momentos, un verdadero peligro y los vecinos no están recibiendo ningún tipo de ayuda ni respuesta por parte de la administración municipal», ha explicado Pérez.
+
+
+«Han solicitado ayuda al distrito para que se haga cargo del apeo del ejemplar y la única medida adoptada por el gobierno ha sido acordonarlo», ha apuntado Beltrán Pérez, a la vez que ha insistido en que «es necesario colaborar y prestar ayuda a las comunidades de vecinos, Agrupaciones de Comunidades de Propietarios de edificios de viviendas e incluso a las Entidades urbanísticas de Conservación, legalmente constituidas, en atención al esfuerzo que deben realizar para mantener las zonas verdes de su entorno para que pueden ser disfrutadas por cualquier persona».
+
+
+De hecho, para el Partido Popular, las zonas verdes y jardines de uso público «deben mantener las mismas condiciones de seguridad, cuidado y limpieza que las que son de titularidad municipal» y, para ello, «están pensadas estas ayudas y siempre hasta el momento en que dichas barriadas sean recepcionadas por el Ayuntamiento y realmente se asuma el coste de esos trabajos por el municipio».</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Sun, 23 Feb 2020 13:34:49 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-pp-pide-linea-ayudas-comunidades-vecinos-para-mantenimiento-zonas-verdes-202002231334_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>Juzgan este lunes al militar brasileño detenido en el aeropuerto de Sevilla con 37 kilos de cocaína</title>
+<link>https://sevilla.abc.es/sevilla/sevi-juzgan-este-lunes-militar-brasileno-detenido-aeropuerto-sevilla-37-kilos-cocaina-202002231301_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/23/s/droga-bolsonaro-sevilla-kuWB--620x349@abc.jpg&quot;&gt;El tribunal de la Sección Séptima de la Audiencia Provincial de Sevilla juzga este lunes a Manoel S.R., el militar brasileño que formaba parte de una expedición de avanzadilla previa al viaje programado a Japón por el presidente brasileño, Jair Bolsonaro, y que fue detenido el pasado 25 junio en el aeropuerto de Sevilla con 37 kilogramos de cocaína dentro de una maleta que llevaba consigo.
+
+
+Por estos hechos, el Ministerio Público solicita para este militar una pena de ocho años de prisión y una multa de cuatro millones de euros por un delito contra la salud pública, en su modalidad de sustancias que causan grave daño a la salud. No obstante, el juicio podría quedar aplazado ante la conclusión de una de las pruebas solicitada por su defensa.
+
+
+En su escrito de acusación, al que ha tenido acceso Europa Press, el Ministerio Fiscal expone que el procesado, sobre las 14 horas del 25 de junio de 2019, tras venir junto a otros 20 pasajeros de un vuelo militar de la Brasilian Air Force pasó por el control aduanero del aeropuerto de Sevilla donde la Guardia Civil intervino, en una maleta de su propiedad, «37 bloques rectangulares de una sustancia que debidamente analizada resultó ser cocaína» con un peso de 37 kilos y una pureza base del 80,14 por ciento. Su valor alcanzaba en torno al millón y medio de euros en el mercado clandestino.
+
+
+Así, los agentes del Instituto Armado intervinieron al inculpado, además de la sustancia estupefaciente, un portatrajes con un uniforme militar, un teléfono móvil, una cartera con documentación con dólares y reales brasileños, así como otros efectos.
+
+
+A mediados de octubre la juez instructora dictó un auto en el que ordenó la apertura de juicio oral contra el militar del país sudamericano tras recibir el escrito de calificación de la Fiscalía en el cual interesaba que se ordenara la apertura de juicio oral y se instara a la representación legal del militar brasileño a redactar un escrito de defensa.
+
+
+De esta manera, las diligencias de esta causa fueron remitidas a la Audiencia Provincial de Sevilla quien ha ordenado su enjuiciamiento, procedimiento que será independiente del que se pueda tomar contra Manoel en su país de origen.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Sun, 23 Feb 2020 13:01:49 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-juzgan-este-lunes-militar-brasileno-detenido-aeropuerto-sevilla-37-kilos-cocaina-202002231301_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>Instalaciones públicas que se pudren, la cara B del deporte en Sevilla</title>
+<link>https://sevilla.abc.es/sevilla/sevi-instalaciones-publicas-pudren-cara-deporte-sevilla-202002230753_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/23/s/sevilla-piscina-ayuntamiento-k3fH--620x349@abc.jpg&quot;&gt;Todas las miradas se centran este fin de semana en el Zurich Maratón. El lustre de este evento reviste a Sevilla de cierto halo de vanguardia deportiva, algo que, en buena medida, evita que muchos reparen en detalles algo más alejados de las cámaras y que afectan al deporte base. La ciudad ha dirigido en los últimos años casi todos sus esfuerzos a la organización de carreras, principalmente el maratón, que ha escalado posiciones en el escalafón internacional colocándose entre los mejores del planeta, así como al fomento del cross y el propio «running». 
+
+
+En ese ámbito, la capital andaluza es ahora mismo un referente. Pero el deporte va mucho más allá y en son numerosos los escenarios de práctica deportiva sin cámaras ni focos donde los problemas por falta de mantenimiento o reparación impiden el disfrute ciudadano. El contrapunto a esa apuesta por el deporte de moda se encuentra en el deterioro, la mala gestión o el deficiente cuidado de un puñado de 
+infraestructuras públicas, tanto las que estaban llamadas a ser referentes como aquellas más básicas, las del barrio o el distrito, donde también hay carencias significativas. La cara B del maratón tiene también un recorrido particular en Sevilla. 
+
+
+
+
+La instalación que ocupa actualmente la primera plana en ese sentido es la pista de atletismo del estadio de la Cartuja, recinto que ha estado veinte meses cerrado por los desperfectos en su cubierta tras años de pésimo o nulo mantenimiento de la Junta de Andalucía, cuyos nuevos gestores han decidido reflotarlo a base de grandes conciertos y fútbol. Para este segunda actividad, eso sí, se contempla como alternativa sólida la eliminación del tartán sobre el que se disputó el Mundial de Atletismo al aire libre de 1999, en un estado de decrepitud evidente. Con la reparación de la cubierta, el estadio va a recuperar este año su actividad, siendo sede de la final de la Copa del Rey de fútbol el 18 de abril, pero muy probablemente su porvenir sólo se afiance si se retiran las pistas, de modo que se perderá el principal referente del atletismo en la ciudad. Deporte Andaluz ya estudia esa posibilidad cierta de eliminar el viejo tartán (que está impracticable) para convertir el coliseo en un gran estadio sólo de fútbol. 
+
+
+Del Europeo al abandono
+De los grandes eventos que albergó la ciudad hace varios lustros se mantiene un vestigio aún en peores circunstancias que el gran estadio cartujano: la piscina olímpica de San Pablo, única de esas dimensiones en Sevilla y que lleva la friolera de doce años cerrada, abandonada y en deplorable estado a pesar de estar ubicada en el epicentro del deporte municipal, la sede del Instituto Municipal de Deportes (IMD) y ser el Ayuntamiento el responsable de la misma. 
+
+
+GALERÍA
+
+
+
+
+
+
+
+
+
+
+
+
+Vea la galería completa (21 imágenes)
+
+Una docena de años y ni un euro dispuesto para arreglar el escenario del Europeo de Natación de 1997. La piscina se cerró diez años después de aquel hito, en 2007; según explicó el gobierno local de entonces (PSOE-IU), para arreglar la cubierta. Otra cubierta con negra historia... «En unos meses volverá a abrirse», se aseguró. Pero no han pasado meses sino años sin noticia alguna. El retraso de las obras se justificó en un primer momento en que los plazos del concurso de ideas convocado por el IMD se habían extendido demasiado. Luego, además, se supo que el presupuesto del Ayuntamiento para los trabajos no se pudo aprobar hasta mayo de 2009 y que ascendía ya a 3,5 millones puesto que no sólo hacía falta cambiar la cubierta sino mucho más. 
+
+
+Además, el proyecto recibió incluso una subvención de la Junta de Andalucía de 80.000 euros pero se mantuvo en el cajón sin que el gobierno local supiera usarlos para esa obra; hubo que devolver la subvención. Tampoco el gabinete del popular Juan Ignacio Zoido resolvió la cuestión y no destinó un euro a reflotar la instalación olímpica pese a las evidentes necesidades. 
+
+
+El primer mandato del socialista Juan Espadas también transcurrió en blanco, aunque desde su equipo se aseguró que existe un proyecto ya redactado que incluye la reforma de la cubierta y mejoras generales también en el vestuario y la maquinaria. Su coste, eso sí, supera los seis millones, motivo por el que el gobierno local se detuvo a «encontrar el marco de financiación y el momento en el que se pueda llevar a cabo una iniciativa de esta envergadura». A efectos prácticos, todavía nada.
+
+
+Entre los espacios deportivos públicos diseminados por la ciudad, varios también mantienen una imagen muy alejada de lo que debería ser un servicio público de calidad o de primer nivel deportivo. Un clásico en este apartado es el complejo deportivo de Arjona, entre el Barranco y el puente del Cachorro. Muchos espacios del mismo están cedidos al club de piragüísmo Triana, pero las pistas deportivas públicas (fútbol sala y baloncesto) presentan un notable deterioro (porterías, redes, firme, carteles pintados a mano y colgados con cuerdas en el acceso…) sólo superado por el del entorno del propio recinto, que suma años de verdadera degradación. En ese aspecto, el cercano parque para patinadores de Plaza de Armas sufre el mismo problema, con unos accesos tercermundistas de los que las asociaciones que practican esta actividad se han quejado en varias ocasiones. 
+
+
+
+
+Otro de los espacios que más años acumulan sin mejora alguna en varias de sus instalaciones es el centro deportivo Parque Amate. Aunque oficialmente se indica que tiene pista de fútbol sala, ésta no es más que un pedazo resquebrajado de viejo hormigón que se usa para que aparquen los coches de quienes van a usar esas instalaciones, que el Ayuntamiento tiene concedidas hasta este año 2020 al club deportivo Jorge Juan. Tanto esa zona de la supuesta «pista», con sus porterías destrozadas y oxidadas en los casos en que aguantan, como el entorno y los accesos presentan un aspecto bastante deteriorado. Y en los alrededores del propio pabellón de Amate, ya junto a la SE-30, el descuido es la nota característica, aunque el montaje del terreno de juego para el béisbol hace varios años supuso una leve mejoría y que regresase la actividad después de que quedara abandonado aquel espacio y la pista de hockey hierba. Un caso calcado al de Amate es el que se produce en el centro deportivo San Pablo Fútbol, más conocido como El Pilar: se reformó el campo grande y se le puso césped artificial, pero las supuestas pistas de futbito anexas no son más que un trozo de hormigón abandonado y rodeado de maleza. Impracticable la cancha e inhóspito el perímetro.
+
+
+En relación al llamado «deporte rey», también cabe subrayar el lamentable deterioro de las instalaciones deportivas de la calle Francisco Buendía, los conocidos campos de Marqués de Contadero, junto a la Ciudad Jardín, propiedad de la Federación Andaluza de Fútbol. El cerramiento presenta roturas frecuentes y es muy llamativa la mala conservación de la parcela, donde se acumula basura y maleza desde hace meses. Desde el grupo municipal de Izquierda Unida se denunció, incluso, que en la parte de la parcela que colinda con el complejo del antiguo matadero municipal y con el edificio de la Delegación Territorial de Educación, «existe un enorme agujero en la valla y por donde hay personas que acceden al solar para consumir alcohol y estupefacientes». El preocupante estado de abandono de la parcela, destinada a equipamiento deportivo, ha motivado reiteradas quejas vecinales. 
+
+
+También en los Bermejales y Bami se han producido protestas de usuarios por el mal estado de las pistas de pádel, un deporte que ha cobrado mucho auge en los últimos años y que no es fácil practicar en algunas instalaciones de carácter público. Otro punto con importantes carencias es el centro deportivo Pino Montano, cuyas instalaciones vienen presentando diversos problemas a los usuarios que tuvieron su culmen en la inundación del pabellón cubierto a finales de diciembre. La cancha de baloncesto tampoco ha podido usarse en numerosas ocasiones por un problema en el motor que mueve las canastas. 
+
+
+El personal ha denunciado que muchos días sólo hay disponible un operario de mantenimiento en todo el recinto. En el polideportivo municipal El Paraguas, de Triana, las goteras han sido habituales en los últimos inviernos, dificultando enormemente la práctica deportiva en algunas zonas por el peligro de resbalones. Cerca, en Vega del Rey, los accesos y el entorno de las pistas del Charco de la Pava presentan un aspecto que dista mucho del buen mantenimiento y la excelencia en los servicios públicos. 
+
+
+Piscinas cubiertas
+Sí se ha producido una variación relevante en lo que atañe a dos piscinas que vienen presentando problemas importantes por los desperfectos en su cubierta. Por una parte, el Instituto Municipal de Deportes (IMD) anunció hace varios meses que este año se podrá acometer, ya con nuevos presupuestos en vigor, la instalación de la cubierta de la piscina de Torreblanca, a la que se ha destinado un millón de euros. Para la piscina municipal de Alcosa, se han previsto obras de mejora por 110.000 euros para sustituir la actual cubierta, que ha dado muchos problemas, por otra más eficiente energéticamente. 
+
+
+En cuanto a la piscina del centro deportivo Virgen de los Reyes, tras dos años de idas y venidas se han adjudicado recientemente, y al fin, los trabajos para su reforma y la puesta en marcha de nuevas instalaciones en un complejo que era una referencia y lleva ya seis años cerrado por deficiencias de seguridad, higiénicas y sanitarias, por lo que se retiró la concesión a su gestora. También pasó años en el limbo la piscina del Tiro de Línea, reformada y reabierta en junio de 2018 tras resolverse múltiples problemas técnicos.
+
+
+
+
+Nueva pista de atletismo de San Pablo, de color azul - ABC
+El alivio de la nueva pista de atletismo en San Pablo
+En abril del año pasado, el Instituto Municipal de Deportes (IMD) del Ayuntamiento de Sevilla culminó una de las reformas más esperadas por los deportistas sevillanos reabriendo la pista de atletismo al aire libre de San Pablo. Respondía así la administración local a una reclamación que llevaba años sobre la mesa a causa del pésimo estado del tartán en el que se entrenaban cientos de atletas a diario. La instalación fue renovada plenamente usando el color azul tras la consulta popular a través de redes sociales con varios millares de participantes. Además, se añadió a ese equipamiento una pista exterior fabricada en césped artificial en sustitución de la superficie previa de hormigón que se usaba para entrenar y estaba muy deteriorada. La reforma supuso una inversión de más de 400.000 euros. Más allá del tinte electoral de reabrir un mes antes de las elecciones municipales, el de la pista de San Pablo ha sido uno de los hitos del gobierno local socialista en lo que a inversiones para el deporte base se refiere. El concejal David Guevara impulsó, además, la incorporación de pequeños espacios públicos que no eran estrictamente municipales para mejorar su estado y su gestión. Y, por otro lado, se llevó a cabo un plan de reformas e inversiones en centros deportivos durante el pasado mandato que incluía, sobre todo, nuevos campos de césped artificial que se han habilitado por toda la ciudad y otros 350.000 euros para mejoras de fontanerías y electricidad en centros deportivos.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Sun, 23 Feb 2020 07:53:54 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-instalaciones-publicas-pudren-cara-deporte-sevilla-202002230753_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>El Hospital San Lázaro de Sevilla atendió el pasado año a más de 2.500 pacientes pluripatológicos</title>
+<link>https://sevilla.abc.es/sevilla/sevi-hospital-san-lazaro-sevilla-atendio-pasado-mas-2500-pacientes-pluripatologicos-202002230753_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/21/s/sanlazaro-pacientes-pluripatologicos-U55120141468qKs-620x349@abc.jpg&quot;&gt;El Hospital San Lázaro cuenta con una unidad de atención a pacientes pluripatológicos, dependiente del Servicio de Medicina Interna del Hospital Universitario Virgen Macarena, que atendió el pasado año a más de 2.500 pacientes. Esta unidad da respuesta tanto a los especialistas de Medicina Familiar y Comunitaria, como a las unidades de Urgencias, en lo referente a las necesidades asistenciales que estos pacientes y sus familiares precisan. Estos pacientes también pueden ser derivados por las distintas especialidades hospitalarias. 
+
+
+ Esta nueva modalidad asistencial generó 6.342 consultas, siendo su mayoría en consultas (54%) y con unos programas tan específicos como el de administración de ciclos de furosemida intravenosa en la Insuficiencia Cardíaca, paracentesis periódicas, administración de hierro y transfusiones y nutrición parenteral, que evitaron el ingreso hospitalario de estos pacientes. 
+
+
+Dentro de la misma se realizan consultas virtuales, en los que el paciente solo viene a consulta presencial si el facultativo responsable lo considera necesario, recibiendo en caso contrario un informe por correo previo contacto con el mismo.
+
+
+
+ La Unidad cuenta con un Hospital de Día Polivalente con 22 sillones, 6 camas y tres consultas médicas, que en horario de mañana y tarde – de lunes a viernes- atiende a pacientes pluripatológicos que precisan bien una administración intravenosa de fármacos o transfusiones de sangre, bien maniobras invasivas como paracentesis o toracocentesis, bien consulta preferente diagnóstica o de revisión, u otros servicios. 
+
+
+ Con esto se evita tener que acudir al Servicio de Urgencias del Hospital Virgen Macarena, de forma que posibilita la vuelta a casa del paciente ese mismo día. Para el coordinador del equipo profesional de la Unidad, el especialista en Medicina Interna, Salvador Alegre, «esto supone una comodidad para el paciente y la familia, y una clara mejora de su calidad de vida, además de prevenir complicaciones derivadas de la hospitalización, como son las infecciones nosocomiales. También supone un importante ahorro de recursos sanitarios», añade. 
+
+
+ Para poder hacer uso de este recurso asistencial, los propios médicos de Atención Primaria pueden contactar directamente con los facultativos de la citada Unidad si hay una necesidad con respuesta urgente; pueden remitir una solicitud de consulta o tratamiento si es posible por cita reglada, o bien a través de los equipos de Urgencias. «Siempre hay disponibles seis puestos del Hospital de Día para las necesidades que puedan aparecer las 24 horas del día en el Servicio de Urgencias hospitalario», dice Alegre. 
+
+
+Además atiende pacientes crónicos reingresadores procedentes del propio Servicio de medicina Interna con el objetivo de intentar evitar mayor número de ingresos hospitalarios, junto con la posibilidad del ingreso hospitalario directamente desde el domicilio del paciente, sin requerir su paso por Urgencias, lo que hace mucho más eficaz y cómodo el trámite para una hospitalización. 
+
+
+ Coordinados por este doctor, el equipo que integra la Unidad de Pacientes Pluripatológicos y hospital de día, se compone de dos médicos especialistas más en Medicina Interna, una enfermera supervisora y un total de cinco enfermeros, a los que se suma una auxiliar de enfermería y un equipo administrativo. Igualmente, la Unidad cuenta con el apoyo de una trabajadora social y un psicólogo adscrito a la Unidad de Paliativos, para una adecuada atención integral del paciente pluripatológico y sus familias. 
+
+
+ Actualmente, para mejorar la atención de estos pacientes en el Hospital de San Lázaro, cuenta con un total de 24 camas en el que además de poder ingresar estos pacientes se encuentra la Unidad de paliativos y la presencia de pacientes crónicos socio sanitarios» que permite llevar a cabo un ingreso más personalizado y reducir la estancia hospitalaria. 
+
+
+Asimismo, se encuentra coordinada esta unidad, con los equipos de Cuidados Paliativos cuando se hace necesaria la intervención de los mismos. Los pacientes y familiares son atendidos en el ingreso hospitalario por los mismos profesionales que los atienden en consultas y Hospital de Día, y esto supone una mayor calidad y calidez de la atención, que se traduce en una mayor satisfacción por parte de pacientes y familiares. 
+
+
+ Alegre dice que «aconsejamos a los pacientes y familiares que piensen que pueden beneficiarse de esta modalidad asistencial, pregunten a los profesionales de su centro de salud, y cada vez que tengan que acudir a su centro hospitalario ya sea por urgencias, o por consulta de otros especialistas». «Aquí en la Unidad de Atención de los Pacientes Pluripatológicos pueden ser atendidos desde una perspectiva integral por los especialistas de Medicina Interna, ofreciendo una mayor accesibilidad y cercanía en la atención», asegura.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Sun, 23 Feb 2020 07:53:48 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-hospital-san-lazaro-sevilla-atendio-pasado-mas-2500-pacientes-pluripatologicos-202002230753_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+</channel>
+</rss>
