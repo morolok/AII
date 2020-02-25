@@ -1,0 +1,1175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<atom:link href="https://sevilla.abc.es/rss/feeds/Sevilla_Sevilla.xml" rel="self" type="application/rss+xml" />
+<title>Sevilla</title>
+<link>https://sevilla.abc.es</link>
+<description>Sevilla</description>
+<language>es-es</language>
+<pubDate>Tue, 25 Feb 2020 11:43:22 +0100</pubDate>
+<lastBuildDate>Tue, 25 Feb 2020 11:43:22 +0100</lastBuildDate>
+<ttl>2</ttl>
+<item>
+<title>Las líneas de autobús del Consorcio Metropolitano que sufrirán retrasos por las tractoradas</title>
+<link>https://sevilla.abc.es/sevilla/sevi-lineas-autobus-consorcio-metropolitano-sufriran-retrasos-tractoradas-202002251019_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/25/s/consorcio-autobuses-sevilla-kzRD--620x349@abc.jpg&quot;&gt;El Consorcio Metropolitano de Transportes de Sevilla ha anunciado en sus redes sociales las retenciones y desvíos que sufrirán algunas de sus líneas como consecuencia de las tractoradas y los paros agrarios convocados por las organizaciones agrarias este martes 25.
+
+
+En concreto, se verán afectadas las líneas M-102A, M-102B, M-168 (Espartinas) y M-168 (Directo), que «sufrirán retenciones y desvíos puntuales al circular por la localidad de Benacazón».
+
+
+De esta forma, la línea Línea M-168 sentido Umbrete-Benacazón-Sevilla (Directo A-49), con servicios directos con hora de salida de Benacazón, no podrán acceder a la A-49 por la salida 16, y en su luar lo harán por la salida 14 «siempre que sea posible», para lo que realizarán el mismo recorrido por el interior de Benacazón que la línea M-168. 
+
+
+Otro de los puntos de inicio de las tractoradas está a la altura de Carmona, en la A-4, concretamente en el kilómetro 507,8. Allí, según ha avisado el Consorcio Metropolitano, «se producirán retenciones de tráfico y retrasos puntuales en los servicios de la línea M-124, entre las 11:00 y las 14:00».
+
+
+Línea de Carmona
+En concreto la mencionada tractorada partirá a las 11:00 del Polígono el Pilero, en la localidad de Carmona, accediendo a la A-4 por la entrada 8 (Carmona-Brenes) y discurrirá hasta la salida número 6 (Carmona-Lora del Río). «Aunque la línea M-124 accede a Carmona a través de la salida número 11 (Carmona-Viso del Alcor), sí que podrá sufrir retenciones y retrasos puntuales en los servicios hasta que se normalice el tráfico en la A-4», avisan.
+
+
+Hay que recordar que los puntos establecidos para las protestas agrarias, que tienen previsto su fin a las 14:00 horas, son los siguientes: en la autovía A-4 se cortará el tráfico en dirección Madrid, en el término municipal de Carmona; en la autovía A-49 se hará a la altura de Benacazón hasta la salida número 14, la de Umbrete; en la A-92 desde Aguadulce hasta la salida 97 de dicha autovía, dirección Gilena, y en la AP-4 entre los kilómetros 53 y 54, contados en dirección Cádiz.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Tue, 25 Feb 2020 10:19:18 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-lineas-autobus-consorcio-metropolitano-sufriran-retrasos-tractoradas-202002251019_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>Las seis noticias que debes conocer hoy, martes 25 de febrero</title>
+<link>https://sevilla.abc.es/sevilla/sevi-seis-noticias-debes-conocer-martes-25-febrero-202002250947_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static3-sevilla.abc.es/media/sevilla/2020/02/25/s/seis-noticias-martes-kcRE--620x349@abc.jpg&quot;&gt;Buenos días, estas son las noticias del martes 25 de febrero que debes conocer. [Si te perdiste las noticias imprescindibles de ayer lunes, puedes leerlas haciendo clic en este enlace].
+
+
+
+1. Los agricultores bloquearán en la mañana de este martes todos los accesos a Sevilla. El campo sevillano ya está preparado para la gran protesta que tendrá lugar este martes. Cientos de tractores, y miles de agricultores, según avanzan los organizadores (Asaja, COAG, UPA y Cooperativas Agro-alimentarias), harán cortes en las principales vías de acceso a la capital andaluza -la A 4, la AP 4, la A 92 y la A 49- para «defender el futuro del campo».
+
+
+A pesar de que las entidades convocantes no se atreven a dar cifras aproximadas de cuántos manifestantes acudirán a su llamamiento, sí que avanzan que será una protesta «histórica y multitudinaria».
+
+
+Y es que agrupaciones locales, cooperativas e, incluso, empresas y ayuntamientos, han puesto su «grano de arena» para facilitar que todos los agricultores y ganaderos puedan acudir a uno de los cuatro puntos desde donde partirán las tractoradas, repartidos por la provincia de tal forma que no queden muy lejanos para ninguna de las comarcas y sea más fácil acudir para los interesados.
+
+
+«Hay muchas cooperativas que han anunciado que bonificarán el combustible a aquellos tractoristas que acudan, por lo que es prácticamente imposible saber cuánta maquinaria acudirá», aseguran desde las organizaciones agrarias.
+
+
+
+2. Sevilla capital tiene más bares que camas de hospital. Que Sevilla es una ciudad donde predomina el sector servicios no es una afirmación que extrañe a nadie. Y que abundan los bares, las cafeterías e incluso los restaurantes, tampoco. Pero cuando se repasan las cifras oficiales, algunas comparativas llaman poderosamente la atención.
+
+
+Eso ocurre al desmenuzar los registros de las fichas socioeconómicas de cada municipio español que acaba de hacer públicas el Consejo General de Economistas de España, una herramienta muy útil para analizar la estructura social de cualquier punto del país. En dicho informe, al que ha tenido acceso ABC, los apartados referidos a ese sector servicios y los del equipamiento social poseen detalles muy significativos cuando se cotejan y se enfrentan. Uno de los más sorprendentes es el que permite confirmar que en Sevilla capital hay más bares que camas de hospital.
+
+
+Este significativo hecho se desprende del análisis de esas fichas socioeconómicas de la ciudad más recientes (julio de 2019), las que acaban de emitirse, en las que el apartado sobre la sanidad indica que en la capital andaluza existen cuatro consultorios y 31 centros de salud, de modo que suman 35 en total, además de 18 hospitales. Todo ello suma 3.756 camas hospitalarias. Si se colocan esas cifras delante de las de otros servicios públicos, salta a la vista la relación con la cantidad de bares, cafeterías o restaurantes: frente a las 3.756 camas para pacientes en hospitales, 3.856 bares y cafés.
+
+
+
+3. Andalucía hace justicia a Antonio Burgos y Curro Romero en el 40 aniversario del 28-F. En la casa de Blas Infante en Coria del Río y delante de la histórica pizarra en la que se anotó el escrutinio del referéndum del 28 de febrero de 1980 que daba a Andalucía su autonomía plena, el presidente de la Junta, Juanma Moreno, anunciaba ayer solemnemente el reconocimiento como hijos predilectos de Andalucía a Antonio Burgos, escritor y periodista de ABC, y a Curro Romero, torero; además de primera medalla «Manuel Clavero» a Rafael Escuredo, presidente andaluz que logró la celebración del referéndum.
+
+
+Unos reconocimientos llenos de simbolismo cuando se cumplen 40 años de aquel 28F y el Gobierno del cambio quiere saldar una deuda histórica con quien, como Antonio Burgos, contribuyó a conformar la autonomía de Andalucía. Por eso eligió este marco especial, la Casa de la Alegría como la llamó Blas Infante, también para reivindicar el espíritu del 28F. «Los reconocimientos son una muestra de una Andalucía diversa, plural y en los que se representa el talento deportivo, artístico e intelectual», dijo el presidente andaluz Juanma Moreno.
+
+
+Antonio Burgos, nacido en Sevilla en mayo de 1943, periodista y escritor, lleva más de medio siglo defendiendo con sus letras la cultura y la tradición de Andalucía. Curro Romero nació en Camas en 1933 y está considerado como una de las mas grandes figuras de la historia de la tauromaquia.
+
+
+
+4. Un médico italiano, tercer positivo por coronavirus en España. El médico, que se encontraba de turismo en el sur de Tenerife ha dado positivo por coronavirus tras realizarle las pruebas correspondientes en el laboratorio de microbiología del Hospital Nuestra Señora de Candelaria, según confirmaron fuentes del Gobierno regional. Procedente de la zona afectada en Italia por el coronavirus, comenzó a sentirse mal y fue a la clínica Quirón del sur de Tenerife, donde permanece hospitalizado y aislado.
+
+
+Como medida preventiva se le aisló y se enviaron las muestras a Salud Pública, departamento que comunicó que los primeros análisis han dando positivo. Fuentes sanitarias señalaron que debido al aislamiento al que se sometió al paciente desde su llegada al centro sanitario, no ha tenido contacto con el personal de la clínica.
+
+
+El paciente será sometido a un segundo análisis en el Centro Nacional de Microbiología del Instituto de Salud Carlos III, como establece el protocolo. El presidente canario informó a través de su cuenta oficial de Twitter que se activó durante la tarde noche de ayer el protocolo correspondiente.
+
+
+De esta forma y en coordinación con el Ministerio de Sanidad, en Canarias se ha activado el mismo protocolo puesto en marcha ayer ante casos sospechosos en Asturias, Salamanca, Ávila, Pamplona, Málaga y Valladolid.
+
+
+
+5. Alonso asume la falta de confianza de Casado y deja la presidencia del PP vasco. Alfonso Alonso puso ayer por la tarde punto final a su etapa al frente del Partido Popular vasco, un día después de que fuera fulminado como candidato a lendakari por rebelarse contra el acuerdo de coalición con Ciudadanos. La confianza entre Génova y Alonso había quedado totalmente rota, y el paso natural siguiente era la dimisión como presidente del PP vasco, algo que anunció en la Junta Directiva regional de su partido, en Vitoria.
+
+
+En Génova se esperaban esta renuncia, porque la campaña electoral era inviable si el presidente de los populares vascos seguía siendo él. Alonso comunicó al presidente del partido su decisión, antes de informar a la Junta Directiva del PP vasco. Casado le agradeció después su «entrega» de forma pública a través de Twitter: «Muchas gracias, Alfonso Alonso, por tu entrega y dedicación a Vitoria, al País Vasco y a España en defensa de la libertad de todos. El Partido Popular seguirá siendo siempre tu casa».
+
+
+Alonso no logró reprimir todas las lágrimas en su última comparecencia como presidente del PP vasco. Se marchó emocionado y «agradecido» al partido por los más de 30 años que ha recorrido en su seno, una vida dedicada a la política que ha terminado de la forma más abrupta. Reconoció que no cuenta con la «confianza» de la dirección nacional, algo que achaca a una «manera diferente de entender lo que es España». «En esas circunstancias es imposible seguir con esta responsabilidad», sentenció.
+
+
+
+6. Las estadísticas de las últimas cuatro décadas auguran dos o tres días de lluvia en la Semana Santa de Sevilla. Sevilla se prepara para vivir a partir de este miércoles la Cuaresma, preludio a la semana grande de la ciudad, junto con la Feria de Abril, y que se vive con fervor no sólo por parte de las hermandades y cofradías que la componen, sino por parte del comercio sevillano que espera que sus ventas se disparen durante estas fechas.
+
+
+Como cada año, los sevillanos están muy pendientes a todo tipo de noticias que tiene que ver con los pronósticos meteorológicos oficiales, por ejemplo los que proporciona la Agencia Estatal de Meteorología (Aemet), y no oficiosos, como las cabañuelas que son una manera tradicional de predecir el tiempo por parte de los agricultores.
+
+
+César Rodríguez Ballesteros, del Área de Climatología y Aplicaciones Operativas de Aemet) ha elaborado el informe «Apuntes climatológicos para la Semana Santa 2020» en la que toma como referencia la misma fecha, del 5 al 12 de abril, de los últimos 39 años en la misma.
+
+
+El número de precipitaciones se sitúa entre dos y tres días de media en el período comprendido entre el 5 y 13 de abril según los últimos 39 años en la provincia de Sevilla, según el citado informe, situándose en el valor más bajo las provincias más orientales de Andalucía, como Almería, con entre 1 y 2 días de precipitaciones.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Tue, 25 Feb 2020 09:47:24 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-seis-noticias-debes-conocer-martes-25-febrero-202002250947_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>En directo: Tractorada en Sevilla, cortes de tráfico por la manifestación de los agricultores</title>
+<link>https://sevilla.abc.es/sevilla/sevi-directo-tractorada-sevilla-cortes-trafico-manifestacion-agricultores-202002250900_directo.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/25/s/aguadulce-concentrados-klOG--620x349@abc.jpeg&quot;&gt;11.38 
+
+Situación de colapso total en la N-4Los tractores han invadido la N-4 (El Cuervo-Cádiz) afectando de forma crítica el tráfico de la citada vía. Camiones, coches y tractores confluyen con dificultad por la zona.
+
+
+
+
+Carretera N-4- Alejandro Hernández
+
+11.35 
+&amp;lt;blockquote class=&quot;twitter-tweet&quot;&amp;gt;&amp;lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&amp;gt;Los tractores en Carmona se preparan para ir hacia la A4&amp;lt;a href=&quot;https://twitter.com/hashtag/Sevilla?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Sevilla&amp;lt;/a&amp;gt;. &amp;lt;a href=&quot;https://twitter.com/hashtag/AgricultoresAlL%C3%ADmite?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#AgricultoresAlLímite&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/CoopsAgroSEV?ref_src=twsrc%5Etfw&quot;&amp;gt;@CoopsAgroSEV&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt; &amp;lt;a href=&quot;https://twitter.com/ASAJASEVILLA?ref_src=twsrc%5Etfw&quot;&amp;gt;@ASAJASEVILLA&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt; &amp;lt;a href=&quot;https://twitter.com/COAGSevilla?ref_src=twsrc%5Etfw&quot;&amp;gt;@COAGSevilla&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt; &amp;lt;a href=&quot;https://twitter.com/UPASEVILLA?ref_src=twsrc%5Etfw&quot;&amp;gt;@UPASEVILLA&amp;lt;/a&amp;gt;&amp;lt;a href=&quot;https://twitter.com/hashtag/AgricultoresAlL%C3%ADmite?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#AgricultoresAlLímite&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://t.co/GjCPra1VAx&quot;&amp;gt;pic.twitter.com/GjCPra1VAx&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; ASAJA-SEVILLA (@ASAJASEVILLA) &amp;lt;a href=&quot;https://twitter.com/ASAJASEVILLA/status/1232250250611568641?ref_src=twsrc%5Etfw&quot;&amp;gt;February 25, 2020&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&amp;gt;&amp;lt;/script&amp;gt;
+
+
+
+
+Tractores invadiendo la A-49 dirección Sevilla- Manuel Gómez
+
+11.30 
+
+Mapa interactivo de las marchasConsulta en nuestro mapa los cortes de las principales carreteras de la provincia. Las autovías A-49, A-92 y A-4, así como la antigua AP-4, son las vías elegidas, únicamente se libra la Autovía de la Plata, la A-66, la única gran carretera que conecta con Sevilla que no sufrirá cortes en el tráfico por la movilización agraria. [Accede al mapa interactivo en el siguiente enlace]
+
+
+
+
+11.29 
+&amp;lt;blockquote class=&quot;twitter-tweet&quot;&amp;gt;&amp;lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&amp;gt;[Directo tractorada] El sector agrario corta este martes las principales vías de la provincia, la A-4, la A-92, la A-49 y la antigua AP-4, para defender la supervivencia de la agricultura (Foto: Manuel Gómez) &amp;lt;a href=&quot;https://t.co/pCmK8N1Vqo&quot;&amp;gt;https://t.co/pCmK8N1Vqo&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/Sevillahoy?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Sevillahoy&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/AgricultoresAlL%C3%ADmite?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#AgricultoresAlLímite&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://t.co/KtBs8Q2epE&quot;&amp;gt;pic.twitter.com/KtBs8Q2epE&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; ABC de Sevilla (@abcdesevilla) &amp;lt;a href=&quot;https://twitter.com/abcdesevilla/status/1232250734516854785?ref_src=twsrc%5Etfw&quot;&amp;gt;February 25, 2020&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&amp;gt;&amp;lt;/script&amp;gt;
+
+
+
+11.27 
+
+Corte de la N-4 no autorizadoLos tractores de Lebrija se desmarcan de la concentración en la autopista y cortan la N-4 a la altura de la antigua venta de Santa Luisa a pocos kilómetros de El Cuervo. Este corte de la N-4 no estaba en el plan previsto por las autoridades.
+
+
+
+
+La autopista de Cádiz se encuentra completamente cerrada en ambos sentidos- Alejandro Hernández
+
+11.23 
+
+4.000 tractores se mueven por la provincia de SevillaUn total de 30 cooperativas de Sevilla están en el punto de Carmona y unos 1.000 tractores. En total, unos 4.000 tractores se han movilizado este martes entre todos los puntos en la manifestación de Sevilla. Los primeros cálculos estiman unas 20.000 personas en la manifestación en total.
+
+
+
+
+Tractores en Carmona- Juan Flores
+
+11.15 
+
+Así se encuentran las diferentes movilizaciones en SevillaLas diferentes movilizaciones de agricultores y ganaderos se encuentran ahora mismo en los siguientes puntos de la provincia: acaba de cerrarse al tráfico la AP-4 en ambos sentidos, la A-49 se encuentra cerrada en sentido Sevilla (ambos carriles), la A-92 se prevé que se cortará en ambos sentidos a lo largo de la mañana, por último, la A-4 se cortará en sentido Madrid. En todos los casos se dejará un carril libre para evacuaciones de emergencia.
+
+
+
+11.12 
+
+Autopista Cádiz-SevillaLa marcha comienza el corte de la autopista sentido Cádiz-Sevilla
+
+
+
+
+La movilización llega a la antigua AP-4- Alejandro Hernández
+
+11.09 
+
+Convocatoria multitudinaria en SevillaLa marcha «Por un campo vivo» ya está comenzando a ocupar la A-49 en dirección Umbrete. El asesor jurídico laboral de ASAJA-Sevilla, Felipe Gayoso, ha mandando fuerza a todos sus compañeros, además de indicarles que «vamos a continuar ocupando todos los carriles, dejando una vía libre para casos de emergencia, y llegaremos hasta el siguiente cruce (Umbrete, salida 14) y ahí daremos la vuelta». «Somos bastante más de los que esperábamos. Todo va a salir bien. Y viva el campo, que falta hace». El propio representante de Asaja ha asegurado a este medio que ya pueden estimar que han sobrepasado los 1.000 manifestantes. «Tenemos 120 tractores esperando en el recinto ferial de Benacazón que empezarán a unirse tras los que van a pie».
+
+
+
+11.07 
+
+Cortes de tráficoATENCIÓN, información de servicio: 
+cortada al completo la A-49 en sentido Sevilla, la AP-4 en ambos sentidos y la A-4 en dirección Madrid.
+
+
+
+
+
+11.06 
+&amp;lt;blockquote class=&quot;twitter-tweet&quot;&amp;gt;&amp;lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&amp;gt;[Directo tractorada] Benacazón: Llegan los agricultores y ganaderos del Aljarafe al punto de partida. La marcha comenzará en la salida 16 de la A-49 (Benacazón-Sanlúcar) en dirección Sevilla. (Informa: Jesús Bayort) &amp;lt;a href=&quot;https://t.co/pCmK8N1Vqo&quot;&amp;gt;https://t.co/pCmK8N1Vqo&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/Sevillahoy?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Sevillahoy&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/AgricultoresAlL%C3%ADmite?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#AgricultoresAlLímite&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://t.co/ja9Q2EFuOI&quot;&amp;gt;pic.twitter.com/ja9Q2EFuOI&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; ABC de Sevilla (@abcdesevilla) &amp;lt;a href=&quot;https://twitter.com/abcdesevilla/status/1232241445823709184?ref_src=twsrc%5Etfw&quot;&amp;gt;February 25, 2020&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&amp;gt;&amp;lt;/script&amp;gt;
+
+
+
+10.58 
+
+Marcha a pie en LebrijaLos agricultores y ganaderos se encuentran esperando para proceder al corte de la autopista Sevilla-Cádiz en los dos sentidos
+
+
+
+10.55 
+
+
+Las líneas de autobús del Consorcio Metropolitano que sufrirán retrasos por las tractoradas
+El Consorcio Metropolitano de Transportes de Sevilla ha anunciado en sus redes sociales las retenciones y desvíos que sufrirán algunas de sus líneas como consecuencia de las tractoradas y los paros agrarios convocados por las organizaciones agrarias este martes 25. En concreto, se verán afectadas las líneas M-102A, M-102B, M-168 (Espartinas) y M-168 (Directo), que «sufrirán retenciones y desvíos puntuales al circular por la localidad de Benacazón». De esta forma, la línea Línea M-168 sentido Umbrete-Benacazón-Sevilla (Directo A-49), con servicios directos con hora de salida de Benacazón, no podrán acceder a la A-49 por la salida 16, y en su luar lo harán por la salida 14 «siempre que sea posible», para lo que realizarán el mismo recorrido por el interior de Benacazón que la línea M-168. Otro de los puntos de inicio de las tractoradas está a la altura de Carmona, en la A-4, concretamente en el kilómetro 507,8. Allí, según ha avisado el Consorcio Metropolitano, «se producirán retenciones de tráfico y retrasos puntuales en los servicios de la línea M-124, entre las 11:00 y las 14:00». [Conoce más detalle de estos retrasos en el siguiente enlace]
+
+
+
+
+10.54 
+&amp;lt;blockquote class=&quot;twitter-tweet&quot;&amp;gt;&amp;lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&amp;gt;Agricultores de &amp;lt;a href=&quot;https://twitter.com/hashtag/Pilas?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Pilas&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/Hu%C3%A9var?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Huévar&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/Villamanrique?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Villamanrique&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/Carri%C3%B3n?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Carrión&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/Aznalc%C3%A1zar?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Aznalcázar&amp;lt;/a&amp;gt; y de todo el &amp;lt;a href=&quot;https://twitter.com/hashtag/Aljarafe?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Aljarafe&amp;lt;/a&amp;gt; en dirección a &amp;lt;a href=&quot;https://twitter.com/hashtag/Benacaz%C3%B3n?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Benacazón&amp;lt;/a&amp;gt; por &amp;lt;a href=&quot;https://twitter.com/hashtag/SanlucarLaMayor?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#SanlucarLaMayor&amp;lt;/a&amp;gt;. &amp;lt;a href=&quot;https://twitter.com/hashtag/AgricultoresAlL%C3%ADmite?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#AgricultoresAlLímite&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/CampoSVQ?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#CampoSVQ&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://t.co/DvevjYphMs&quot;&amp;gt;pic.twitter.com/DvevjYphMs&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; ASAJA-SEVILLA (@ASAJASEVILLA) &amp;lt;a href=&quot;https://twitter.com/ASAJASEVILLA/status/1232235725350936576?ref_src=twsrc%5Etfw&quot;&amp;gt;February 25, 2020&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&amp;gt;&amp;lt;/script&amp;gt;
+
+
+
+10.51 
+
+Todo listo en el AljarafeLos agricultores y ganaderos del Aljarafe que secundan estas protestas comienzan a llegar al punto de partida de la «tractorada», una marcha que comenzará en la salida 16 de la A-49 (Benacazón-Sanlúcar) en dirección Sevilla. La marcha tiene previsto llegar hasta la salida número 14 de Umbrete. Los tractoristas han apalabrada conducir su maquinaria en la marcha tercera corta, con el fin de mantener una velocidad reducida que alargue la jornada lo máximo posible. Esperando bajo una enorme bandera nacional traída por los convocantes, han aprovechado la coincidencia de un puesto de calentitos que está sirviendo para coger fuerzas de cara a la dura travesía que tienen por delante.
+
+
+
+
+Comienza la marcha a pie de los agricultores hasta el km 53 de la autopista donde se llevará a cabo la concentración y el corte de tráfico- Alejandro Hernández
+
+1048 
+
+Apoyo de las instituciones a los agricultores y ganaderos de SevillaEl Ayuntamiento de Estepa ha apoyado públicamente las reivindicaciones de los agricultores en un día en el que «se moviliza todo el sector en Estepa y la comarca para reivindicar precios justos en origen»
+
+
+
+
+Atasco en la N-4 a la altura de la antigua venta Santa Luisa por El Paso de los tractores de Las Cabezas- Alejandro Hernández
+
+10.44 
+&amp;lt;blockquote class=&quot;twitter-tweet&quot;&amp;gt;&amp;lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&amp;gt;Si tienes previsto desplazarte por la provincia de &amp;lt;a href=&quot;https://twitter.com/hashtag/Sevilla?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Sevilla&amp;lt;/a&amp;gt;, consulta la info &amp;lt;a href=&quot;https://twitter.com/DGTes?ref_src=twsrc%5Etfw&quot;&amp;gt;@DGTes&amp;lt;/a&amp;gt; sobre el estado de las carreteras en infocar.dgt es &amp;lt;br&amp;gt;⚠️11:00 - 14:00 h. Se esperan cortes de &amp;lt;a href=&quot;https://twitter.com/hashtag/tr%C3%A1fico?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#tráfico&amp;lt;/a&amp;gt; en A-4, AP-4, A-49 y A-92&amp;lt;br&amp;gt;Sigue indicaciones de &amp;lt;a href=&quot;https://twitter.com/guardiacivil?ref_src=twsrc%5Etfw&quot;&amp;gt;@guardiacivil&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/Gobernaci%C3%B3n?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Gobernación&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/Ayto_Sevilla?ref_src=twsrc%5Etfw&quot;&amp;gt;@Ayto_Sevilla&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://t.co/rrpYRAOTE5&quot;&amp;gt;pic.twitter.com/rrpYRAOTE5&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; Emergencias Sevilla (@EmergenciasSev) &amp;lt;a href=&quot;https://twitter.com/EmergenciasSev/status/1232234762443644928?ref_src=twsrc%5Etfw&quot;&amp;gt;February 25, 2020&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&amp;gt;&amp;lt;/script&amp;gt;
+
+
+
+10.41 
+
+Primeros atascos en la N-4Llegan los primeros tractores desde Las Cabezas por la N-4 y se dirigen directos a la salida 53 de la autopista. La Guardia Civil los ha escoltado durante todo el trayecto por la carretera nacional. Esta situación ha provocado el primer atasco en la N-4 a la altura de la antigua venta Santa Luisa por El Paso de los tractores de Las Cabezas. Los agricultores llegados en autobús observan a los primeros compañeros llegados en tractores al punto de encuentro.
+
+
+
+10.22 
+
+Comienzan a andar los tractores por la A-49Los primeros tractores ya se dejan ver por la A-49 a la altura de Sanlúcar la Mayor. 
+
+
+
+
+
+
+
+10.15 Mapa interactivo con los cortes de carreteras para evitar quedarse «inmovilizado» este martes&amp;lt;iframe src=&quot;https://www.google.com/maps/d/embed?mid=14OMbBgWJBocSwqVeLIIgDKDOFfEuwoNY&quot; width=&quot;640&quot; height=&quot;480&quot;&amp;gt;&amp;lt;/iframe&amp;gt;
+
+
+
+10.14 Así se encuentra el ambiente en Aguadulce antes de iniciarse las movilizaciones&amp;lt;blockquote class=&quot;twitter-tweet&quot;&amp;gt;&amp;lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&amp;gt;[Directo tractorada] Todo preparado en Aguadulce. La movilización de los agricultores de esta localidad comenzará en breve (Vídeo: &amp;lt;a href=&quot;https://twitter.com/DobladoRaul?ref_src=twsrc%5Etfw&quot;&amp;gt;@DobladoRaul&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;) &amp;lt;a href=&quot;https://t.co/pCmK8N1Vqo&quot;&amp;gt;https://t.co/pCmK8N1Vqo&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/Sevillahoy?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Sevillahoy&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/AgricultoresAlL%C3%ADmite?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#AgricultoresAlLímite&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://t.co/tMo2hGpyuI&quot;&amp;gt;pic.twitter.com/tMo2hGpyuI&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; ABC de Sevilla (@abcdesevilla) &amp;lt;a href=&quot;https://twitter.com/abcdesevilla/status/1232231982798688256?ref_src=twsrc%5Etfw&quot;&amp;gt;February 25, 2020&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&amp;gt;&amp;lt;/script&amp;gt;
+
+
+
+
+Todo listo en Carmona para iniciar la marcha. Mensajes dirigidos al Gobierno por la defensa del campo- Juan Flores
+
+
+Carteles denuncia en Aguadulce- Raúl Doblado
+
+10.10 
+
+Calentando motores en los diferentes puntos de la provinciaCarmona, Aguadulce, Benacazón, Lebrija... ya está todo listo para que se inicien las movilizaciones en la provincia. Carteles, pancartas, banderolas y tractores para llamar la atención sobre la crisis del campo.
+
+
+
+10.05 
+&amp;lt;blockquote class=&quot;twitter-tweet&quot;&amp;gt;&amp;lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&amp;gt;Los tractores llegan al polígono El Pilero, en Carmona, uno de los puntos de partida de las movilizaciones de &amp;lt;a href=&quot;https://twitter.com/hashtag/Sevilla?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Sevilla&amp;lt;/a&amp;gt;. &amp;lt;a href=&quot;https://twitter.com/hashtag/AgricultoresAlL%C3%ADmite?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#AgricultoresAlLímite&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/CoopsAgroSEV?ref_src=twsrc%5Etfw&quot;&amp;gt;@CoopsAgroSEV&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/ASAJASEVILLA?ref_src=twsrc%5Etfw&quot;&amp;gt;@ASAJASEVILLA&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/COAGSevilla?ref_src=twsrc%5Etfw&quot;&amp;gt;@COAGSevilla&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/UPASEVILLA?ref_src=twsrc%5Etfw&quot;&amp;gt;@UPASEVILLA&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://t.co/FWXvBqGG5M&quot;&amp;gt;pic.twitter.com/FWXvBqGG5M&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; CooperativasAgroAND (@CoopsAgroAND) &amp;lt;a href=&quot;https://twitter.com/CoopsAgroAND/status/1232226048928030720?ref_src=twsrc%5Etfw&quot;&amp;gt;February 25, 2020&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&amp;gt;&amp;lt;/script&amp;gt;
+
+
+
+10.02 
+
+Incidencias en el transporte públicoEl Consorcio Metropolitano de Transportes ha anunciado que las líneas M-102A, M-102B, M-168 (Espartinas) y M-168 (Directo) sufrirán retenciones y desvíos puntuales al circular por Benacazón, y la línea M-124 al acceder a Carmona.
+
+
+
+09.56 
+
+Decálogo de soluciones que propone el sector a la crisis agrariaPrecios en origen, seguros agrarios, futura PAC, costes energéticos, fiscalidad, financiación, subida del SMI, acuerdos comerciales, retos de comunicación y mejorar los regadíos. Todos estos puntos son los que el sector del campo cree que precisan de «medidas urgentes» para poder atajar la crisis [Consulta cuáles son las soluciones que propone en este enlace]
+
+
+
+
+
+Están llamados a la convocatoria más de 30.000 profesionales del sector en Sevilla- Juan Flores
+
+
+Agricultores y ganaderos preparados para iniciar a las 11.00 horas de este martes las movilizaciones en Carmona- Juan Flores
+
+09.50 
+
+Hacía 20 años que los agricultores de la provincia no se manifestabanBajo el lema #AgricultoresAlLímite, los agricultores y ganaderos del campo sevillano han decidido llevar a cabo esta tractorada por «la falta de reconocimiento social al sector y el encarecimiento de todos los ‘inputs’ agrarios hacen insostenible la actividad a pie de campo y desincentivan el tan necesario relevo generacional». La agricultura es el principal motor económico de la gran mayoría de los pueblos de Sevilla, de ahí que todas las organizaciones profesionales agrariashayan convocado este paro sectorial, además de tractoradas y cortes de carreteras, previstos en la A49, a la altura de Benacazón; en la A92, a la altura de Aguadulce; en la antigua AP4, entre los kilómetros 53 y 54, y en la A4 a la altura de Carmona, de 11:00 a 14:00 horas.
+
+
+
+
+La niebla acompaña a los manifestantes de Carmona, que están ya listos para iniciar las movilizaciones- Juan Flores
+
+09.46 
+
+Cortes de tráfico a partir de las 11.00 horasLos itinerarios por los que discurrirán las diferentes tractoradas, que ocuparán algunas de las principales vías de comunicación de la provincia, afectarán al tráfico, provocando cortes, entre las 11:00 y 14:00 horas del martes 25 [Picha aquí para ampliar información]
+
+
+
+
+09.41 
+&amp;lt;blockquote class=&quot;twitter-tweet&quot;&amp;gt;&amp;lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&amp;gt;[Directo tractorada] Inicio de la tractorada en Sevilla, concretamente en Carmona (Vídeo: Juan Flores) &amp;lt;a href=&quot;https://t.co/pCmK8N1Vqo&quot;&amp;gt;https://t.co/pCmK8N1Vqo&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/Sevillahoy?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Sevillahoy&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://t.co/UCGo5eQuok&quot;&amp;gt;pic.twitter.com/UCGo5eQuok&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; ABC de Sevilla (@abcdesevilla) &amp;lt;a href=&quot;https://twitter.com/abcdesevilla/status/1232221709404647425?ref_src=twsrc%5Etfw&quot;&amp;gt;February 25, 2020&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&amp;gt;&amp;lt;/script&amp;gt;
+
+
+
+09.37 
+
+Bonificaciones en combustibleComo anécdota, cooperativa como la de la Purísima de Herrera han ofrecido una bonificación de 50 euros en gasóleo agrícola a cada tractor que acuda a la manifestación, también lo ha hecho la S.C.A Agropecuaria de Herrera. La cooperativa olivarero de Casariche ofrece bonificaciones de 30 euros por tractor.
+
+
+
+09.27 
+
+Todo listo para comenzar la jornada de movilizaciones Comienzan a llegar al punto de encuentro en la antigua venta de Santa Luisa los participantes en la concentración. Los primeros han sido los agricultores de Utrera y El Coronil, que han llegado en autobús. A la espera de los tractores procedentes de Lebrija y El Cuervo. Los de Las Cabezas van directo al km 53 de la autopista donde se llevará a cabo la concentración
+
+
+
+
+Agricultores concentrados en Lebrija antes de iniciar la marcha- Alejandro Hernández
+
+09.20 
+
+Más de 30.000 agricultores llamados a la movilizaciónEl campo sevillano ya está preparado para la gran protesta que tendrá lugar este martes a partir de las 11.00 horas. Más de 30.000 agricultores están llamados a la movilización convocada por las organizaciones agrarias (Asaja, COAG y UPA) y Cooperativas Agro-alimentarias, que reclaman un futuro «digno» para el sector agrario. La protesta se enmarca en la campaña nacional de movilizaciones en la que está inmersa el campo español desde el 28 de enero y que ya ha llevado ya a la calle a miles de agricultores de Almería, Málaga, Córdoba, Cádiz, Granada y Jaén. Además, son muchas las empresas y cooperativas del sector agrario que hoy cerrarán para participar en el paro agrario convocado paralelamente a las movilizaciones. Las fábricas de Agrosevilla, la S.C.A Agropecuaria de Herrera y la Cooperativa San Sebastián, entre muchas otras, ya han anunciado que sus instalaciones no abrirán este martes 25.
+
+
+
+09.13 
+
+Las organizaciones que están detrás de esta movilizaciónLas organizaciones sevillanas (Asaja, COAG, UPA), junto con Cooperativas Agro-alimentarias anunciaron a principios de febrero que los agricultores y ganaderos «tomarán las carreteras» para protestar por los bajos precios en origen que afectan cada vez a más cultivos y otras amenazas al campo, como las dificultades para exportar «y el temido recorte de las ayudas comunitarias que planean desde Bruselas». Esta protesta se enmarca dentro de la campaña nacional de movilizaciones en la que está inmersa el campo desde el pasado 28 de enero. Con la convocada en Sevilla, son ya más de una treintena las protestas que ha impulsado el campo español durante los dos primeros meses del año.
+
+
+
+
+Reunión de las organizaciones y cooperativas agrarias- Agrónoma
+
+09.05 
+
+Consulta todos los cortes de tráfico que se producirán este martesEn concreto, los puntos de concentración acordados son los siguientes. Autovía A-4, se cortará el tráfico en dirección Madrid, en el término municipal de Carmona. De hecho, será en el Polígono El Pilero donde se reunirán, para comenzar la tractorada, algunos de los representantes de las organizaciones agrarias sevillanas. Autovía A-49, Los cortes en dicha vía se producirán en dirección Sevilla, partiendo desde la salida número 16, a la altura de Benacazón, hasta la salida número 14, la de Umbrete. Autovía A-92, la movilización se iniciará a la misma hora que las anteriores, a las 11:00, a la altura de Aguadulce, en las inmediaciones del área de Servicio El Caserío. Los tractores y demás maquinaria agrícola circularán hasta la salida 97, que se dirige a Gilena, por lo que el tráfico se verá afectado en dirección Málaga. Antigua AP-4, la protesta agraria, que tendrá lugar de 11:00 a 14:00, cortará los kilómetros 53 y 54 de la antigua autopista de peaje, a la altura de Lebrija, en dirección Cádiz.
+
+
+
+08.55 
+
+Horarios y rutas de las movilizaciones en SevillaSe prevé que las protestas comiencen este martes en la provincia sevillana a partir de las 11.00 horas, aunque no se descarta que se adelante la hora
+
+
+
+08.50 Andalucía al completo, Extremadura, Cataluña... los agricultores y ganaderos de todo el territorio nacional se han unido durante este mes para denunciar la situación por la que atraviesa el sector. Este lunes, Jaén se paralizó totalmente y así los contamos en ABC de Sevilla
+&amp;lt;blockquote class=&quot;twitter-tweet&quot;&amp;gt;&amp;lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&amp;gt;Los 97 municipios jienenses se concentran hoy en defensa del &amp;lt;a href=&quot;https://twitter.com/hashtag/aceitedeoliva?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#aceitedeoliva&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://t.co/E5wByB47rp&quot;&amp;gt;https://t.co/E5wByB47rp&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/agricultura?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#agricultura&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/Ja%C3%A9n?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Jaén&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; Agrónoma (@Agronoma_es) &amp;lt;a href=&quot;https://twitter.com/Agronoma_es/status/1231858848622882817?ref_src=twsrc%5Etfw&quot;&amp;gt;February 24, 2020&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&amp;gt;&amp;lt;/script&amp;gt;
+
+
+
+08.48 
+
+Sigue nuestras redes socialesTambién podrás seguir todo lo que ocurra este martes en las carreteras sevillanas en nuestra cuenta temática de Twitter @Agronoma_es y en la cuenta general @abcdesevilla
+
+
+
+
+08.45 
+
+Centros educativos afectados en toda la provinciaLa delegación territorial de Educación, Deporte, Igualdad, Políticas Sociales y Conciliación en Sevilla ha trasladado una circular a todos los centros educativos que se puedan ver afectados por la manifestación de los agricultores y ganaderos de este martes, y advirtiendo que la falta no será considerada «injustificada». [Puedes ampliar la información aquí]
+
+
+
+
+
+
+08.42 
+
+Carreteras a evitar este martes en SevillaPuedes consultar todas las vías y los puntos kilométricos afectados por la protesta del campo sevillano y los horarios a evitar en el siguiente enlace
+
+
+
+
+08.40 
+&amp;lt;blockquote class=&quot;twitter-tweet&quot;&amp;gt;&amp;lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&amp;gt;Este es el decálogo de medidas concretas que darían solución a los problemas del sector, que continuará con las protestas. &amp;lt;a href=&quot;https://t.co/mbHLS5lNte&quot;&amp;gt;https://t.co/mbHLS5lNte&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/Agricultoresall%C3%ADmite?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Agricultoresallímite&amp;lt;/a&amp;gt; Vía &amp;lt;a href=&quot;https://twitter.com/Agronoma_es?ref_src=twsrc%5Etfw&quot;&amp;gt;@Agronoma_es&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; ABC de Sevilla (@abcdesevilla) &amp;lt;a href=&quot;https://twitter.com/abcdesevilla/status/1232002432802181121?ref_src=twsrc%5Etfw&quot;&amp;gt;February 24, 2020&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&amp;gt;&amp;lt;/script&amp;gt;
+
+
+
+08.35 
+
+Los cortes de tráfico en la provinciaCientos de tractores, y miles de agricultores, según avanzan los organizadores (Asaja, COAG, UPA y Cooperativas Agro-alimentarias), harán cortes en las principales vías de acceso a la capital andaluza -la A 4, la AP 4, la A 92 y la A 49. [Aquí todos los detalles de la jornada de protestas en Sevilla]
+
+
+
+
+08.30 
+
+¡Buenos días!Bienvenidos al directo de la jornada de protestas del campo sevillano. A partir de las 09.00 horas contaremos todo lo que suceda en las diferentes carreteras en las que se producirán tractoradas para defender la supervivencia de la agricultura.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Tue, 25 Feb 2020 09:00:22 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-directo-tractorada-sevilla-cortes-trafico-manifestacion-agricultores-202002250900_directo.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>El coronavirus frustra el viaje de fin de curso de colegios e institutos sevillanos</title>
+<link>https://sevilla.abc.es/sevilla/sevi-coronavirus-frustra-viaje-curso-colegios-institutos-sevillanos-202002250738_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/24/s/coliseo-roma-sevilla.jpg-U87781702688EfY-620x349@abc.jpg&quot;&gt;Varios colegios e institutos de Sevilla que tenían previsto viajar estos días a Italia de viaje de fin de curso han cambiado sus planes y han decidido cambiar el destino por culpa del coronavirus.
+
+
+
+Uno de los primeros en suspender su viaje a Italia ha sido Los Padres Blancos. El centro, cuyos alumnos de 2º de Bachillerato tenían previsto viajar ayer lunes con destino a Roma como parte del viaje de fin de curso que los colegios suelen organizar a finales de febrero y coincidiendo con el puente de Andalucía, ha decidido cambiar su itinerario. Así 91 alumnos que pensaban marcharse a Roma, modificaron su ruta y se han ido a Portugal.
+
+
+La directora de Secundaria y Bachillerato, Cristina Gómez, confirmó ayer a ABC el cambio de itinerario que el centro decidió veinticuatro horas antes de que los estudiantes se marcharan. «Hemos tomado una decisión rápida, en 24 horas, con todo el equipo de profesores reunidos«, dijo la directora explicando que, antes de modificar la ruta hablaron con el Ministerio de Educación italiano que fue el que les indicó que, aunque de momento la zona de Roma parece tranquila »no tenían garantizada la vuelta«.
+
+
+Rumbo a Portugal
+Por ello y teniendo en cuenta que la mayoría de estudiantes de los que iban a ese viaje son menores de edad, el centro decidió modificar sus planes. Los alumnos, que tenían previsto salir de Sevilla con destino a Madrid y, desde allí volar a Roma, se marcharán hoy hacia Lisboa.
+
+
+
+Otro instituto que tiene previsto modificar sus planes es el Murillo. En el centro, donde cada año realizan un intercambio con la ciudad italiana de Bérgamo, ya se lo están pensando. Según explicó su director Alberto Gómez, cada año quince estudiantes de 1º de Bachillerato realizan un intercambio con esa ciudad italiana, una de las que está en cuarentena por el virus. Por ello el centro, q
+ue envía a los estudiantes a esa ciudad a pasar una semana, durante la cual conviven con una familia y asisten a un instituto local, tiene previsto proponer la supresión de la actividad.
+
+
+
+«El viaje estaba previsto del 18 al 23 de marzo pero la situación hace que sea desaconsejable. Tenemos previsto hablar con los padres y comunicárselo«, dijo el director del centro que explicó que han contactado con los profesores de Bérgamo y están »bastante preocupados«. 
+
+
+El IES Vicente Alexandre es otro de los que baraja suspender el viaje de los chicos de 1º de Bachillerato a Italia previsto el próximo mes de abril. Fuentes del centro han explicado que el recorrido, que incluía ciudades como Venecia y Florencia, está en el aire. De momento, pese a que tienen los vuelos reservados, se lo están pensando ya que tienen tiempo puesto que falta un mes. 
+
+
+
+En el colegio Europa, que tiene previsto otro viaje a finales de marzo, decidirán esta semana. En parecida situación se encuentra otro centro concertado de Sevilla que tiene previsto un viaje de fin de curso a Italia y cuya directora no quiso desvelar cual será su decisión final hasta comunicárselo a los padres.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Tue, 25 Feb 2020 07:38:53 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-coronavirus-frustra-viaje-curso-colegios-institutos-sevillanos-202002250738_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>El notario al que un opositor suspendido quiso matar: «No le guardo rencor»</title>
+<link>https://sevilla.abc.es/sevilla/sevi-notario-opositor-suspendido-quiso-matar-no-guardo-rencor-202002242045_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/24/s/julio-burdiel-notario-disparo-keJH-U43622453672vKn-620x349@abc.jpg&quot;&gt;El 16 de enero de 1985 ocurrió un suceso que saltó a las portadas de todos los periódicos y que marcó la vida de Julio Burdiel Hernández, un notario abulense que el pasado mes de enero cumplió 90 años y que este lunes presentó en Sevilla «Aquello también fue vida» (Point de Lunettes), una novela de tintes autobiográficos.
+
+
+Un opositor que había suspendido por tercera vez Notarías irrumpía en el salón del Colegio de Notarios de Madrid en medio de uno de los exámenes orales y disparaba a los miembros del tribunal, a los que acusó de haberles «destrozado» su vida. Hirió de extrema gravedad a dos de ellos, tras lo cual se metió el arma en la boca, que había sustraído a su padre, magistrado del Tribunal Supremo, y apretó el gatillo. Un testigo presente aseguró que el atacante exclamó «¡Dios mío, Dios mío!» poco antes de morir.
+
+
+El tribunal de la oposición, posiblemente, más dura de España y a la que se presentaban los mejores estudiantes de Derecho de todo el país (constaba entonces de 444 temas de Derecho Civil, Tributario, Mercantil e Hipotecario de los que había que exponer diez, uno detrás de otro, en una hora y media de tiempo), lo componían siete personas: un letrado de la Dirección General de Registros y Notariado (que lo presidía), dos notarios, un magistrado del Tribunal Supremo, un catedrático de Derecho Civil, un abogado del Estado y un registrador de la propiedad. 
+
+
+Aunque ha llovido mucho desde entonces, Julio Burdiel recuerda perfectamente lo ocurrido aquella tarde de enero que cambió su vida y la de muchas de las personas presentes. «Los miembros del tribunal estábamos escuchando la exposición y estábamos tomando notas de nuestras impresiones, como solíamos hacer, sin mirar al opositor. Todo iba normal hasta que de pronto se calla. Levanté entonces la cabeza y pensé que se iba a retirar, como solía suceder cuando alguien interrumpía su exposición. Pero no era eso: se calló porque tenía a su lado, a unos tres o cuatro metros de mí, a otro chico con una pistola en la mano. Tenía gafas y vestía un abrigo gris marengo. Pensé que era un policía de paisano y me pregunté qué estaría pasando fuera de la sala para que este hombre entrara allí armado. Al instante nos apuntó diciendo: «Señores, ustedes han destrozado mi vida. Dispónganse a morir».
+
+
+El presidente del tribunal se tiró debajo de la mesa y el chico le disparó dos veces pero la mesa debió de protegerle y desviar las balas. «A continuación, apuntó a un magistrado del Supremo pero no le disparó -recuerda Burdiel-. No lo mató porque era compañero de su padre y debía de conocerle. Al siguiente, que era un joven catedrático, sí le disparó. La bala le entró por la espalda y la cruzó entera sin tocarle milagrosamente ningún órgano vital. Al abogado del Estado también le pegó un tiro pero no le dio, y el otro notario le lanzó entonces un cenicero muy pesado y salió disparado de allí», cuenta.
+
+
+
+El chico dijo antes de dispararnos: «Señores, me han destrozado la vida. Dispónganse a morir»
+
+
+
+La situación de pánico que se desató a partir de ese momento en el salón de actos del Colegio de Notarios de Madrid no es difícil de imaginar. «Yo me levanté rápidamente pero tropecé con un sillón; entonces giré y sentí el tiro, que me atravesó el hígado y el estómago. Como estaba tan cerca, el disparo me lanzó al suelo de espaldas. El dolor era insoportable y estuve tirado no sé cuánto tiempo hasta que dos policías nacionales me cogieron y me bajaron por las escaleras», cuenta. 
+
+
+Burdiel no perdió el conocimiento y recuerda que el magistrado del Supremo, compañero en el tribunal, que se metió con él en el coche policial y les dijo a los policías que «o van ustedes más rápido o este hombre no llega vivo al hospital». Por fortuna, el Gregorio Marañón estaba cerca y llegaron pronto, aunque ya sin fuerzas para hablar y con la tensión a a seis.
+
+
+A Julio Burdiel le dolía tanto el estómago que dice que lo que único que quería en ese momento era «morirse». Por fortuna, se quedó incosciente y cuando se despertó al día siguiente tenía un frío espantoso en los pies y no tenía fuerzas para nada. «La enfermera me echó tres mantas por encima. Cuando se me pasó el frío, me sentí completamente feliz», cuenta. 
+
+
+Le tuvieron que operar dos veces y ponerle siete litros de sangre. «Me quitaron la vesícula y me cosieron el estómago pero el problema era el hígado, que estaba destrozado, y los pulmones, que dejaron de funcionar. A mi mujer le dijeron que si en tres días dejaba de sangrar, me volverían a opera, y que si no dejaba de hacerlo, moriría». Estuvo diez días en la UVI y el día que lo ingresaron en planta lo pusieron a bailar. «Me dijeron que tenía que moverme para que no se me formara ningún cóagulo y el caso es que recuerdo que pude bailar un poco, imagino que me habrían drogado para poder hacerlo», asegura.
+
+
+Sólo le funcionaba una parte muy pequeña de los pulmones y le dijeron que si hubiera sido fumador, no habría sobrevivido. «Eso se lo tengo que agradecer a una tía que me cogió fumando cuando era un chiquillo y me hizo prometerle que no me castigaría ni se lo diría a mi padre si no volvía a hacerlo en la vida -recuerda-. Cumplí mi palabra y gracias a eso, con ese trocito de pulmón, pude respirar hasta que me curé», cuenta.
+
+
+Lo primero que preguntó Julio Burdiel cuando salió de la UVI del Gregorio Marañón fue cómo estaba el «chico» que le había disparado. No pudo ver cómo se suicidaba pero intuía que algo malo le había ocurrido. «No le guardo ningún rencor, ni siquiera entonces, cuando estaba tan dolorido por el disparo», cuenta. «En aquella época un licenciado en Derecho tenía trabajo pero este chico tenía un hermano juez y otro notario -cuenta. Luego pude enterarme de que había recibido fuertes presiones familiares, al parecer, de su madre, para que siguiera el camino de su hermano y se hiciera también notario. Yo creo que hay que dejar a cada uno que elija su destino». 
+
+
+Ya recuperado, aunque con secuelas de por vida (tiene que tomar varias pastillas al día y sufre hepatitis C por las transfusiones de sangre) le escribió un poema en el que lamentaba que no hubiera hablado con ningún miembro del tribunal para desahogar su frustración. «Le habríamos reorientado y yo creo que no hace falta ser notario o juez para ser feliz en la vida. Hay otras muchas cosas», cuenta. 
+
+
+Los padres de este opositor se presentaron en su casa meses después de lo ocurrido. «Me pidieron perdón y me ofrecieron dinero. Acepté las disculpas y rechacé cualquier compensación económica». 
+
+
+Burdiel asegura que en esta oposición tan difícil «nadie aprobaba que no se supiera el temario y puedo asegurar que no funcionaban las recomendaciones porque en el tribunal éramos siete personas independientes«. El presidente del mismo conocía al homicida frustrado de las dos veces anteriores que se había presentado. »En esta tercera se vio que había estudiado pero no dio el nivel suficiente para aprobar y lo suspendimos. Aunque no resultó herido como yo, el presidente se quedó muy trastornado por lo ocurrido y nunca se recuperó del todo. No tenía hijos y consideraba a sus opositores como una especie de familia. Para él fue como la rebelión de los hijos y no volvió a entrar en la sala donde ocurrió todo ni quiso hablar de eso nunca más», recuerda.
+
+
+
+«La familia del opositor que me disparó vino a mi casa a pedirme perdón y a ofrecerme dinero. Acepté sus disculpas pero rechacé lo segundo»
+
+
+
+Cuando unos años después le nombraron director general de Registros y del Notariado, tuvo que convocar una oposición entre notarios y un alto cargo del Ministerio le sugirió que renunciase a formar parte del tribunal y delegar la presidencia en otra persona, a lo que él se negó. «Fue una cosa insólita que a un opositor a Notarías que se estaba jugando el porvenir le diera un golpe de locura así y estaba seguro de que un notario con plaza ganada no me iba a disparar porque no ascienda un poco en el escalafón», bromea.
+
+
+Aquello también fue vida
+Burdiel ejerció como notario hasta su jubilación, aunque también es poeta y escritor. Este lunes presentó en el Colegio de Notarios de Sevilla su novela «Aquello también fue vida» (Editorial Point de Lunettes), en la que cuenta la historia de un niño de la posguerra, sus peripecias familiares y su educación en un colegio de curas en la Salamanca de los años cuarenta. «Pasamos mucho hambre y mucho frío», cuenta a ABC. Junto a Luciano González Egido (l Premio de la Crítica por El Corazón Inmóvil) y otros aspirantes a poeta, este notario que acaba de cumplir 90 años publicó en plena posguerra «Agua eterna». En esa época conoció a los escritores del 98, a los poetas del 27 y a los grandes novelistas europeos del siglo XIX. 
+
+
+En 1949 Burdiel descubrió a Faulkner y Hemingway y ese año, junto a su amigo Luciano G. Egido, viajó a Madrid para conocer a Pío Baroja. Sólo tenían 18 años: «Nos recibió en su casa y estuvimos cuatro horas hablando hasta que ya nos dijo que se iba a beber leche a la cocina. Hablamos de todo, de Churchill y el Canal de Suez, y de literatura. Él no conocía a Faulkner y tuvimos la fortuna de poder explicarle quién era ese autor norteamericano que acababa de recibir el Premio Nobel al que nosotros habíamos leído«, cuenta a ABC. «Ese viaje nos costó unas 400 pesetas de entonces pero admirábamos tanto a Pío Baroja. Él nos pregunto qué se decía de Unamuno en Salamanca porque no se llevaba muy bien con él -añade-. Admiraba a Ortega y Gasset pero nos dijo que no entendía que fulminara la monarquía sin saber que una revolución podía acabar mal en España, como de hecho acabó».</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 20:45:49 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-notario-opositor-suspendido-quiso-matar-no-guardo-rencor-202002242045_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>Las estadísticas de las últimas cuatro décadas auguran dos o tres días de lluvia en la Semana Santa de Sevilla</title>
+<link>https://sevilla.abc.es/sevilla/sevi-estadisticas-ultimas-cuatro-decadas-auguran-o-tres-dias-lluvia-semana-santa-sevilla-202002242031_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static2-sevilla.abc.es/media/sevilla/2020/02/25/s/semana-santa-lluvia-kJDD--620x349@abc.jpg&quot;&gt;Sevilla se prepara para vivir a partir de este miércoles la Cuaresma, preludio a la semana grande de la ciudad, junto con la Feria de Abril, y que se vive con fervor no sólo por parte de las hermandades y cofradías que la componen, sino por parte del comercio sevillano que espera que sus ventas se disparen durante estas fechas.
+
+
+Como cada año, los sevillanos están muy pendientes a todo tipo de noticias que tiene que ver con los pronósticos meteorológicos oficiales, por ejemplo los que proporciona la Agencia Estatal de Meteorología (Aemet), y no oficiosos, como las cabañuelas que son una manera tradicional de predecir el tiempo por parte de los agricultores.
+
+
+César Rodríguez Ballesteros, del Área de Climatología y Aplicaciones Operativas de Aemet) ha elaborado el informe «Apuntes climatológicos para la Semana Santa 2020» en la que toma como referencia la misma fecha, del 5 al 12 de abril, de los últimos 39 años en la misma.
+
+
+Como el mismo informe asegura, «no se trata de una predicción», sino que el objetivo del análisis es obtener un resumen de cómo han sido los días comprendidos en este período, y en ningún momento «se debe tomar como una predicción para la Semana Santa de 2020».
+
+
+Si bien no es posible disponer de una «predicción fiable» hasta fechas cercanas, desde hace unos años Aemet realiza este tipo de resumen climatológico para conocer cómo se han portado estos días en años reciente, en concreto desde 1981.
+
+
+Este año, la Semana Santa comienza el domingo 5 de abril y acaba el 12 si bien hay que recordar que no siempre cae en la misma fecha, pues esta es cambiante en función de la primera luna llena a partir del 21 de marzo, acontecimiento que marca asimismo el inicio de la Cuaresma y el carnaval. La Semana Santa de este año será muy idéntica en cuanto a fechas de celebración a la de 2017, cuando se celebró del 9 al 16 abril. 
+
+
+Según los datos de los que dispone Aemet y a los que ha tenido acceso ABC, en los últimos 39 años se han registrado en la semana del 5 al 12 de abril información relativa a las temperaturas, viento y precipitaciones, entre otros factores.
+
+
+Así, el número de precipitaciones en este período se sitúan entre dos y tres días de media en el período comprendido entre el 5 y 13 de abril según los últimos 39 años en la provincia de Sevilla, según el citado informe, situándose el valor más bajo las provincias más orientales de Andalucía, como Almería, con entre 1 y 2 días de precipitaciones.
+
+
+En lo relativo a las temperaturas, cabe destacar que Sevilla registró una de las temperaturas más altas en estas fechas analizadas. Fue el 9 de abril de 1995 cuando el mercurio se elevó hasta los 33 grados, mientras que la temperatura máxima más baja en la provincia fue de 14,6 grados el 11 de abril de 2002. Por contra, la media de las mínimas oscilaron en este período entre los 10 y los 14 grados de media.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 20:31:35 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-estadisticas-ultimas-cuatro-decadas-auguran-o-tres-dias-lluvia-semana-santa-sevilla-202002242031_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>Sevilla capital tiene más bares que camas de hospital</title>
+<link>https://sevilla.abc.es/sevilla/sevi-sevilla-capital-tiene-mas-bares-camas-hospital-202002242027_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static2-sevilla.abc.es/media/sevilla/2020/02/25/s/sevilla-informe-social-kAJ--620x349@abc.jpg&quot;&gt;Que Sevilla es una ciudad donde predomina el sector servicios no es una afirmación que extrañe a nadie. Y que abundan los bares, las cafeterías e incluso los restaurantes, tampoco. Pero cuando se repasan las cifras oficiales, algunas comparativas llaman poderosamente la atención. Eso ocurre al desmenuzar los registros de las fichas socioeconómicas de cada municipio español que acaba de hacer públicas el Consejo General de Economistas de España, una herramienta muy útil para analizar la estructura social de cualquier punto del país. En dicho informe, al que ha tenido acceso ABC, los apartados referidos a ese sector servicios y los del equipamiento social poseen detalles muy significativos cuando se cotejan y se enfrentan. Uno de los más sorprendentes es el que permite confirmar que en Sevilla capital hay más bares que camas de hospital. 
+
+
+Este significativo hecho se desprende del análisis de esas fichas socioeconómicas de la ciudad más recientes (julio de 2019), las que acaban de emitirse, en las que el apartado sobre la sanidad indica que en la capital andaluza existen cuatro consultorios y 31 centros de salud, de modo que suman 35 en total, además de 18 hospitales. Todo ello suma 3.756 camas hospitalarias. Si se colocan esas cifras delante de las de otros servicios públicos, salta a la vista la relación con la cantidad de bares, cafeterías o restaurantes: frente a las 3.756 camas para pacientes en hospitales, 3.856 bares y cafés. Deben añadírsele, además, otras 117 cafeterías. Abrumador. Y si a ello se le agregan los 575 restaurantes que actualmente se contabilizan en la ciudad, la cantidad es cercana a los 4.600 establecimientos para comer o tomar algo. Hay más de un millar de bares de diferencia sobre las camas de hospital, fruto del constante crecimiento de los primeros en la capital hispalense, que se está viendo reforzada en ese sentido por el impresionante auge del turismo estos últimos años. Por contra, la coyuntura sanitaria no ha crecido al ritmo deseado durante esta misma fase, lo que le hace perder claramente comba con respecto al resto de equipamientos y servicios. 
+
+
+Hasta comparando con otros parámetros, llama la atención el resultado. Por ejemplo, la ciudad tiene también más campos de fútbol (38) que centros de salud (los mencionados 35); o más pabellones con frontón o frontones en recintos cerrados (37); o más pistas de tenis (37); o muchas más piscinas cubiertas (129 entre públicas y privadas). Sevilla capital tiene, por ejemplo, 38 comercios exclusivos de venta de vinos, tres más que centros de salud. Actualmente, la capital de la región posee 372 farmacias y 187 hoteles.
+
+
+Sólo Madrid se acerca
+Siendo alta la cantidad de bares y cafeterías en general en casi todas las grandes ciudades españolas (donde el clima la cultura urbana y el turismo marcan un valor diferencial muy sólido con respecto al resto de Europa en esta faceta), en el caso de Sevilla este fenómeno está más acentuado que en otros urbes principales. De hecho, es la única de las cinco grandes ciudades españolas donde el número de bares es superior el de camas hospitalarias. Sólo está más o menos a su altura Madrid, donde la cifra actual es prácticamente la misma en uno y otro concepto, 12.900 bares y cafés frente a 12.890 camas de hospital. En proporción, la capital hispalense la supera en esa comparativa. Al resto, las directamente aplasta. En Barcelona existen ahora mismo 7.760 bares y cafeterías, dato notablemente inferior al de sus 10.400 camas para enfermos. Por otra parte, en las tres ciudades más parecidas a Sevilla en lo que tiene que ver con el número de habitantes, el cotejo también es destacado. En Valencia, el número de bares y cafeterías es parecido al de Sevilla, 3.850, pero, por contra, posee 3.970 camas de hospital, 220 más que en el caso hispalense. Zaragoza, por su lado, tiene actualmente en servicio 3.770 camas en sus centros hospitalarios frente a los 3.290 bares. Y en Málaga, la sexta capital española demográficamente hablando, la cifra de bares y cafeterías alcanza las 2.790 unidades frente a sus 3.200 camas hospitalarias. De las grandes capitales, Sevilla es la única donde hay más bares y cafeterías que camas para enfermos.
+
+
+La actividad principal
+Esa vertiente de ciudad eminentemente de servicios queda muy acentuada en este informe del Consejo General de Economistas, que radiografía a Sevilla con enorme precisión y muestra la enorme diferencia entre las empresas relacionadas con el comercio y la hostelería sobre el resto. De esta forma, se señala que, a fecha de 30 de junio de 2019, son 16.867 las compañías relacionadas con ese apartado, el del comercio y la hostelería, mientras que las de actividades profesionales y técnicas (segundas del escalafón) son 12.040; las industrias suman apenas 1.925; las empresas de la construcción, 3.629; las de información y comunicación, 1.064; las de actividades financiera y seguros, 1.477; las vinculadas a actividades inmobiliarias son 2.991; y las de educación, sanidad y servicios sociales actualmente son 5.362. Quiere esto decir que las empresas de comercio y hostelería son en Sevilla el triple que las de educación, sanidad y servicios sociales. El 72% de la población empleada lo hace precisamente en el sector servicios, frente al 5,3% que lo hace en la industria, el 7,4% que se dedica a la construcción o el exiguo 2,1% que trabaja en la agricultura. 
+
+
+Dentro de ese ámbito de los servicios, Sevilla capital cuenta en la actualidad con más de 15.600 establecimientos de índole comercial, que se dividen entre las 7.167 tiendas de comercio al por menor de productos no alimenticios y las 2.962 de alimentación, bebidas o tabaco, de entre las que llama la atención el alto número de panaderías y confiterías, que roza el medio millar en la ciudad; del primer grupo, las que no tienen que ver con la alimentación, sobresalen los comercios de moda (textil, confección, pieles y calzado), con 1.800 establecimientos repartidos por toda la localidad hispalense, así como 1.547 firmas de equipamiento del hogar, bricolaje, construcción y saneamiento.
+
+
+En cuanto a ese equipamiento básico del que forman parte los bares y restaurantes, deben destacarse también los registros que presentan los establecimientos hoteleros, con 187 hoteles, 122 hostales y pensiones y hasta 221 complejos de alojamientos turísticos extrahoteleros, un ámbito al que en el segundo semestre del año 2019 se han sumado al menos una decena más, aún no recogidos en este estudio de los economistas por cerrar su recogida de datos en verano. El ritmo de crecimiento en este apartado viene siendo espectacular en los cuatro últimos años, en los que no ha encontrado rival posible que refleje un porcentaje ni siquiera parecido de crecimiento. En otros aspectos de ese equipamiento básico y de ocio mantiene Sevilla unos guarismos similares a otras ciudades de sus dimensiones al estar muy normalizados, como las gasolineras (tiene 106 en su término municipal) o las farmacias y comercios sanitarios o de higiene (372).
+
+
+También en lo referente a las salas de cine, en franca decadencia, la capital andaluza muestra cifras similares a otras grandes capitales: Sevilla tiene 18,5 butacas por cada mil habitantes, la segunda peor de las principales urbes detrás de Madrid, que sólo tiene 15,5 butacas por mil personas. La mejor es Barcelona, con 21,5, mientras que Valencia posee 22,8 y Zaragoza, 20,6 butacas por mil habitantes.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 20:27:45 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-sevilla-capital-tiene-mas-bares-camas-hospital-202002242027_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>El PP denuncia el «degradado e indigno» estado en el que se encuentra la Plaza Nueva de Sevilla</title>
+<link>https://sevilla.abc.es/sevilla/sevi-pp-denuncia-degradado-indigno-estado-encuentra-plaza-nueva-sevilla-202002241749_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/24/s/collage-pp-plazanueva.jpg-kCYE--620x349@abc.jpg&quot;&gt;La concejal del Grupo Popular, Ana Jáuregui, denunció ayer el estado «degradado e indigno de la Plaza Nueva», criticando que «es una metáfora perfecta de lo que se ha convertido la ciudad de Sevilla. Una ciudad acogedora de eventos que lucen de manera efímera, pero que no gestionan ni para transformar ni para resolver los problemas del día a día». 
+
+
+Así, Jáuregui detalló de manera minuciosa todos los desperfectos y problemas que existen en la Plaza Nueva, que pasan, en primer lugar por los daños sufridos en la solería de mármol, «como consecuencia de los continuos eventos que la Plaza Nueva alberga, tras los cuales apenas se hacen trabajos de mantenimiento». 
+
+
+En cuanto al pavimento levantado en la zona de tránsito de vehículos, desde el PP «exigimos intervenir en la zona comprendida entre el Hotel Inglaterra y la parada de taxis, donde el pavimento está levantado y supone un verdadero peligro para peatones y especialmente para los conductores de motos». 
+
+
+Jáuregui recordó que «desde el Grupo Popular ya denunciamos en octubre del año pasado el estado de la vía pública y calzada en nuestra ciudad. Presentamos más de tres mil imágenes como una pequeña muestra del estado lamentable en el que se encuentra la vía pública de la ciudad». 
+
+
+Arreglo del acerado
+Además, la concejal popular recordó que en octubre «presentamos una propuesta para que el gobierno de Espadas realizara un plan de choque para el arreglo del acerado, las calzadas, pinturas de la vía pública de las señales viales, así como los pasos de cebra. Algo que parece no es una prioridad de este gobierno», manifestó Jáuregui. 
+
+
+En lo referente al estado en el que se encuentran los bancos de la Plaza Nueva, estos son empleados, según su crítica, como «despensas o lugares donde personas sin hogar alojan sus enseres personales. Solo hay que darse una vuelta, a partir de media tarde para comprobar este hecho, invitamos al señor Espadas a salir del despacho y que vea la realidad, el estado y la suciedad de la plaza, y tome medidas urgentes». 
+
+
+El PP asegura que por las noches, las personas sin hogar ocupan bancos, así como portales de edificios. «Siendo sensibles a las situaciones tan delicadas de estas personas, esto es un absoluto fracaso de los servicios sociales del Ayuntamiento, puesto que el gobierno municipal debe ofrecer recursos sociales a estas personas». 
+
+
+La concejal popular destacó, asimismo, que «es necesario revisar los motivos ornamentales de la plaza porque muchos de ellos o faltan o se encuentran en mal estado». Recuerda el PP que a principios de año, la Gerencia de Urbanismo publicaba en prensa el incremento del presupuesto en un 25% con respecto a 2019, «para conservación de monumentos públicos y mobiliario ubicados en espacios públicos y emblemáticos». 
+
+
+
+«Es necesario revisar los motivos ornamentales de la plaza porque muchos de ellos o faltan o se encuentran en mal estado»
+
+
+
+Uno de los temas que más «indignación» ha provocado para los populares es la suciedad de la Plaza Nueva. «Es del todo nauseabundo el estado de determinadas zonas de la Plaza Nueva, donde o no se limpia o falla clamorosamente la manera en la que se hace. Esta denuncia no es nueva, puesto que en el pasado mes de septiembre demostramos con un simple gesto el grado de suciedad incrustada que tenía el suelo de la Plaza Nueva».
+
+
+En este sentido, recuerda la concejal popular que «si bien el Gobierno local reaccionó rápidamente procediendo a una concienciada limpieza, semanas después la Plaza Nueva volvió a su estado de suciedad habitual. Basta pasear por el entorno de los aparcamientos para bicicletas para ver y pisar excrementos de aves incrustados en el suelo que deterioran y dañan la imagen de este lugar».</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 17:49:40 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-pp-denuncia-degradado-indigno-estado-encuentra-plaza-nueva-sevilla-202002241749_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>El padre del bebé muerto en El Cerezo niega que le dieran un golpe o lo zarandeara</title>
+<link>https://sevilla.abc.es/sevilla/sevi-padre-bebe-muerto-cerezo-niega-dieran-golpe-o-zarandeara-202002241621_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static2-sevilla.abc.es/media/sevilla/2020/02/24/s/acusados-bebe-cerezo-kijC-U55687400557QTy-620x349@abc.JPG&quot;&gt;La Audiencia de Sevilla ha acogido este lunes la segunda sesión del juicio con jurado contra Bryan S.R.G. y Ruth F.G., padres del bebé de seis meses fallecido en junio de 2017 en el Hospital Virgen Macarena de la capital por una fractura en el cráneo y síntomas del síndrome del bebé zarandeado. Hoy ha sido el turno del interrogatorio a los dos acusados. El padre, que se enfrenta a la prisión permanente revisable acusado del asesinato de su hijo, ha negado que le haya dado un golpe o lo zarandeara bruscamente, insistiendo en que el niño de atragantó tomando el biberón de leche y por ello acudió al centro hospitalario. 
+
+
+La madre del bebé, para quien la Fiscalía solicita año y medio de cárcel por un delito de malos tratos y otro de abandono de familia, ha negado igualmente que su expareja le diera un golpe al hijo de ambos. Los dos han coincidido en apuntar a una amiga, Raquel, como la posible autora del golpe que pudo acabar con la vida de su hijo. Ella fue quien bajo al bebé por las escaleras del bloque de la calle Playa de Valdelagrana, del barrio del Cerezo, donde vivían los acusados de okupas. 
+
+
+Era un quinto piso y bajó las escaleras corriendo porque el niño se estaba ahogando. Tanto el padre como la madre han señalado que hay vecinos del barrio que han escuchado a esta mujer decir que «le dio un golpe sin querer» al niño al bajar las escaleras, «pero no se quiere comer el marrón», han añadido los acusados. 
+
+
+Esta teoría ya fue planteada por la defensa de Bryan S.R.G. en el primer juicio celebrado el pasado año y que tuvo que ser suspendido y anulada la prueba por el intento de suicidio del acusado. 
+
+
+La madre ha admitido este lunes que no acudió a algunas citas médicas, hechos que podrían constituir el delito de abandono de familia. Además, ha asegurado que en una sola ocasión discutió con su pareja porque al darle masajes al bebé para que éste tomara correctamente el biberón le hizo unas marcas en la cara. Es el único episodio de maltrato por el que acusan a ambos. 
+
+
+Fumaban porros
+Los dos también 
+
+han reconocido que fumaban porros
+. Ella ha dicho que incluso delante del niño, mientras él ha asegurado que salían al balcón. Semanas antes del 12 de junio de 2017, cuando tuvieron que acudir al hospital con el bebé, que murió cinco días después, comenzó a vivir con ellos esta amiga, Raquel. Todos en situación ilegal en el piso. De hecho, los acusados han mantenido que ella se quedó a vivir allí cuando fueron detenidos, aunque el jefe del Grupo de Homicidios de la Policía Nacional, instructor de la investigación, ha dicho que no le consta.
+
+
+Precisamente, la declaración de este inspector en el juicio ha vuelto a causar bastante protestas por parte de las defensas, sobre todo, por las respuestas que iba dando el agente a las preguntas de la fiscal. De hecho, el abogado del acusado ha ironizado sobre las contestaciones del jefe policial: &quot;Usted cree mucho&quot;. 
+
+
+El agente, como ya hiciera en el primer juicio, ha dado respuestas muy extensas y detalladas de la investigación, lo que ha provocado que el propio abogado defensor le interrumpiera, con la correspondiente llamada de atención de Mercedes Alaya. 
+
+
+Manipulación de testigos
+Ha afirmado que las vecinas y amigas trasladaron a los agentes que las discusiones y peleas entre la pareja de acusados eran continuas. De hecho, una de ellas le dijo que oyó golpes el día 12 en la casa de los acusados y momentos después vio a Raquel bajando con el niño por las escaleras. 
+
+
+Según el jefe del Grupo de Homicidios, sólo Bryan S.R.G. estaba en el piso en el tramo horario en el que ocurrieron los hechos que causaron la muerte del bebé. 
+
+
+Por último, el agente ha acusado a Ruth F.G. de amenazar y manipular a testigos como su hermana Libertad y su amiga Raquel. Incluso, la acusada dañó el vehículo de su excuñado.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 16:21:49 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-padre-bebe-muerto-cerezo-niega-dieran-golpe-o-zarandeara-202002241621_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>El distrito Cerro-Amate tendrá  caseta propia en la Feria de Abril 2020</title>
+<link>https://sevilla.abc.es/sevilla/sevi-distrito-cerro-amate-tendra-caseta-propia-feria-abril-2020-202002241454_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static3-sevilla.abc.es/media/sevilla/2020/02/24/s/casetas-feria-sevill-U65330438341nhP-620x349@abc.jpg&quot;&gt;El Ayuntamiento de Sevilla, a través de la Delegación de Gobernación y Fiestas Mayores, ha adjudicado cinco casetas que han quedado vacantes para la Feria de Abril de 2020 y ha optado por utilizar una de ellas para destinarla al Distrito Cerro-Amate, que hasta ahora compartía espacio con el Distrito Este-Alcosa-Torreblanca. Esta adjudicación, que aún tiene que ser ratificada por la Junta de Gobierno Local, se ha aprobado hoy en la Comisión de Fiestas Mayores del Ayuntamiento y también contempla que las cuatro restantes se repartan entre las categorías de &#039;Familiares&#039;, a la que se adjudica dos casetas, &#039;Entidades&#039; y &#039;Titularidad perdida&#039;, con una cada una respectivamente. 
+
+
+Así, la propuesta de adjudicación aprobada hoy ha sido realizada por el Área de Fiestas Mayores, siguiendo los criterios técnicos establecidos en la Ordenanza Municipal de la Feria de Sevilla, una vez finalizado el plazo de pago de las tasas de concesión de casetas. 
+
+
+En primer lugar, dicha propuesta incluye para el Distrito Cerro-Amate se destine la mayor de las casetas que ha quedado vacante. Se trata de una caseta de tres módulos, cuya titularidad ha sido retirada por parte de Fiestas Mayores. Así, la Feria de Abril pasará de seis casetas de Distritos a contar con un total de siete. El delegado de Gobernación y Fiestas Mayores, Juan Carlos Cabrera, ha destacado que «el objetivo de esta iniciativa es que el Distrito Cerro-Amate disponga de una caseta propia en el Real al ser uno de los mayores en población de la ciudad y dado que, hasta ahora, compartía espacio con otro de los más habitados como es Este-Alcosa-Torreblanca». Para Cabrera, «esta decisión supone dotar a la Feria de Abril de una nueva caseta pública de libre acceso para disfrute de todos los sevillanos y sevillanas y de quienes nos visitan». 
+
+
+Asimismo, la propuesta también contempla la adjudicación de las otras cuatro casetas, todas ellas de un módulo cada una, a solicitudes inscritas en las tipologías de &#039;Familiares&#039;, &#039;Entidades&#039; y &#039;Titularidad perdida&#039;. Para el reparto, se ha tenido en cuenta que el número total de solicitudes pendientes de adjudicación asciende a 1.199, siendo 728 para &#039;Familiares&#039;, 417 para &#039;Entidades&#039; y 54 para &#039;Titularidad perdida&#039;. De este modo, siguiendo los criterios de proporcionalidad de las solicitudes existentes tal y como establece la Ordenanza Municipal de la Feria de Sevilla, se ha optado por destinar dos casetas a la categoría &#039;Familiares&#039;, al ser la que concentra el mayor número de solicitudes, y las dos restantes a &#039;Entidades&#039; y &#039;Titularidad Perdida&#039;, respectivamente. 
+
+
+Estas otras cuatro casetas han quedado vacantes por distintos motivos, como no presentar la solicitud en plazo, retirada de la titularidad por parte del Área de Fiestas Mayores o no realizar el abono de las tasas en el plazo previsto para ello.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 14:54:31 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-distrito-cerro-amate-tendra-caseta-propia-feria-abril-2020-202002241454_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>El próximo lunes se iniciarán las obras del nuevo colector y bulevar verde en la Ronda de Tejares</title>
+<link>https://sevilla.abc.es/sevilla/sevi-proximo-lunes-iniciaran-obras-nuevo-colector-y-bulevar-verde-ronda-tejares-202002241332_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static2-sevilla.abc.es/media/sevilla/2020/02/24/s/espadas-reurbanizacion-triana-k9JD--620x349@abc.jpg&quot;&gt;El Ayuntamiento, a través de la empresa pública de aguas Emasesa en coordinación con el Distrito Triana, iniciará la primera semana de marzo las obras de sustitución del colector de la Ronda de Tejares, desde Ronda de Triana hasta la Avenida de Blas Infante y la reurbanización integral de la zona afectada por las mismas (que incluye la propia Ronda de Tejares y la Barriada del Carmen).
+
+
+Con 9,86 millones de euros de presupuesto total y un plazo de ejecución de año y medio –hasta septiembre de 2021–, el proyecto contempla crear un gran bulevar con criterios medioambientales en la Ronda de Tejares, con un amplio paseo peatonal, más arboleda e iluminación, pavimento drenante y distintos equipamientos y mobiliario, en cuyo diseño se dará participación a las asociaciones vecinales, y todo ello con mantenimiento de plazas de aparcamiento.
+
+
+La complejidad de este proyecto y su duración han llevado a gestar una comisión de coordinación de servicios municipales –Emasesa, Gerencia de Urbanismo, Parques y Jardines, Movilidad, Tussam y Lipasam y el Distrito Triana– y a planificar los trabajos en seis fases o tramos de obras, con objeto de reducir en lo posible las molestias a los vecinos y su afección a la circulación. Teniendo en cuenta que las obras arrancarán el 2 de marzo en el tramo situado entre Arcángel San Miguel y la Avenida de Coria, las fases son las siguientes:
+
+
+• Tramo 1: Arcángel San Miguel-Avenida de Coria. De marzo de 2020 a abril de 2021.
+
+
+• Tramo 2: Manuel Arellano, confluencia con calle Castilla-Ronda de Triana. De abril de 2020 a febrero de 2021.
+
+
+• Tramo 3: San José de Calasanz, desde los Viveros de Los Remedios hasta su confluencia con Rubén Darío. De julio de 2020 a febrero de 2021.
+
+
+• Tramo 4: Rubén Darío-Arcángel San Miguel. De agosto de 2020 a febrero de 2021.
+
+
+• Tramo 5: Avenida de Coria- San Vicente de Paúl (justo frente a la Barriada de la Dársena). De diciembre de 2020 a julio de 2021.
+
+
+• Tramo 6: San Vicente de Paúl-Miguel Arellano. De enero de 2021 al mes de septiembre de 2021.
+
+
+«La duración de las fases es aproximada, puesto que la obra se intentará acelerar en lo posible. Se trata de una gran obra de ciudad, que complementa al nuevo colector de Niebla, ejecutado hace dos años, y que conforman una gran infraestructura para prevenir inundaciones en los barrios de Los Remedios y Triana», según ha explicado la delegada del Distrito Triana, María Encarnación Aguilar.
+
+
+Cambios en el tráfico
+Durante estas obras se habilitará el Charco de la Pava –la zona donde se localiza el Circo del Sol y el entorno del Centro Deportivo Vega de Triana– como aparcamiento provisional con entrada por el paso inferior que hay frente a la calle Fray Tomás de Berlanga –el paso peatonal de entrada al Parque Vega de Triana–, eliminando para ello los bolardos fijos existentes en la actualidad. Se está tramitando con Urbanismo dotar de alumbrado público el interior para facilitar el acceso a los vehículos y para mayor seguridad de los usuarios.
+
+
+Desde el Área de Movilidad se ha elaborado un plan de tráfico con alternativas para las entradas y salidas de las calles afectadas por las obras y que tendrán en cuenta las distintas fases de ejecución del proyecto. Junto con los avisos por obras, se irán colocando las correspondientes placas para informar sobre los desvíos y cambios de sentido de la circulación.
+
+
+Durante la ejecución del proyecto de obras se verá afectada la Línea 43 de Tussam (Plaza de la Magdalena-El Tardón), aunque esta afección no llegará hasta después de Semana Santa. Entonces, esta línea realizará su recorrido por la Ronda de Triana y se habilitarán alternativas para dar servicio a la zona Turruñuelo-Coruña-Avenida de Coria. A partir de agosto, la afección alcanzará también a la Línea 40 (Plaza de la Magdalena-Triana).
+
+
+En todo caso, la empresa municipal de transportes irá informando a los usuarios de la ubicación de las paradas y el recorrido alternativo por las calles interiores que confluyen en Ronda de Triana y la Barriada del Carmen.
+
+
+El gran bulevar
+La propuesta realizada desde Emasesa es crear un gran bulevar para el disfrute y el paseo de vecinos y vecinas a lo largo de toda la Ronda de Tejares con unos criterios medioambientales y contra el cambio climático, además de instalar equipamientos vecinales y mobiliario que se irán perfilando en próximos meses con la participación del Distrito Triana y las entidades vecinales.
+
+
+El bulevar llevará:
+
+
+• Un amplio acerado peatonal, que rondará los 10 metros de ancho.
+
+
+• Dos bandas de arbolado y parterres.
+
+
+• Entre ambas se colocará pavimento drenante para una mejor absorción del agua de lluvia y, además, que la retenga para el riego natural de la vegetación y el arbolado.
+
+
+• El mantenimiento del arbolado existente salvo en aquellos casos puntuales. Incremento del número de árboles –al finalizar, la masa arbórea será superior a la actual– y parterres.
+
+
+• Línea de farolas dobles de alumbrado entre las dos bandas de la arboleda, reforzando así la iluminación de la zona para atender el paseo y los nuevos equipamientos y para mayor sensación de seguridad.
+
+
+El trazado del nuevo colector discurrirá paralelo al antiguo –se desplaza a mitad de la ronda–, evitando así que afecte a las raíces de los árboles que actualmente tiene el antiguo, puesto que este último discurre ahora pegado al Muro de Defensa. Se han realizado cambios con respecto al diseño inicial del trazado y se ha optado por dejar el antiguo colector enterrado y con su interior sellado en vez de sacarlo, para así no perjudicar a las raíces de la arboleda. El diseño final, además, será compatible con el mantenimiento de plazas de aparcamiento en la zona.
+
+
+Se cambiarán casi 2,5 kilómetros de tuberías que alcanzan en sus tramos principales hasta los 3 metros de diámetros, que requieren una maquinaria muy especializada y de grandes dimensiones.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 13:32:35 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-proximo-lunes-iniciaran-obras-nuevo-colector-y-bulevar-verde-ronda-tejares-202002241332_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>El militar brasileño detenido en San Pablo tenía que entregar la cocaína a otra persona en Alcampo</title>
+<link>https://sevilla.abc.es/sevilla/sevi-militar-brasileno-detenido-san-pablo-tenia-entregar-cocaina-otra-persona-alcampo-202002241239_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/24/s/droga-bolsonaro-sevilla-kKNB--620x349@abc.jpg&quot;&gt;Manoel Silva Rodriguez, el militar brasileño que formaba parte de la comitiva del presidente Jair Bolsonaro y que fue pillado en el aeropuerto de Sevilla con 37 kilos de cocaína, ha sido juzgado este lunes y se ha mostrado «profundamente arrepentido», al tiempo que ha explicado que tenía que entregar la droga a una persona en el centro comercial Alcampo. Ha aceptado una condena de seis años y un día de cárcel por un delito contra la salud pública y una multa de dos millones de euros.
+
+
+Este lunes estaba señalado el juicio contra Silva en la Sección Séptima. Inicialmente se enfrentaba a ocho años de cárcel y una multa de cuatro años, pero tras confesar la Fiscalía ha rebajado la petición de condena. 
+
+
+Silva ha reconocido los hechos, se ha mostrado «profundamente arrepentido» y ha aceptado seis años y un día de cárcel y pagar dos millones de euros de multa. El juicio ha quedado visto para sentencia. 
+
+
+«Mi misión era traer la droga a Europa y volver», explicó el militar, cuya defensa han ejercido los letrados Enrique Rojo y Diego Silva. «Quien me la entregó me dijo que su destino era Suiza y que yo debía meterla en Europa», dijo, detallando que tras salir del aeropuerto debería haber llevado esa cocaína al centro comercial Alcampo «sobre las tres o cuatro de la tarde» del día 25 para allí dar la droga a otro hombre a quien «no conocía». 
+
+
+«Tenía que ir con ropa de camuflaje, una camisa verde, y la otra persona me conocería por una foto. Íbamos a quedar en el Burger King y él me haría una señal», explicó.
+
+
+Tenía un sueldo muy bajo
+«Era la primera vez que lo hacía, me arrepiento profundamente y pido perdón al pueblo español y a las autoridades españolas. En 20 años de militar nunca me han abierto un expediente y nunca he tenido ninguna sanción, pero mi sueldo no es muy alto y estaba pasando por dificultades económicas», ha reconocido ante el juez con la ayuda de un intérprete, indicando además que se sacaba un dinero extra vendiendo y comprando móviles.
+
+
+En el juicio han declarado tres guardias civiles y han coincidido en destacar que cuando pasó por el control, fue trasladado a una máquina de rayos X que detectó los bloques y que al ser preguntado éste contestó que «se trataba de queso».
+
+
+No obstante, ante la prohibición de introducir alimentos procedentes de animales de fuera de la Unión Europea uno de los agentes hizo una cata de uno de los bloques con un punzón, «salió polvo blanco y en un primer análisis ya dio positivo en cocaína». Preguntado por si al militar podrían haberle intercambiado las maletas, uno de los agentes ha precisado que «los bloques estaban repartidos en las tres maletas que llevaba mezclados con efectos suyos».
+
+
+Tras su declaración, el fiscal ha modificado sus conclusiones al considerar que el acusado «ha sido sincero y ha reconocido los hechos», motivo por el ha rebajado la pena de prisión a los seis años y ha ordenado la destrucción de la droga.
+
+
+En su último turno de palabra, el acusado ha vuelto a mostrar su arrepentimiento y ha asegurado que cuando regrese a su país volverá con su familia y volverá a trabajar.
+
+
+Su abogado Diego Silva ha precisado que en sentencia el tribunal tendrá que pronunciarse sobre el plazo de la pena que tendrá que cumplir en España. «Lo normal es que una vez que tenga el tercer grado la libertad condicional se sustituya por la expulsión del país y este periodo final de la pena lo cumpla ya en Brasil en libertad», ha precisado.
+
+
+Por último, ha recordado que se hizo una investigación para averiguar el destino de la droga pero «finalmente no fue fructífera y va a ser él el único que asuma toda la responsabilidad». 
+
+
+El militar brasileño formaba parte de una expedición de avanzadilla previa al viaje programado a Japón por el presidente brasileño, Jair Bolsonaro, y fue detenido el 25 junio del año pasado en el aeropuerto de Sevilla con 37 kilogramos de cocaína dentro de una maleta que llevaba consigo.
+
+
+Sobre las 14 horas del 25 de junio de 2019, tras venir junto a otros 20 pasajeros de un vuelo militar de la Brasilian Air Force pasó por el control aduanero del aeropuerto de Sevilla donde la Guardia Civil intervino, en una maleta de su propiedad, «37 bloques rectangulares de una sustancia que debidamente analizada resultó ser cocaína» con un peso de 37 kilos y una pureza base del 80,14 por ciento. Su valor alcanzaba en torno al millón y medio de euros en el mercado clandestino.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 12:39:28 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-militar-brasileno-detenido-san-pablo-tenia-entregar-cocaina-otra-persona-alcampo-202002241239_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>El rector de la Universidad de Sevilla promete tres centros de transferencia tecnológica en la Cartuja</title>
+<link>https://sevilla.abc.es/sevilla/sevi-rector-universidad-sevilla-promete-tres-centros-transferencia-tecnologica-cartuja-202002241232_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static3-sevilla.abc.es/media/sevilla/2020/02/24/s/sevilla-rector-castro-kkaC--620x349@abc.jpeg&quot;&gt;El rector de la Universidad de Sevilla y candidato a la reelección, Miguel Ángel Castro, ha anunciado este lunes la creación de tres grandes centros de transferencia tecnológica en la Isla de la Cartuja. Castro, que ha presentado su programa electoral para un segundo mandato, ha explicado que esos tres grandes centros estarían ubicados en unos terrenos de unas dos hectáreas, unos 20.000 metros cuadrados, muy cerca del futuro edificio del Cateps y la Escuela de Ingenieros, terrenos que son propiedad de la Hispalense y en los que pretende poner en marcha tres edificios para llevar a cabo líneas de transferencias del conocimiento. Estos nuevos complejos se sumarían a otros existentes como el Cabimer o a otros proyectos ya iniciados como el gran centro de innovación en los terrenos del Puerto de Sevilla. Para poner en marcha esa idea, Castro también quiere que se revisen los transportes públicos en la zona, ya que cuando la Politécnica se traslade al edificio de la Cartuja habrá 13.000 estudiantes en la zona. 
+
+
+El rector, que ha dicho presentar «un proyecto ambicioso para seguir transformando la universidad en el segundo ciclo», también ha explicado que la Hispalense está en un momento crucial de cambios y muy importante. «La Universidad de Sevilla está en un momento de tremendos cambios y grandísimos retos. Tengo un proyecto ambicioso y comprometido para los próximos cuatro años», ha dicho Castro, que se presenta con un programa denominado 
+«Constelacion Taurus».
+
+
+Próximos proyectos
+Basándose en el plan estratégico 2018-2025 de la Universidad de Sevilla, Castro incluye en su programa proyectos ya conocidos como el traslado a la Cartuja, al edificio de Cateps, de la Escuela Politécnica, para el curso 2021-2022, terminar el Campus de Humanidades en la Fábrica de Tabacos, la transformación de la Facultad de Farmacia, culminar la Escuela de Ingeniería Agronómica, el campus de la Facultad de Medicina en la zona de la Macarena y dar una solución a las Escuelas de Ingenería y Edificación en Reina Mercedes. 
+
+
+En el programa también hay un proyecto de transformación digital que supondrá eliminar el papel e incrementar la formación no presencial on line, sobre todo en los másteres, y un importante proyecto de rejuvenecimiento de la Universidad de Sevilla. En este sentido, Castro ha explicado que actualmente la edad de la plantilla de profesores de la Hispalense es alta ya que la media de edad los profesores es de 53 años y de 59 en los catedráticos por los que pretende que salgan nuevas convocatorias por áreas de conocimiento, aunque ese proyecto estará ligado a la financiación y a que se flexibilice la normativa para ello.
+
+
+El rector también ha incluido en su programa un estudio del adelanto de los exámenes de septiembre a julio. Según ha explicado, en los primeros meses del periodo de gobierno, hará un análisis de como va en otras universidades y sus ventajas e inconvenientes. «Creo que es importante que escuche antes de emitir una opinión, porque puedo condicionar el posicionamiento», ha dicho explicando que sería importante ver cómo ha variado la tasa de éxito de los segundo exámenes en otras universidades.
+
+
+Castro ha comenzado hoy su campaña, durante la cual visitará a distintos colectivos, desde los estudiantes, sindicatos o empresarios y el gobierno. Las elecciones son el 19 de marzo y el rector espera el máximo apoyo.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 12:32:10 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-rector-universidad-sevilla-promete-tres-centros-transferencia-tecnologica-cartuja-202002241232_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>Las seis noticias que debes conocer hoy, lunes 24 de febrero</title>
+<link>https://sevilla.abc.es/sevilla/sevi-seis-noticias-debes-conocer-lunes-24-febrero-202002240944_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static3-sevilla.abc.es/media/sevilla/2020/02/24/s/seis-noticias-lunes-kSeD--620x349@abc.jpg&quot;&gt;Buenos días, estas son las noticias del lunes 24 de febrero que debes conocer. [Si te perdiste las noticias imprescindibles del pasado viernes, puedes leerlas haciendo clic en este enlace].
+
+
+
+1. Nueve de cada diez viajeros vendrían a Sevilla a pesar de la tasa turística. La propuesta del Ayuntamiento de Sevilla de crear una tasa turística no encuentra rechazo entre los viajeros que visitan la ciudad. Sólo uno de cada diez cambiaría de destino por este gravamen, como recoge la encuesta anual que realiza el equipo de Turismo Sevilla con más de 4.500 entrevistas a visitantes de una decena de nacionalidades.
+
+
+Entre las cuestiones que se les ha planteado está si seguirían viviendo a la capital andaluza aunque se les cobrase un impuesto de un euro diario por pasar la noche. El 88, 7 por ciento de los consultados aseguró que vendría igualmente; mientras que otro 9,82 por ciento respondió que no seguiría viniendo. Apenas un 1,45 por ciento evitó pronunciarse.
+
+
+Estos datos refuerzan todavía más la determinación del Consistorio para dar curso a la medida, que no tiene un camino fácil. Precisa de un apoyo del Gobierno andaluz para imponerla en todo el territorio o un cambio de la Ley de Haciendas Locales para que cada municipio pueda crearla a título individual. En el primer caso, no hay un consenso general para aplicarla como ya hacen las comunidades de Cataluña y Baleares. En el segundo, sería necesaria la colaboración del Ejecutivo central para articular tal modificación. De una forma u otra, el Ayuntamiento sevillano no cejará en el empeño.
+
+
+
+2. Pablo Casado fulmina a Alfonso Alonso y rescata a Iturgaiz como candidato a lendakari. La crisis del PP vasco acabó estallando entre las manos a Pablo Casado de mala manera. Cuando parecía que las aguas habían vuelto, más o menos, a su cauce al aceptarse desde Vitoria la coalición electoral con Ciudadanos, Alfonso Alonso soltó el bombazo en Twitter a las 18.47, al anunciar que el presidente Pablo Casado le acababa de comunicar que no sería candidato a las elecciones vascas del 5 de abril. El secretario general, Teodoro García Egea, convocó a los medios de comunicación a las ocho de la tarde y anunció que el nuevo candidato a lendakari será Carlos Iturgaiz.
+
+
+El choque entre el PP vasco y la dirección nacional ha sido dramático hasta el final. La confianza entre Alfonso Alonso y Génova estaba totalmente rota, y así era prácticamente imposible no solo encarar unas elecciones autonómicas, sino mantener una relación política, dentro de un mismo partido, que fuera normal.
+
+
+Con este golpe de autoridad de Casado, Génova envía un aviso a otros barones y dirigentes territoriales, que han visto con crudeza cuál es el resultado de enfrentarse a Génova, sobre todo cuando no se tiene fuerza política o votos, como era el caso de Alonso. En Galicia, Feijóo puede imponer sus condiciones e incluso rechazar la coalición con Ciudadanos. Pero el presidente gallego se encamina hacia su cuarta mayoría absoluta. Nadie en el PP está, ahora mismo, en su posición ni con su fuerza.
+
+
+
+3. Andalucía cobrará tasas por utilizar museos, grabar aves silvestres y el control de la contaminación. Cuando el Parlamento andaluz aprobó su primera Ley de Tasas y Precios Públicos gobernaba el país Felipe González. José Rodríguez de la Borbolla presidía el Gobierno autonómico y Juanma Moreno iba al instituto. La selección española había protagonizado una enorme decepción, otra más, al caer en la primera fase de la Eurocopa. Y los niños se reían delante del televisor con la bruja Avería y los electroduendes de «La Bola de Cristal».
+
+
+El mundo ha cambiado mucho en 31 años. Pero no la norma que regula las tasas y precios públicos en Andalucía. Vigente desde 1988, es la ley más antigua de España en esta materia. Se ha quedado tan obsoleta que recogía tasas por servicios públicos que ya ni siquiera se prestan, como la cuota de suscripción del Boletín Oficial de la Junta de Andalucía (BOJA) en papel, que no se imprime desde mayo de 2012, así como otros trámites que han pasado a desempeñar diferentes administraciones. El ejemplo más claro es la tasa que grava la vivienda de protección oficial, cuya calificación provisional y definitiva compete desde el año 2010 a los ayuntamientos.
+
+
+A falta de una regulación homogénea, durante más de tres décadas las distintas consejerías han parcheando la ley existente mediante una treintena de normas distintas, entre leyes de presupuestos y decretos especiales, creando una maraña tan dispersa y tupida que a veces hasta los funcionarios podían perderse en ella.
+
+
+
+4. El coche eléctrico en Sevilla: o paga o lo carga en su garaje. Sevilla, la primera ciudad española que ha declarado la emergencia energética en Pleno municipal, mantiene apagada desde hace más de tres años su red pública de carga de coches enchufables.
+
+
+La infraestructura ya existe. Se creó en 2012 con 75 puntos situados en varias vías principales, garajes de hoteles, centros comerciales, sedes de empresas municipales y aparcamientos subterráneos. Fue el llamado proyecto «Movele», que contó con una generosa financiación europea que hizo de la ciudad un ejemplo para la proliferación de este tipo de coches. Pero el sueño verde apenas duró un lustro, cumpliendo el plazo mínimo para no tener que devolver las ayudas.
+
+
+Tras el abandono de la red de electrolineras, la capital andaluza se sitúa a la cola en la apuesta por el coche eléctrico que gana terreno en los núcleos más poblados. La situación contrasta con ejemplos como Barcelona, que cuenta con más de un centenar o Madrid, que tiene alrededor de cincuenta.
+
+
+
+5. Italia blinda el norte ante la expansión del coronavirus. Aumenta de forma exponencial la epidemia del coronavirus en Italia. Son tres las muertes -una mujer de Cremona en Lombardía es la tercera víctima- y 162 personas infectadas, según el balance de la tarde del domingo. Solo en Lombardía hay 89 contagiados, y 25 en Véneto.
+
+
+Tras el decreto ley del Gobierno con medidas extraordinarias, las autoridades locales están aprobando también ordenanzas con duras restricciones. Se suspenden clases en escuelas y universidades de regiones del norte, se cierran pubs y discotecas en Lombardía y se suspende el Carnaval de Venecia. «Cierra el norte», titulan algunos medios.
+
+
+«Madre mía, parece que estamos en guerra, no se ve a nadie en el pueblo». Así saluda Giuseppina, una vecina de Castiglione d’Adda (Lodi), municipio de 4.700 habitantes, que constituye el epicentro del foco de la epidemia, porque de aquí es originario el «Paciente Uno», de nombre Mattia Y. M., una persona atlética y deportista, de 38 años, el primer contagiado por el coronavirus.
+
+
+
+6. Todas las galerías de fotos del Zurich Maratón de Sevilla 2020. El etíope Mekuant Ayenew Gebre y la ugandesa Juliet Chekwel se han proclamado este domingo vencedores, con récord de la prueba, del Zurich Maratón de Sevilla 2020, una carrera que ha valido también como Campeonato de España y que ha coronado a Javi Guerra y a Marta Galimany, que además han logrado su billete para los Juegos Olímpicos de Tokio.
+
+
+En una prueba que repitió por tercer año consecutivo la Etiqueta de Oro de World Athletics, los atletas etíopes y kenianos se escaparon superado el ecuador de la carrera en categoría masculina. El etíope asestó el golpe definitivo en el kilómetro 35, y entró en solitario en meta marcando 2:04:46, la mejor marca mundial de la temporada, mejor marca personal y que redujo en dos minutos la referencia del año pasado de su compatriota Ayana Tsedat (2:06:36).
+
+
+En la categoría femenina, la debutante Chekwel cruzó la línea de llegada en 2:23:13, más de un minuto por debajo de la marca récord de la edición anterior de la etíope Gutemi Shone Imana (2:24:29). La etíopes Gada Bontu (2:23:39) y Sifan Melaku (2:23:49), también más rápidas que la ganadora de 2019, se subieron al segundo y al tercer cajón del podio, respectivamente.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 09:44:40 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-seis-noticias-debes-conocer-lunes-24-febrero-202002240944_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>Cirujanos del Virgen del Rocío de Sevilla operarán tumores, hernias, tiroides y lipomas en Uganda</title>
+<link>https://sevilla.abc.es/sevilla/sevi-cirujanos-virgen-rocio-sevilla-operaran-tumores-hernias-tiroides-y-lipomas-uganda-202002240721_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/21/s/viaje-uganda-rocio-U04186715732leo-620x349@abc.jpeg&quot;&gt;Un equipo de nueve profesionales del Hospital Universitario Virgen del Rocío ha viajado hasta Kamutur en Uganda, en colaboración con la Fundación Cirujanos en Acción, para intervenir a personas de la región que presenten problemas de salud, principalmente con hernias y patología de tiroides. 
+
+
+En total, prevén atender a unos 150 pacientes en quirófanos además de en consultas, durante diez jornadas que se extenderán hasta el 3 de marzo. Entre los procedimientos que habitualmente resuelven en estos países se encuentran las hernias inguinales y umbilicales, lipomas o fibroadenomas gigantes, bocios y otra patología de tiroides, eventraciones, tumores y enfermedades varias en régimen ambulatorio. 
+
+
+Los profesionales van preparados para aplicar anestesias locales con sedación, raquídeas y generales con intubación orotraqueal. Todo ello, en un hospital local en construcción que dispone de dos zonas de quirófano y hospitalización para el postparto. La idea es que los pacientes puedan resolver su problema de salud en un solo acto quirúrgico y al día siguiente puedan regresar a casa para reincorporarse a su vida cotidiana. 
+
+
+Para preparar el viaje de cooperación, la Unidad de Esterilización del Virgen del Rocío ha cedido un espacio como almacén y ayuda en las labores necesarias, y la Unidad de Electromedicina ha proporcionado materiales que se emplearán en destino. Además, el Fondo de Cooperación al Desarrollo y Ayuda Humanitaria del Servicio Andaluz de Salud ha concedido los permisos para este viaje humanitario. 
+
+
+El grupo de voluntarios que ha desarrollado el proyecto está formado por nueve profesionales del Hospital Universitario Virgen del Rocío y cuenta además con el apoyo de toda la Unidad de Anestesiología y Rehabilitación y de Cirugía General y del Aparato Digestivo, que han facilitado el apoyo necesario a los integrantes de este proyecto para que puedan desplazarse hasta Kamutur. 
+
+
+Se trata de las enfermeras María del Mar Martínez Gómez y Mariló González Sobrino; Diego Angulo González, radiólogo; las anestesiólogas Inmaculada Benítez Linero y Guiomar Rosel Fernández; los especialistas en Cirugía General y Aparato Digestivo Manuel Bustos Jiménez, Abdul Razak Muchref, Ana Senent Boza, y Eduardo Perea del Pozo, quien además es el responsable de la misión ante la Fundación Cirujanos en Acción y promotor de esta iniciativa cuando era médico residente en el hospital sevillano. 
+
+
+Otros voluntarios del hospital se han sumado al proyecto prestando apoyo logístico durante toda la etapa de preparación de la misión. La recopilación del material es fruto del aprovechamiento de recursos que dispone el Hospital Universitario Virgen del Rocío, así como a la ayuda recibida desde otras empresas externas.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 07:21:13 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-cirujanos-virgen-rocio-sevilla-operaran-tumores-hernias-tiroides-y-lipomas-uganda-202002240721_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>Manuel López Soriano: «Nuestro incienso “Los tres Reyes” se ha quemado en el Panteón de Agripa»</title>
+<link>https://sevilla.abc.es/sevilla/sevi-manuel-lopez-soriano-nuestro-incienso-tres-reyes-quemado-panteon-agripa-202002240719_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/24/s/manuel-lopez-soriano-kwd--620x349@abc.jpg&quot;&gt;Manolo y su hermano Antonio forman la cuarta generación de un negocio que lleva 175 años dando luz y olor a la Cuaresma y a la Semana Santa sevillana. 
+
+
+Además de las hermandades, los conventos y las parroquias, en la clientela de este supermercado espiritual del Salvador (hoy en Álvarez Quintero) se encuentran personas que se quieren llevar a sus casas y a sus países de origen «el olor de la Semana Santa sevillana».
+
+
+Hagamos historia. Ustedes comenzaron lejos de El Salvador.
+
+
+Así es. Nuestro negocio comenzó en 1845 en la finca de mi bisabuela Rosario en La Puebla del Río, donde se empieza a elaborar nuestras primeras vela.
+
+
+Imagino que de los bosques que rodeaban el cortijo familiar sacaban sus bisabuelos la cera y la miel para el negocio.
+
+
+Cierto. La finca estaba rodeada de un frondoso eucaliptal donde se ubicaban las colmenas en los propios árboles y allí obtenían la materia prima.
+
+
+Una venta que era, entonces, más doméstica que religiosa.
+
+
+Efectivamente. El alumbrado que hoy conocemos era prácticamente inexistente. En las casas, para iluminarlas, se empleaban lámparas de aceite y velas.
+
+
+¿Por qué sus bisabuelos deciden dejar La Puebla del Río e instalarse en El Salvador?
+
+
+Vinieron buscando el progreso empresarial y un mercado más amplio.
+
+
+En El Salvador montan fábrica, comercio y vivienda en una casa de tres plantas. Un tres en uno, ¿no?
+
+
+(Risas) Totalmente. Un tres en uno que tuvo que serles muy práctico aunque estuvieran un poquito apretados.
+
+
+¿La electrificación de Sevilla obligó a reinventar el negocio?
+
+
+Evidentemente. Digamos que el negocio focaliza su mercado en la venta de velas, bujías y derivados. En las fotos familiares se visualiza perfectamente esa transición. En las primeras fotos aparece la tienda solo con velas y después se van introduciendo imaginería religiosa y objetos litúrgicos. Según la temporada, la tienda llegó a vender muñecas de juguete para los Reyes.
+
+
+Hoy están ustedes en la calle Álvarez Quintero, con un retrato de su bisabuelo como tributo a su emprendimiento y se han convertido en una especie de supermercado espiritual…
+
+
+Así es. Hoy ofrecemos las velas de siempre, incienso «Los Tres Reyes» e imaginería religiosa, sin olvidar objetos sacros.
+
+
+Déme algunos datos, por favor: ¿cuántos kilos de cera manejan ustedes en la temporada alta?
+
+
+Entre 110.000 y 130.000 kilos anuales. En temporada alta manejamos casi el ochenta por ciento de esa cifra. La cera es nacional.
+
+
+–¿Qué altares son los más iluminados?
+
+
+Los de mayor relevancia que estamos atendiendo son los de El Silencio, el Gran Poder y el Buen Fin.
+
+
+¿Su mercado es local o regional?
+
+
+Nacional. Aunque el acento se pone en el regional y el provincial. Nosotros vendemos desde Cádiz a Almería, aunque también sean clientes hermandades de Madrid, El Ferrol, Barcelona, Valladolid…
+
+
+Hace unos años, en colaboración con la Universidad y Lipassam, crearon ustedes la llamada «cera eco». ¿Qué es eso?
+
+
+Una cera limpia. Su composición es la menos abrasiva para el suelo y la más fácil de limpiar. La que menos residuos deja por llevar menos contenido en aceites y parafinas.
+
+
+¿La cera más pura que ilumina la Semana Santa es la de los palios?
+
+
+Sin duda. La cera de un palio y la de los crucificados es la más olorosa, mantiene las propiedades más naturales y es de ceras de abeja cien por cien, sin añadidos ni aditivos que puedan ser lesivas para las imágenes.
+
+
+Uno de los productos estrellas de su establecimiento es el incienso «Los tres Reyes». ¿De dónde procede y que lo hace distinto a los demás?
+
+
+Procede de Arabia, pero mis bisabuelos le dieron el toque sevillano e inventaron una fórmula que lo hace distinto a los demás. Muchas hermandades usan nuestro incienso como base del suyo, al que le añaden otro aromático para darle un toque más identitario.
+
+
+Hay clientes que cuando lo huelen suelen exclamar: «Éste es el que yo estaba buscando»…
+
+
+Hay clientes que lo dicen gráficamente: «Hombre éste es “El tres Reyes” que yo andaba buscando y no lo que me han dado por ahí».
+
+
+El caso es que ese incienso ha llegado lejos, fuera de Sevilla.
+
+
+Efectivamente. Este incienso se ha quemado en el Panteón de Agripa en Roma, en la Catedral de Niza y, ya mucho más cerca, en la Catedral de Sevilla. Pero muchos clientes extranjeros nos lo piden desde California, México, Francia, Malta. En definitiva, me piden el olor de la Semana Santa que tanto les cautiva.
+
+
+Una cera tan pura y blanqueada al sol como la que hacían sus bisabuelos hace 175 años, ¿se encuentra en el mercado o el mercado pide otras cosas?
+
+
+Sin duda. La cera pura sigue iluminando parte de la Semana Santa como hace más de un siglo.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Mon, 24 Feb 2020 07:19:42 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-manuel-lopez-soriano-nuestro-incienso-tres-reyes-quemado-panteon-agripa-202002240719_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>La tasa turística no es problema para nueve de cada diez viajeros que vienen a Sevilla</title>
+<link>https://sevilla.abc.es/sevilla/sevi-tasa-turistica-no-problema-para-nueve-cada-diez-viajeros-vienen-sevilla-202002232342_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/16/s/informe-turistico-sevilla-620x349-kqbC-U15652380636GOZ-620x349@abc.jpg&quot;&gt;La propuesta del Ayuntamiento de Sevilla de crear una tasa turística no encuentra rechazo entre los viajeros que visitan la ciudad. Sólo uno de cada diez cambiaría de destino por este gravamen, como recoge la encuesta anual que realiza el equipo de Turismo Sevilla con más de 4.500 entrevistas a visitantes de una decena de nacionalidades. Entre las cuestiones que se les ha planteado está si seguirían viviendo a la capital andaluza aunque se les cobrase un impuesto de un euro diario por pasar la noche. El 88, 7 por ciento de los consultados aseguró que vendría igualmente; mientras que otro 9,82 por ciento respondió que no seguiría viniendo. Apenas un 1,45 por ciento evitó pronunciarse. 
+
+
+Estos datos refuerzan todavía más la determinación del Consistorio para dar curso a la medida, que no tiene un camino fácil. Precisa de un apoyo del Gobierno andaluz para imponerla en todo el territorio o un cambio de la Ley de Haciendas Locales para que cada municipio pueda crearla a título individual. En el primer caso, no hay un consenso general para aplicarla como ya hacen las comunidades de Cataluña y Baleares. En el segundo, sería necesaria la colaboración del Ejecutivo central para articular tal modificación. De una forma u otra, el Ayuntamiento sevillano no cejará en el empeño.
+
+
+Hotel o piso turístico
+Otra de las cuestiones es el tiempo que se quedan y la vía de reserva. Tanto en un parámetro como en el otro el estudio de Turismo Sevilla difiere de otras como la Encuesta de Ocupación Hotelera del INE, que excluye otras alternativas de alojamiento como las viviendas con fines turísticos y las casas de amigos o familiares. Los viajeros entrevistados se quedan una media de tres días. De ellos, un 35,9 por ciento lo hace en pisos o apartamentos, mientras que otro 32,47 por ciento se hospeda en hoteles de tres y cuatro estrellas. El 21,3 por ciento elige un hostal o una pensión y sólo un 6,7 por ciento lo hace como invitado con familiares o amigos.
+
+
+¿Cómo reservan?
+La manera de contratar el alojamiento es, en más de la mitad de los casos, a través del portal Booking.com para reserva de hoteles y apartamentos turísticos. El 51,5 por ciento lo hace por esta vía, mientras que el 21,1 por ciento utiliza Airbnb, el portal para pisos y casa con fines turísticos. Otro 15,6 por ciento aprovecha las ofertas que les ofrece la web de la aerolínea para reservar y el 9 por ciento restante recurre al propio hospedaje mediante su página de internet o el teléfono. 
+
+
+La previsión a la hora de buscar alojamiento no depende sólo de lo organizado que sea el turista cuando viaja, también de la época. Los meses de mayor ocupación precisan de una mejor planificación, como ocurre en abril y mayo, que coincide con la Semana Santa y la Feria o septiembre y octubre, que son los de mayor ocupación hotelera. Por el contrario, diciembre es el que menos previsión necesita, pues hay mucha disponibilidad en la ciudad. 
+
+
+Sobre la manera de viajar, admiten que lo hacen principalmente en pareja en el 40,1 por ciento de los casos. Le siguen los que optan por visitar otra ciudad con amigos (el 23,03 por ciento) y en tercer lugar, solos (16,94 por ciento). En familia visitó Sevilla un 15,3 por ciento de los encuestados y con los niños, apenas el 2,6 por ciento.
+
+
+
+
+¿Cuánto gastan?
+Otro de los aspectos que se ha analizado es el gasto que hacen y que en 2019 se ha visto afectado por los vaivenes del mercado y la inestabilidad política. El temor del Brexit ha calado de lleno en Reino Unido, el cuarto mercado emisor para Sevilla y de los que mayor poder adquisitivo tienen. El desembolso ha bajado de los casi cien euros diarios por persona en 2018 a los 87,35, unos catorceeuros menos. Recortan en salidas nocturnas y comidas fundamentalmente. Por el contrario, destinan más a alojamiento por el aumento del precio en los hoteles y por la mejora de la calidad en los mismos, pues eligen fundamentalmente los de tres y cuatro estrellas, frente a apartamentos y pensiones.
+
+
+
+El turista que más gasta es el estadounidense, con una media de 103,42 euros al día, aunque también recortó, con unos 17 euros menos. El que menos, el alemán que se deja 75 euros al día, diez menos que el año pasado.
+
+
+La imagen de Sevilla
+Otro de los aspectos interesantes que se analiza es la imagen que el turista tiene de Sevilla antes y después de visitarla. Antes de conocer el destino la consideran por este orden una ciudad monumental, flamenca, de río, de tapas, taurina, de fiestas populares, cosmopolita, de museos, de Murillo y de rodajes. Sin embargo, el orden de percepción cambia significativamente tras la visita y se anteponen aspectos como ciudad cosmopolita que sube de la séptima posición a la cuarta por delante del flamenco y los toros. También gana puestos la gastronomía tras probarla.
+
+
+
+
+El Alcázar, la primera parada del turista
+El Alcázar y las Setas son los primeros lugares que el turista visita cuando llega a Sevilla. Le siguen el entorno monumental de Triana y el barrio de Santa Cruz. La Catedral ocupa el cuarto lugar, mientras que las zonas comerciales de Sierpes-Tetuán y Nervión se colocan en el quinto puestoo. Le siguen por este orden: la Plaza de España y el parque de María Luisa, la Torre del Oro y el río. A mayor distancia se sitúan la Casa Pilatos, el Museo de Bellas Artes y el Archivo de Indias. El Salvador, el Palacio de Dueñas y la Cartuja son los siguientes lugares de interés turístico que mejor valoran los visitantes. En el último lugar están los estadios de fútbol y el Acuario.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Sun, 23 Feb 2020 23:42:14 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-tasa-turistica-no-problema-para-nueve-cada-diez-viajeros-vienen-sevilla-202002232342_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>El coche eléctrico en Sevilla: o paga o lo carga en su garaje</title>
+<link>https://sevilla.abc.es/sevilla/sevi-coche-electrico-sevilla-o-paga-o-carga-garaje-202002232302_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/24/s/coches-electricos-sevilla-kdkE--620x349@abc.jpg&quot;&gt;Sevilla, la primera ciudad española que ha declarado la emergencia energética en Pleno municipal, mantiene apagada desde hace más de tres años su red pública de carga de coches enchufables. 
+
+
+La infraestructura ya existe. Se creó en 2012 con 75 puntos situados en varias vías principales, garajes de hoteles, centros comerciales, sedes de empresas municipales y aparcamientos subterráneos. Fue el llamado proyecto «Movele», que contó con una generosa financiación europea que hizo de la ciudad un ejemplo para la proliferación de este tipo de coches. Pero el sueño verde apenas duró un lustro, cumpliendo el plazo mínimo para no tener que devolver las ayudas.
+
+
+Tras el abandono de la red de electrolineras, la capital andaluza se sitúa a la cola en la apuesta por el coche eléctrico que gana terreno en los núcleos más poblados. La situación contrasta con ejemplos como Barcelona, que cuenta con más de un centenar o Madrid, que tiene alrededor de cincuenta. 
+
+
+
+Los nuevos centros comerciales y grandes superficies han incluido dispositivos de este tipo, pero muchos de ellos son previo pago por el servicio o el tiempo de estancia 
+
+
+
+También la superan Bilbao, Murcia o Zaragoza, todas con menos población y un parque móvil más limitado. Eso sí, disponer de estos dispositivos para la recarga gratuita fomenta la compra de vehículos verdes que contriyen a reducir la contaminación.
+
+
+Hoy la mayor parte de aquellos puntos de «repostaje» de libre acceso que tenía Sevilla están apagados y los propietarios de vehículos ecológicos se ven obligados a recurrir a parkings o complejos comerciales para alimentar las baterías. El mapa de alternativas es limitado, como muestra la apliación electromaps creada para encontrar estaciones de recarga disponibles en tiempo real, en la que se señala con enorme distintivo rojo aquellas que están inuntilizadas.
+
+
+Si el conductor accede a la ciudad por el Patrocinio, que es una de las entradas habituales para los días laborables, los primeros postes de alimentación que encuentra son los de la isla de la Cartuja, donde no queda uno disponible a pie de calle. La empresa Tesla ha instalado cargadores en el garaje de Torre Sevilla, pero suelen ser sólo para los de esta marca y además tienen un coste por el uso. También hay opción en el parking subterráneo de la compañía Insur, que requiere del abono de la tarifa de estacionamiento si se quiere usar.
+
+
+
+El Ayuntamiento está trabajando en un acuerdo con una empresa del sector para una primera experiencia en algunos puntos y posteriormente una licitación a operadores
+
+
+
+De uso exclusivo para clientes son el de Red Española Eléctrica (REE), que se encuentra cerca del rascacielos, y el de la compañía de ingeniería Ayesa. También hay otro en el hotel Barceló Renacimiento para huéspedes y clientes que tiene coste ,al menos, del tiempo de permanencia del vehículo en las instalaciones.
+
+
+Si el conductor abandona la Cartuja y pone rumbo hacia Triana encuentra el primer punto de carga en el hotel Ribera en la plaza de Chapina. De largo tendrá que pasar por el centro comercial Plaza de Armas donde se ubicaba otro que ya no funciona. De camino al Centro sólo cuenta con estaciones en los parkings subterráneos del Arenal, la calle Imagen, el Paseo de ristina, el resto las tienen inutilizadas, según la aplicación. 
+
+
+En el resto de la ciudad tampoco están disponibles los de la avenida San Francisco Javier, ni los del centro comercial Los Arcos, que actualmente está en plena reforma. Sí disponen de electrolineras los nuevos complejos comerciales como Lagoh y Torre Sevilla y concesionarios que atienden en varios polígonos industriales y que los han instalado por la salida al mercado de los primeros modelos enchufables.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Sun, 23 Feb 2020 23:02:38 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-coche-electrico-sevilla-o-paga-o-carga-garaje-202002232302_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>La Policía Local de Sevilla precinta diez bares en las inmediaciones de la Alameda de Hércules</title>
+<link>https://sevilla.abc.es/sevilla/sevi-policia-local-sevilla-precinta-diez-bares-inmediaciones-alameda-hercules-202002231715_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static2-sevilla.abc.es/media/sevilla/2020/02/23/s/patrulla-alameda-bares-k3tF--620x349@abc.jpg&quot;&gt;La Policía Local de Sevilla precintó la pasada madrugada diez establecimientos en el entorno de Alameda de Hércules. Nueve ellos fueron por expender bebidas alcohólicas para su consumo en la calle y uno, en la calle Faustino Álvarez, por superar el doble del aforo permitido. Estas actuaciones se enmarcan en un operativo de inspección policial impulsado por la Delegación de Gobernación del Ayuntamiento. 
+
+
+Siete de los establecimientos precintados por expender bebidas para su consumo en la calle se encuentran en la Alameda de Hércules y los demás están en la calle Peris Mencheta, Miguel de Carvajal y Faustino Álvarez. Este último se clausuró por superar el doble del máximo aforo permitido (115). En el momento de la inspección se encontraban en su interior 260 personas.
+
+
+A última hora de la madrugada se procedió al desalojo de un local en la Avenida de Blas Infante tras una inspección por agentes de Policía Local. Durante la noche se comprobó además el cumplimiento de los precintos realizados en la madrugada de ayer en otros establecimientos de la ciudad.
+
+
+El teniente alcalde y delegado de Gobernación y Fiestas Mayores del Ayuntamiento de Sevilla, Juan Carlos Cabrera, insiste en «el carácter prioritario para su delegación de la protección del derecho al descanso en los barrios de Sevilla y, sobre todo, evitar situaciones de riesgo para los clientes al vulnerar algunos responsables de las actividades hosteleras las normas mínimas de autoprotección en los locales. Por ello, vamos a seguir controlando, especialmente de cara a Semana Santa, cualquier incumplimiento o irregularidad en los establecimientos de la zona de influencia que pueda comprometer la seguridad de los clientes y el tránsito por las zonas peatonales», añade Cabrera.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Sun, 23 Feb 2020 17:15:01 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-policia-local-sevilla-precinta-diez-bares-inmediaciones-alameda-hercules-202002231715_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>La Junta de Andalucía pide al Gobierno central que rebaje el IVA del alquiler de sillas de la Semana Santa</title>
+<link>https://sevilla.abc.es/sevilla/sevi-junta-andalucia-pide-gobierno-central-rebaje-alquiler-sillas-semana-santa-202002231711_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static2-sevilla.abc.es/media/sevilla/2020/02/23/s/silla-semana-santa-kroG--620x349@abc.jpg&quot;&gt;La Junta de Andalucía ha solicitado al Ministerio de Hacienda una reunión para tratar la rebaja del IVA por el alquiler de sillas, tribunas y palcos para ver las procesiones de Semana Santa.
+
+
+El consejero de Hacienda, Industria y Energía, Juan Bravo, ha trasladado esta inquietud a la ministra de Hacienda, María Jesús Montero, tras la última reunión del Consejo de Política Fiscal y Financiera (CPFF) y ahora el secretario general de Hacienda ha solicitado formalmente por carta a la secretaria de Estado de Hacienda una reunión de trabajo en la que «estudiar la posible aplicación del tipo reducido del diez por ciento» en lugar del 21 previsto.
+
+
+Según ha informado el Gobierno andaluz en una nota de prensa, en la carta que la Junta de Andalucía ha remitido al Gobierno de España se pone de manifiesto que «la Semana Santa en Andalucía es un acontecimiento de interés turístico internacional» con una importante «repercusión económica y de empleo».
+
+
+Para justificar el estudio de la rebaja del IVA, el Gobierno de Andalucía ha destacado el «enorme impacto religioso, cultural y turístico» de la Semana Santa, no sólo a nivel nacional sino también internacional y «la gran labor social que realizan las hermandades y cofradías, siendo la actividad descrita -el alquilar de sillas, tribunas y palcos- una fuente relevante de ingresos para las mismas».
+
+
+Por ello, se ha solicitado que la reunión se celebre «a la mayor brevedad posible dadas las fechas en las que nos encontramos» al considerar la Junta que se podría encontrar margen dentro de la Ley del IVA para aplicar el tipo reducido del diez por ciento o incluso estudiando el marco de la Directiva Comunitaria.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Sun, 23 Feb 2020 17:11:11 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-junta-andalucia-pide-gobierno-central-rebaje-alquiler-sillas-semana-santa-202002231711_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+</channel>
+</rss>
