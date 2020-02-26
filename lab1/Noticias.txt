@@ -6,773 +6,793 @@
 <link>https://sevilla.abc.es</link>
 <description>Sevilla</description>
 <language>es-es</language>
-<pubDate>Mon, 24 Feb 2020 22:42:58 +0100</pubDate>
-<lastBuildDate>Mon, 24 Feb 2020 22:42:58 +0100</lastBuildDate>
+<pubDate>Wed, 26 Feb 2020 17:13:25 +0100</pubDate>
+<lastBuildDate>Wed, 26 Feb 2020 17:13:25 +0100</lastBuildDate>
 <ttl>2</ttl>
 <item>
-<title>El PP denuncia el «degradado e indigno» estado en el que se encuentra la Plaza Nueva de Sevilla</title>
-<link>https://sevilla.abc.es/sevilla/sevi-pp-denuncia-degradado-indigno-estado-encuentra-plaza-nueva-sevilla-202002241749_noticia.html</link>
-    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/24/s/collage-pp-plazanueva.jpg-kCYE--620x349@abc.jpg&quot;&gt;La concejal del Grupo Popular, Ana Jáuregui, denunció ayer el estado «degradado e indigno de la Plaza Nueva», criticando que «es una metáfora perfecta de lo que se ha convertido la ciudad de Sevilla. Una ciudad acogedora de eventos que lucen de manera efímera, pero que no gestionan ni para transformar ni para resolver los problemas del día a día». 
+<title>El Real Alcázar inicia el día 28 de febrero sus visitas guiadas gratuitas</title>
+<link>https://sevilla.abc.es/sevilla/sevi-real-alcazar-inicia-28-febrero-visitas-guiadas-gratuitas-202002261652_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static3-sevilla.abc.es/media/sevilla/2020/02/26/s/real-alcazar-sevilla-kPjB--620x349@abc.jpg&quot;&gt;El Real Alcázar de Sevilla iniciará el próximo día 28 de febrero la tercera edición de su programa de visitas gratuitas al recinto monumental para las personas nacidas o residentes empadronados en la ciudad, que se reservarán exclusivamente a través de su web oficial y cuya entrada se realizará por la Puerta de la Alcoba, situada en los Jardines de Murillo, en la confluencia con calle San Fernando. Esta iniciativa, que ha contado con un presupuesto total de 30.879 euros, «se enmarca en la estrategia diseñada al comienzo del anterior mandato municipal para acercar a los sevillanos y las sevillanas al recinto palaciego, en especial de quienes residen en los barrios más alejados del Centro», según ha comentado el delegado de Hábitat Urbano, Cultura y Turismo, Antonio Muñoz. 
 
 
-Así, Jáuregui detalló de manera minuciosa todos los desperfectos y problemas que existen en la Plaza Nueva, que pasan, en primer lugar por los daños sufridos en la solería de mármol, «como consecuencia de los continuos eventos que la Plaza Nueva alberga, tras los cuales apenas se hacen trabajos de mantenimiento». 
+Para los días 28 y 29 de febrero y los meses de marzo, octubre y diciembre será una visita al día de martes a domingo para un grupo conformado como máximo por 35 personas, que recorrerán los jardines y distintos palacios del monumento con guías expertos en el mismo. En abril, mayo, junio, julio, agosto y septiembre –cuando el monumento amplía horario–, serían dos visitas al día, de martes a domingo, una a las 11.00 y la segunda a las 12.30 horas. 
 
 
-En cuanto al pavimento levantado en la zona de tránsito de vehículos, desde el PP «exigimos intervenir en la zona comprendida entre el Hotel Inglaterra y la parada de taxis, donde el pavimento está levantado y supone un verdadero peligro para peatones y especialmente para los conductores de motos». 
+Los interesados, tras efectuar la correspondiente reserva sólo en la web oficial del Real Alcázar (www.alcazarsevilla.org) y previa confirmación de la misma, deberán acudir el día escogido a la Puerta de la Alcoba antes del inicio de la visita (arranca con puntualidad), donde se procederá a su identificación con DNI y a un control de seguridad. Es decir, la entrada para esta actividad será personalizada (nominativa) y se deberá acreditar el nacimiento y/o empadronamiento en la ciudad. Una vez que arranque esa visita, se cerrará la puerta y no se podrá acceder.
 
 
-Jáuregui recordó que «desde el Grupo Popular ya denunciamos en octubre del año pasado el estado de la vía pública y calzada en nuestra ciudad. Presentamos más de tres mil imágenes como una pequeña muestra del estado lamentable en el que se encuentra la vía pública de la ciudad». 
-
-
-Arreglo del acerado
-Además, la concejal popular recordó que en octubre «presentamos una propuesta para que el gobierno de Espadas realizara un plan de choque para el arreglo del acerado, las calzadas, pinturas de la vía pública de las señales viales, así como los pasos de cebra. Algo que parece no es una prioridad de este gobierno», manifestó Jáuregui. 
-
-
-En lo referente al estado en el que se encuentran los bancos de la Plaza Nueva, estos son empleados, según su crítica, como «despensas o lugares donde personas sin hogar alojan sus enseres personales. Solo hay que darse una vuelta, a partir de media tarde para comprobar este hecho, invitamos al señor Espadas a salir del despacho y que vea la realidad, el estado y la suciedad de la plaza, y tome medidas urgentes». 
-
-
-El PP asegura que por las noches, las personas sin hogar ocupan bancos, así como portales de edificios. «Siendo sensibles a las situaciones tan delicadas de estas personas, esto es un absoluto fracaso de los servicios sociales del Ayuntamiento, puesto que el gobierno municipal debe ofrecer recursos sociales a estas personas». 
-
-
-La concejal popular destacó, asimismo, que «es necesario revisar los motivos ornamentales de la plaza porque muchos de ellos o faltan o se encuentran en mal estado». Recuerda el PP que a principios de año, la Gerencia de Urbanismo publicaba en prensa el incremento del presupuesto en un 25% con respecto a 2019, «para conservación de monumentos públicos y mobiliario ubicados en espacios públicos y emblemáticos». 
-
-
-
-«Es necesario revisar los motivos ornamentales de la plaza porque muchos de ellos o faltan o se encuentran en mal estado»
-
-
-
-Uno de los temas que más «indignación» ha provocado para los populares es la suciedad de la Plaza Nueva. «Es del todo nauseabundo el estado de determinadas zonas de la Plaza Nueva, donde o no se limpia o falla clamorosamente la manera en la que se hace. Esta denuncia no es nueva, puesto que en el pasado mes de septiembre demostramos con un simple gesto el grado de suciedad incrustada que tenía el suelo de la Plaza Nueva».
-
-
-En este sentido, recuerda la concejal popular que «si bien el Gobierno local reaccionó rápidamente procediendo a una concienciada limpieza, semanas después la Plaza Nueva volvió a su estado de suciedad habitual. Basta pasear por el entorno de los aparcamientos para bicicletas para ver y pisar excrementos de aves incrustados en el suelo que deterioran y dañan la imagen de este lugar».</description>
+«Tras dos exitosas ediciones, con todas las entradas agotadas, abordamos la tercera y consolidamos esta actividad en la programación cultural del propio Real Alcázar y en la estrategia municipal de difundir su historia y patrimonio a los sevillanos y las sevillanas», ha explicado Antonio Muñoz, quien ha destacado además que este año se duplicará la oferta en los meses de primavera y verano.</description>
 <category domain="Sevilla">Sevilla</category>
-<pubDate>Mon, 24 Feb 2020 17:49:40 +0100</pubDate>
-<guid>https://sevilla.abc.es/sevilla/sevi-pp-denuncia-degradado-indigno-estado-encuentra-plaza-nueva-sevilla-202002241749_noticia.html</guid>
+<pubDate>Wed, 26 Feb 2020 16:52:40 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-real-alcazar-inicia-28-febrero-visitas-guiadas-gratuitas-202002261652_noticia.html</guid>
     <dc:creator>(sevilla)</dc:creator>
 </item>
 <item>
-<title>El padre del bebé muerto en El Cerezo niega que le dieran un golpe o lo zarandeara</title>
-<link>https://sevilla.abc.es/sevilla/sevi-padre-bebe-muerto-cerezo-niega-dieran-golpe-o-zarandeara-202002241621_noticia.html</link>
-    <description>&lt;img align=&quot;left&quot; src=&quot;https://static3-sevilla.abc.es/media/sevilla/2020/02/24/s/acusados-bebe-cerezo-kijC-U55687400557QTy-620x349@abc.JPG&quot;&gt;La Audiencia de Sevilla ha acogido este lunes la segunda sesión del juicio con jurado contra Bryan S.R.G. y Ruth F.G., padres del bebé de seis meses fallecido en junio de 2017 en el Hospital Virgen Macarena de la capital por una fractura en el cráneo y síntomas del síndrome del bebé zarandeado. Hoy ha sido el turno del interrogatorio a los dos acusados. El padre, que se enfrenta a la prisión permanente revisable acusado del asesinato de su hijo, ha negado que le haya dado un golpe o lo zarandeara bruscamente, insistiendo en que el niño de atragantó tomando el biberón de leche y por ello acudió al centro hospitalario. 
+<title>El centro de innovación del Puerto permitirá rehabilitar un edificio de los astilleros</title>
+<link>https://sevilla.abc.es/sevilla/sevi-centro-innovacion-puerto-permitira-rehabilitar-edificio-astilleros-202002261458_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static2-sevilla.abc.es/media/sevilla/2020/02/26/s/edifcios-astilleros-koQE--620x349@abc.jpg&quot;&gt;El futuro centro de innovación logística e industrial que construirá Universidad de Sevilla en terrenos del Puerto dispondrá de otro equipamiento: un edificio de los antiguos astilleros que será rehabilitado, como adelantó ABC. Así lo ha confirmado este miércoles el presidente de la Autoridad Portuaria, Rafael Carmona, tras la reunión del consejo de administración de la institución.
 
 
-La madre del bebé, para quien la Fiscalía solicita año y medio de cárcel por un delito de malos tratos y otro de abandono de familia, ha negado igualmente que su expareja le diera un golpe al hijo de ambos. Los dos han coincidido en apuntar a una amiga, Raquel, como la posible autora del golpe que pudo acabar con la vida de su hijo. Ella fue quien bajo al bebé por las escaleras del bloque de la calle Playa de Valdelagrana, del barrio del Cerezo, donde vivían los acusados de okupas. 
+El inmueble en cuestión tiene una superficie de 4.300 metros cuadrados y recuperará, de cierta forma, la función de taller que ya tuvo durante la época de pujanza de la industria naval, aunque adaptado al siglo XXI. Será «una mini planta de producción que se utilizará para los proyectos de investigación que se han designado para esta iniciativa». Carmona ha señalado que este edificio se encuentra en la parcela de uno de los concesionarios, que lo devolverá para que pueda ser adjudicado a la Hispalense. El régimen será en las mismas condiciones que la parcela que ya se cedió en septiembre, libre de canon y de cargas.
 
 
-Era un quinto piso y bajó las escaleras corriendo porque el niño se estaba ahogando. Tanto el padre como la madre han señalado que hay vecinos del barrio que han escuchado a esta mujer decir que «le dio un golpe sin querer» al niño al bajar las escaleras, «pero no se quiere comer el marrón», han añadido los acusados. 
+Esta pequeña factoría completará el equipamiento que se levantará en el polígono Astilleros, donde la Autoridad Portuaria ha reservado 10.600 metros cuadrados de suelo con este fin. Carmona aclaró en su día que «se trata de unos terrenos que no tenían uso, pero que se encontraban en un lugar totalmente estratégico, pues el centro incluye los dos ámbitos: la industria y la logística». Sobre la mesa estuvo la posibilidad de no construir más edificaciones y seguir recuperando el generoso patrimonio inmobiliario que quedó tras el cerrojazo de la industria naval, pero finalmente se ha optado por la obra de nueva planta.
 
 
-Esta teoría ya fue planteada por la defensa de Bryan S.R.G. en el primer juicio celebrado el pasado año y que tuvo que ser suspendido y anulada la prueba por el intento de suicidio del acusado. 
+El proyecto del edificio, que será de nueva planta, lo diseñará la Hispalense, que todavía no lo ha dado a conocer. Sí ha avanzado las empresas que participarán y las líneas de investigación que se desarrollarán. Las compañías son GRI Towers, con seis iniciativas y seis doctorados de ingeniería en los sectores de Industria 4.0, energías renovables y nuevos materiales de acero, soldadura y procesos de pintura; y Airbus, con seis proyectos en los sectores de nuevos materiales compuestos y metálicos y «smart factory». Portel Logistics desarrollará tres proyectos y tres doctorados industriales en logística portuaria intermodal; Atlantic Copper, uno sobre la valorización de subproductos de residuos del cobre y General Dynamics, otro doctorado industrial en internet de las cosas para la producción.
 
 
-La madre ha admitido este lunes que no acudió a algunas citas médicas, hechos que podrían constituir el delito de abandono de familia. Además, ha asegurado que en una sola ocasión discutió con su pareja porque al darle masajes al bebé para que éste tomara correctamente el biberón le hizo unas marcas en la cara. Es el único episodio de maltrato por el que acusan a ambos. 
+La comisión ha aprobado también un proyecto para Emergy sobre «blockchain» en la trazabilidad de la industria agroalimentaria; Cobre las Cruces investigará sobre el almacenamiento eficiente de energías renovables; y Grupo TEDAX-Policía Nacional lo hará sobre una alerta temprana para la detección marina de sustancias peligrosas.
 
 
-Fumaban porros
-Los dos también 
-
-han reconocido que fumaban porros
-. Ella ha dicho que incluso delante del niño, mientras él ha asegurado que salían al balcón. Semanas antes del 12 de junio de 2017, cuando tuvieron que acudir al hospital con el bebé, que murió cinco días después, comenzó a vivir con ellos esta amiga, Raquel. Todos en situación ilegal en el piso. De hecho, los acusados han mantenido que ella se quedó a vivir allí cuando fueron detenidos, aunque el jefe del Grupo de Homicidios de la Policía Nacional, instructor de la investigación, ha dicho que no le consta.
-
-
-Precisamente, la declaración de este inspector en el juicio ha vuelto a causar bastante protestas por parte de las defensas, sobre todo, por las respuestas que iba dando el agente a las preguntas de la fiscal. De hecho, el abogado del acusado ha ironizado sobre las contestaciones del jefe policial: &quot;Usted cree mucho&quot;. 
-
-
-El agente, como ya hiciera en el primer juicio, ha dado respuestas muy extensas y detalladas de la investigación, lo que ha provocado que el propio abogado defensor le interrumpiera, con la correspondiente llamada de atención de Mercedes Alaya. 
-
-
-Manipulación de testigos
-Ha afirmado que las vecinas y amigas trasladaron a los agentes que las discusiones y peleas entre la pareja de acusados eran continuas. De hecho, una de ellas le dijo que oyó golpes el día 12 en la casa de los acusados y momentos después vio a Raquel bajando con el niño por las escaleras. 
-
-
-Según el jefe del Grupo de Homicidios, sólo Bryan S.R.G. estaba en el piso en el tramo horario en el que ocurrieron los hechos que causaron la muerte del bebé. 
-
-
-Por último, el agente ha acusado a Ruth F.G. de amenazar y manipular a testigos como su hermana Libertad y su amiga Raquel. Incluso, la acusada dañó el vehículo de su excuñado.</description>
+Este centro de I+D+i cuenta con una financiación de quince millones de euros procedentes del fondo Interreg España-Portugal. En el mismo se han involucrado universidades del Alentejo y el Algarve y tiene un plazo para su puesta en funcionamiento: diciembre de 2021. De no cumplirse, las instituciones participantes tendrán serios problemas para evitar la devolución del dinero.</description>
 <category domain="Sevilla">Sevilla</category>
-<pubDate>Mon, 24 Feb 2020 16:21:49 +0100</pubDate>
-<guid>https://sevilla.abc.es/sevilla/sevi-padre-bebe-muerto-cerezo-niega-dieran-golpe-o-zarandeara-202002241621_noticia.html</guid>
+<pubDate>Wed, 26 Feb 2020 14:58:59 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-centro-innovacion-puerto-permitira-rehabilitar-edificio-astilleros-202002261458_noticia.html</guid>
     <dc:creator>(sevilla)</dc:creator>
 </item>
 <item>
-<title>El distrito Cerro-Amate tendrá  caseta propia en la Feria de Abril 2020</title>
-<link>https://sevilla.abc.es/sevilla/sevi-distrito-cerro-amate-tendra-caseta-propia-feria-abril-2020-202002241454_noticia.html</link>
-    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/24/s/casetas-feria-sevill-U65330438341nhP-620x349@abc.jpg&quot;&gt;El Ayuntamiento de Sevilla, a través de la Delegación de Gobernación y Fiestas Mayores, ha adjudicado cinco casetas que han quedado vacantes para la Feria de Abril de 2020 y ha optado por utilizar una de ellas para destinarla al Distrito Cerro-Amate, que hasta ahora compartía espacio con el Distrito Este-Alcosa-Torreblanca. Esta adjudicación, que aún tiene que ser ratificada por la Junta de Gobierno Local, se ha aprobado hoy en la Comisión de Fiestas Mayores del Ayuntamiento y también contempla que las cuatro restantes se repartan entre las categorías de &#039;Familiares&#039;, a la que se adjudica dos casetas, &#039;Entidades&#039; y &#039;Titularidad perdida&#039;, con una cada una respectivamente. 
+<title>El tiempo en Sevilla para el Puente de Andalucía: cielos nubosos y pequeño riesgo de lloviznas</title>
+<link>https://sevilla.abc.es/sevilla/sevi-tiempo-sevilla-para-puente-andalucia-cielos-nubosos-y-pequeno-riesgo-lloviznas-202002261412_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/26/s/nubes-torre-oro-kjoG--620x349@abc.jpg&quot;&gt;El puente de Andalucía empezará cálido y soleado, siguiendo la tónica primaveral de las últimas semanas. Las temperaturas, en aumento, rondarán los 24 grados hasta el sábado, cuando los cielos se nublarán y se tornarán inestables unidos a una ligera caída de los termómetros.
 
 
-Así, la propuesta de adjudicación aprobada hoy ha sido realizada por el Área de Fiestas Mayores, siguiendo los criterios técnicos establecidos en la Ordenanza Municipal de la Feria de Sevilla, una vez finalizado el plazo de pago de las tasas de concesión de casetas. 
+Como prevé la Agencia Estatal de Meteorología (Aemet), no se esperan cambios en la meteorología entre este miércoles y el sábado 29 por la mañana. El tiempo estable y más cálido de lo habitual por estas fechas se mantendrá en los últimos días del mes de febrero. Las temperaturas mínimas se quedarán en los 8 grados, mientras las máximas subirán el jueves hasta los 24, donde se acomodorán hasta la jornada sabatina.
 
 
-En primer lugar, dicha propuesta incluye para el Distrito Cerro-Amate se destine la mayor de las casetas que ha quedado vacante. Se trata de una caseta de tres módulos, cuya titularidad ha sido retirada por parte de Fiestas Mayores. Así, la Feria de Abril pasará de seis casetas de Distritos a contar con un total de siete. El delegado de Gobernación y Fiestas Mayores, Juan Carlos Cabrera, ha destacado que «el objetivo de esta iniciativa es que el Distrito Cerro-Amate disponga de una caseta propia en el Real al ser uno de los mayores en población de la ciudad y dado que, hasta ahora, compartía espacio con otro de los más habitados como es Este-Alcosa-Torreblanca». Para Cabrera, «esta decisión supone dotar a la Feria de Abril de una nueva caseta pública de libre acceso para disfrute de todos los sevillanos y sevillanas y de quienes nos visitan». 
+Sin embargo, estas dinámicas parecen cambiar el sábado. La probabilidad de precipitación, inexistente hasta entonces, aparecerá por la tarde, cuando podrían registrarse algunas lluvias débiles. Los cielos nublados se mantendrán el domingo, con una probabilidad menor de que descarguen.
 
 
-Asimismo, la propuesta también contempla la adjudicación de las otras cuatro casetas, todas ellas de un módulo cada una, a solicitudes inscritas en las tipologías de &#039;Familiares&#039;, &#039;Entidades&#039; y &#039;Titularidad perdida&#039;. Para el reparto, se ha tenido en cuenta que el número total de solicitudes pendientes de adjudicación asciende a 1.199, siendo 728 para &#039;Familiares&#039;, 417 para &#039;Entidades&#039; y 54 para &#039;Titularidad perdida&#039;. De este modo, siguiendo los criterios de proporcionalidad de las solicitudes existentes tal y como establece la Ordenanza Municipal de la Feria de Sevilla, se ha optado por destinar dos casetas a la categoría &#039;Familiares&#039;, al ser la que concentra el mayor número de solicitudes, y las dos restantes a &#039;Entidades&#039; y &#039;Titularidad Perdida&#039;, respectivamente. 
+Según las previsiones, la amplia oscilación térmica se reducirá a partir del sábado, con una tímida subida de las mínimas y el descenso de un par de grados en las máximas.
 
 
-Estas otras cuatro casetas han quedado vacantes por distintos motivos, como no presentar la solicitud en plazo, retirada de la titularidad por parte del Área de Fiestas Mayores o no realizar el abono de las tasas en el plazo previsto para ello.</description>
+En el resto de la provincia, la evolución de los cielos será similar a la de la capital. Sol radiante hasta el sábado, cuando por la tarde las nubes se extenderán por todo el territorio. Donde más posibilidades hay de lluvias es en el noroeste de la provincia, con un 65 por ciento en 
+El Castillo de las Guardas entre el sábado y el domingo.
+
+
+Las temperaturas, por su parte, seguirán por encima de las típicas del mes de febrero, por lo que todo apunta a que los abrigos seguirán en el armario.
+
+
+El tiempo en Andalucía
+La estabilidad atmosférica y los termómetros propios de dentro de varios meses estarán también presentes en el resto del territorio andaluz. En el litoral las mínimas serán más suaves (en torno a los 12 grados en Málaga o incluso 15 en Cádiz el sábado).
+
+
+Las nubes irán cubriendo los cielos de Andalucía occidental a lo largo del sábado, llegando a zonas del interior de Jaén y Granada conforme avancen las horas. La provincia de Huelva será la que más encapotada esté, si bien no se esperan precipitaciones de importancia en ningún punto de la comunidad autónoma. La nubosidad será menos destacada en la costa mediterránea.</description>
 <category domain="Sevilla">Sevilla</category>
-<pubDate>Mon, 24 Feb 2020 14:54:31 +0100</pubDate>
-<guid>https://sevilla.abc.es/sevilla/sevi-distrito-cerro-amate-tendra-caseta-propia-feria-abril-2020-202002241454_noticia.html</guid>
+<pubDate>Wed, 26 Feb 2020 14:12:36 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-tiempo-sevilla-para-puente-andalucia-cielos-nubosos-y-pequeno-riesgo-lloviznas-202002261412_noticia.html</guid>
     <dc:creator>(sevilla)</dc:creator>
 </item>
 <item>
-<title>El próximo lunes se iniciarán las obras del nuevo colector y bulevar verde en la Ronda de Tejares</title>
-<link>https://sevilla.abc.es/sevilla/sevi-proximo-lunes-iniciaran-obras-nuevo-colector-y-bulevar-verde-ronda-tejares-202002241332_noticia.html</link>
-    <description>&lt;img align=&quot;left&quot; src=&quot;https://static2-sevilla.abc.es/media/sevilla/2020/02/24/s/espadas-reurbanizacion-triana-k9JD--620x349@abc.jpg&quot;&gt;El Ayuntamiento, a través de la empresa pública de aguas Emasesa en coordinación con el Distrito Triana, iniciará la primera semana de marzo las obras de sustitución del colector de la Ronda de Tejares, desde Ronda de Triana hasta la Avenida de Blas Infante y la reurbanización integral de la zona afectada por las mismas (que incluye la propia Ronda de Tejares y la Barriada del Carmen).
+<title>El consejero de Salud convoca una rueda de prensa por la crisis del coronavirus en Sevilla | Últimas noticias en directo</title>
+<link>https://sevilla.abc.es/sevilla/sevi-coronavirus-sevilla-confirma-primer-caso-andalucia-ultimas-noticias-directo-202002261405_directo.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/26/s/foto-directo-rocio-knZG--620x349@abc.jpg&quot;&gt;17.03 
+
+Irlanda suspende su partido ante Italia del Seis Naciones por el coronavirusLa Federación Irlandesa de Rugby (IRFU) ha anunciado la suspensión del partido que debe enfrentar el próximo 7 de marzo en el Aviva Stadium de Dublín a su selección contra Italia, correspondiente al Seis Naciones, por los riesgos de salud generados por el brote de coronavirus en el país transalpino.
 
 
-Con 9,86 millones de euros de presupuesto total y un plazo de ejecución de año y medio –hasta septiembre de 2021–, el proyecto contempla crear un gran bulevar con criterios medioambientales en la Ronda de Tejares, con un amplio paseo peatonal, más arboleda e iluminación, pavimento drenante y distintos equipamientos y mobiliario, en cuyo diseño se dará participación a las asociaciones vecinales, y todo ello con mantenimiento de plazas de aparcamiento.
+
+16.57 
+
+La histeria del coronavirus deja a los asmáticos sin mascarillasMientras la histeria por los casos de coronavirus en Europa ha dejado a las farmacias sin mascarillas, esta primavera anticipada que vive Andalucía desde hace semanas en pleno mes de febrero ha adelantado los síntomas de la alergia. Las personas asmáticas que necesitan una mascarilla para frenar la sintomatología asociada a la alergia primaveral no pueden encontrar en las farmacias el producto médico que les prescribe el doctor. [Más información en este enlace]
 
 
-La complejidad de este proyecto y su duración han llevado a gestar una comisión de coordinación de servicios municipales –Emasesa, Gerencia de Urbanismo, Parques y Jardines, Movilidad, Tussam y Lipasam y el Distrito Triana– y a planificar los trabajos en seis fases o tramos de obras, con objeto de reducir en lo posible las molestias a los vecinos y su afección a la circulación. Teniendo en cuenta que las obras arrancarán el 2 de marzo en el tramo situado entre Arcángel San Miguel y la Avenida de Coria, las fases son las siguientes:
 
 
-• Tramo 1: Arcángel San Miguel-Avenida de Coria. De marzo de 2020 a abril de 2021.
 
 
-• Tramo 2: Manuel Arellano, confluencia con calle Castilla-Ronda de Triana. De abril de 2020 a febrero de 2021.
+16.50 
+
+Casos de coronavirus en el mundoHay 844 casos notificados, 406 de China, (401 solo en la provincia de Hubei), mientras que en el resto de China solo hay 5 casos. En Italia hay 59 nuevos casos (322 en total), en Irán, 95 casos (34 nuevos en las ultimas 24 horas), en Corea del Sur ascienden a 169 (1.146 en total), en Japón 8 nuevos (861 en total) y en Singapur uno nuevo (91 en total). 
 
 
-• Tramo 3: San José de Calasanz, desde los Viveros de Los Remedios hasta su confluencia con Rubén Darío. De julio de 2020 a febrero de 2021.
+
+16.43 
+&amp;lt;blockquote class=&quot;twitter-tweet&quot;&amp;gt;&amp;lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&amp;gt;El Instituto Carlos III de Madrid, al que se enviaron las muestras del paciente, ha corroborado oficialmente la enfermedad &amp;lt;a href=&quot;https://t.co/wvHA8OlQZ7&quot;&amp;gt;https://t.co/wvHA8OlQZ7&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/Sevillahoy?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Sevillahoy&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/Coronavirus?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Coronavirus&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; ABC de Sevilla (@abcdesevilla) &amp;lt;a href=&quot;https://twitter.com/abcdesevilla/status/1232689330562486275?ref_src=twsrc%5Etfw&quot;&amp;gt;February 26, 2020&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&amp;gt;&amp;lt;/script&amp;gt;
 
 
-• Tramo 4: Rubén Darío-Arcángel San Miguel. De agosto de 2020 a febrero de 2021.
+
+16.38 
+
+Valencia deja en manos del Gobierno la suspensión de las Fallas por el coronavirusSerá el Gobierno central el que decida sobre las Fallas. La confirmación del primer caso de coronavirus en la Comunidad Valenciana ha coincidido en el tiempo con los preparativos de una de las fiestas más multitudiarias del territorio en la que en pocos días se concentran en Valencia miles de visitantes de todo el mundo. Las autoridades autonómicas y locales se han volcado en lanzar un mensaje de tranquilidad ante el alarmismo que se está generando entre la población. De hecho, la Generalitat ha decidido no comunicar los casos sospechosos de coronavirus hasta que no se confirmen. [Más información en el siguiente enlace]
 
 
-• Tramo 5: Avenida de Coria- San Vicente de Paúl (justo frente a la Barriada de la Dársena). De diciembre de 2020 a julio de 2021.
 
 
-• Tramo 6: San Vicente de Paúl-Miguel Arellano. De enero de 2021 al mes de septiembre de 2021.
 
 
-«La duración de las fases es aproximada, puesto que la obra se intentará acelerar en lo posible. Se trata de una gran obra de ciudad, que complementa al nuevo colector de Niebla, ejecutado hace dos años, y que conforman una gran infraestructura para prevenir inundaciones en los barrios de Los Remedios y Triana», según ha explicado la delegada del Distrito Triana, María Encarnación Aguilar.
+16.35 
+
+Ocho de los nueve casos han sido descartados en AndalucíaLa Consejería de Salud y Familias ha informado también de que se ha descartado que ocho de los nueve casos sospechosos de tener coronavirus en Andalucía en las últimas horas padezcan la enfermedad. Entre los ocho casos descartados, figura el de un médico residente (MIR) del hospital de Puerto Real (Cádiz) que había estado de vacaciones en Milán y al regresar desarrolló un cuadro similar a un constipado. En Huelva tres pacientes permanecían desde la tarde de ayer martes aislados en los hospitales Juan Ramón Jiménez e Infanta Elena de Huelva, aunque ya se ha descartado que tengan el coronavirus. En Almería, el transportista ingresado en el Hospital Torrecárdenas, que había estado trabajando en el norte de Italia recientemente, ha dado también negativo en las pruebas de coronavirus, según han informado a Efe fuentes hospitalarias.
 
 
-Cambios en el tráfico
-Durante estas obras se habilitará el Charco de la Pava –la zona donde se localiza el Circo del Sol y el entorno del Centro Deportivo Vega de Triana– como aparcamiento provisional con entrada por el paso inferior que hay frente a la calle Fray Tomás de Berlanga –el paso peatonal de entrada al Parque Vega de Triana–, eliminando para ello los bolardos fijos existentes en la actualidad. Se está tramitando con Urbanismo dotar de alumbrado público el interior para facilitar el acceso a los vehículos y para mayor seguridad de los usuarios.
+
+16.31 
+
+Brasil, primer caso confirmado y otros 20 en estudioEl Ministerio de Salud de Brasil ha confirmado el primer caso de coronavirus en América Latina, diagnosticando a un hombre de 61 años en Sao Paulo que había viajado recientemente a Italia. Además, se están estudiando otros 20 casos. El diagnóstico se produce durante el carnaval de Brasil, un momento pico para los viajes en el país.
 
 
-Desde el Área de Movilidad se ha elaborado un plan de tráfico con alternativas para las entradas y salidas de las calles afectadas por las obras y que tendrán en cuenta las distintas fases de ejecución del proyecto. Junto con los avisos por obras, se irán colocando las correspondientes placas para informar sobre los desvíos y cambios de sentido de la circulación.
+
+16.27 
+&amp;lt;blockquote class=&quot;twitter-tweet&quot;&amp;gt;&amp;lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&amp;gt;⏩ Qué es el &amp;lt;a href=&quot;https://twitter.com/hashtag/coronavirus?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#coronavirus&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;⏩ Cómo afecta a la población&amp;lt;br&amp;gt;⏩ Sus síntomas&amp;lt;br&amp;gt;⏩ Medidas de prevención&amp;lt;br&amp;gt;⏩ La enfermedad en datos&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;Todas las respuesta en la web de &amp;lt;a href=&quot;https://twitter.com/sanidadgob?ref_src=twsrc%5Etfw&quot;&amp;gt;@sanidadgob&amp;lt;/a&amp;gt;: &amp;lt;a href=&quot;https://t.co/tkAty9aXeH&quot;&amp;gt;https://t.co/tkAty9aXeH&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://t.co/sRud9HrUUO&quot;&amp;gt;pic.twitter.com/sRud9HrUUO&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; Salud Pública (@SaludPublicaEs) &amp;lt;a href=&quot;https://twitter.com/SaludPublicaEs/status/1232429484843859969?ref_src=twsrc%5Etfw&quot;&amp;gt;February 25, 2020&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&amp;gt;&amp;lt;/script&amp;gt;
 
 
-Durante la ejecución del proyecto de obras se verá afectada la Línea 43 de Tussam (Plaza de la Magdalena-El Tardón), aunque esta afección no llegará hasta después de Semana Santa. Entonces, esta línea realizará su recorrido por la Ronda de Triana y se habilitarán alternativas para dar servicio a la zona Turruñuelo-Coruña-Avenida de Coria. A partir de agosto, la afección alcanzará también a la Línea 40 (Plaza de la Magdalena-Triana).
+
+16.24 
+
+La OMS alerta ante el Coronavirus: «No compre mascarillas»En muchas farmacias españolas es un producto agotado y los proveedores apenas tienen stock. Los usuarios acuden a supermercados y otros establecimientos especializados en busca de mascarillas antivirus pero no es fácil encontrarlas en estos momentos y alcanza precios cada vez mayores. Internet se ha convertido en el mayor punto de búsqueda de este elemento. La escasez hace que se encarezca el producto y amenaza con que no puedan obtenerlo personas que realmente lo necesitan. Los hay, incluso, quienes tratan de construir remedios caseros, algo nada recomendable. [Amplía información en el siguiente enlace]
 
 
-En todo caso, la empresa municipal de transportes irá informando a los usuarios de la ubicación de las paradas y el recorrido alternativo por las calles interiores que confluyen en Ronda de Triana y la Barriada del Carmen.
 
 
-El gran bulevar
-La propuesta realizada desde Emasesa es crear un gran bulevar para el disfrute y el paseo de vecinos y vecinas a lo largo de toda la Ronda de Tejares con unos criterios medioambientales y contra el cambio climático, además de instalar equipamientos vecinales y mobiliario que se irán perfilando en próximos meses con la participación del Distrito Triana y las entidades vecinales.
 
 
-El bulevar llevará:
+16.15 
+
+El paciente sevillano evoluciona «clínicamente bien»El paciente ingresado en el Hospital Virgen del Rocío de Sevilla, primer caso confirmado de coronavirus en Andalucía, «está evolucionando clínicamente bien», según ha señalado la portavoz del grupo de seguimiento del coronavirus en Andalucía, Inmaculada Salcedo. En declaraciones a Canal Sur Radio, Salcedo ha señalado que el paciente ingresado en el Hospital Virgen del Rocío de Sevilla por coronavirus «apareció con una neumonía» y aunque permanece aislado, «está evolucionando clínicamente bien».
 
 
-• Un amplio acerado peatonal, que rondará los 10 metros de ancho.
 
 
-• Dos bandas de arbolado y parterres.
+
+16.11 
+
+Así se ha ido expandiendo el coronavirus por el mundoEl brote de coronavirus Covid-19 ya está presente en 30 países de todo el mundo. Aunque la gran mayoría de los contagiados están en China, donde tuvo origen el brote, el virus ya ha atacado con fuerza en países vecinos, como Corea del Sur, y de otros continentes, como los 144 regristados en Italia hasta el 23 de febrero. De los 78.811 contagiados, casi todos, 77.042, están en China. El resto, menos de dos millares, se reparten en 29 países. En Japón, contando con los infectados en un crucero, son 823; en Corea del Sur son 602 lo casos diagnosticados. El virus ya está también en África, con el primer caso en Egipto. [Más información en el siguiente enlace]
 
 
-• Entre ambas se colocará pavimento drenante para una mejor absorción del agua de lluvia y, además, que la retenga para el riego natural de la vegetación y el arbolado.
 
 
-• El mantenimiento del arbolado existente salvo en aquellos casos puntuales. Incremento del número de árboles –al finalizar, la masa arbórea será superior a la actual– y parterres.
+16.08 
+&amp;lt;blockquote class=&quot;twitter-tweet&quot;&amp;gt;&amp;lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/URGENTE?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#URGENTE&amp;lt;/a&amp;gt; Fujitsu presenta el primer ERTE en España por el coronavirus &amp;lt;a href=&quot;https://t.co/tRUCxYOj2n&quot;&amp;gt;https://t.co/tRUCxYOj2n&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; ABC.es (@abc_es) &amp;lt;a href=&quot;https://twitter.com/abc_es/status/1232635730834403329?ref_src=twsrc%5Etfw&quot;&amp;gt;February 26, 2020&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&amp;gt;&amp;lt;/script&amp;gt;
 
 
-• Línea de farolas dobles de alumbrado entre las dos bandas de la arboleda, reforzando así la iluminación de la zona para atender el paseo y los nuevos equipamientos y para mayor sensación de seguridad.
+
+16.06 
+
+Italia eleva a doce el número de muertosItalia eleva a doce el número de muertos por coronavirus, mientras que la cifra de contagios asciende a 374, incluidos seis niños en la región de Lombardia, la más afectada con 258 personas infectadas, si bien constata que el 95 por ciento de las pruebas realizadas a pacientes para descartar el virus han dado negativo.
 
 
-El trazado del nuevo colector discurrirá paralelo al antiguo –se desplaza a mitad de la ronda–, evitando así que afecte a las raíces de los árboles que actualmente tiene el antiguo, puesto que este último discurre ahora pegado al Muro de Defensa. Se han realizado cambios con respecto al diseño inicial del trazado y se ha optado por dejar el antiguo colector enterrado y con su interior sellado en vez de sacarlo, para así no perjudicar a las raíces de la arboleda. El diseño final, además, será compatible con el mantenimiento de plazas de aparcamiento en la zona.
+
+16.01 
+
+El estado del infectado en Sevilla no es graveSe trata de un varón de unos 60 años que, al parecer, no responde a ningún criterio epidemiológico. El hombre no habría estado ni en China ni en Italia. El paciente se encuentra aislado en una habitación del hospital, aplicando los protocolos, y, aunque tiene fiebre, su estado no es grave. [Más información en el siguiente enlace]
 
 
-Se cambiarán casi 2,5 kilómetros de tuberías que alcanzan en sus tramos principales hasta los 3 metros de diámetros, que requieren una maquinaria muy especializada y de grandes dimensiones.</description>
+
+
+15.56 
+
+Consejos para viajeros procedentes de zona de riesgoEl Gobierno de España ha lanzado los siguientes consejos para aquellas personas que han viajado a zonas de riesgo como China o Italia.
+
+
+
+
+
+15.47 
+
+El comité asesor de coronavirus en Andalucía dará una rueda de prensaTras la confirmación del caso de Sevilla, el comité asesor de coronavirus en Andalucía ha anunciado que se reúne esta tarde y al término de la reunión ofrecerá información su portavoz, Inmaculada Salcedo en torno a las 17.30 horas.
+
+
+
+15.45 
+
+Síntomas del coronavirusDependen del tipo de coronavirus y de la gravedad de la infección. Si tiene una infección de las vías respiratorias superiores leve o moderada, como el resfriado común, sus síntomas pueden incluir: malestar general, fiebre, secreción nasal, dolor de cabeza, tos o dolor de garganta. Algunos coronavirus pueden causar síntomas graves. Las infecciones pueden convertirse en bronquitis y neumonía, las que causan síntomas como: fiebre alta, dolor en el pecho cuando respira o tose, tos con flema, falta de aliento. Es más probable que las infecciones severas aparezcan en personas con enfermedades cardíacas o pulmonares, personas con sistemas inmunitarios debilitados, bebés y adultos mayores. [Más información]
+
+
+
+
+15.42 
+&amp;lt;blockquote class=&quot;twitter-tweet&quot;&amp;gt;&amp;lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&amp;gt;[&amp;lt;a href=&quot;https://twitter.com/hashtag/CORONAVIRUS?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#CORONAVIRUS&amp;lt;/a&amp;gt;] Los empleados, que no presentan síntomas, habían estado en contacto con un responsable de la compañía que ha estado en Lombardía &amp;lt;a href=&quot;https://t.co/AqeCLn58ML&quot;&amp;gt;https://t.co/AqeCLn58ML&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/C%C3%B3rdobaProv?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#CórdobaProv&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; ABC Córdoba (@abccordoba) &amp;lt;a href=&quot;https://twitter.com/abccordoba/status/1232670450209128448?ref_src=twsrc%5Etfw&quot;&amp;gt;February 26, 2020&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&amp;gt;&amp;lt;/script&amp;gt;
+
+
+
+15.06 
+
+El hospital Carlos III ha confirmado el caso de coronavirus en SevillaEl único caso confirmado es un hombre de 62 años aislado por dar positivo en el Hospital Virgen del Rocío. El Hospital Carlos III de Madrid acaba de corroborar el positivo.
+
+
+
+14.59 
+
+ÚLTIMA HORA: descartado el posible caso de coronavirus en AlmeríaLa Consejería de Salud ha decartado la infección por el virus tras la realización de las pruebas que han dado negativo, según fuentes del centro hospitalario. El paciente tendría Gripe-A y no el Covid-19, ambos con síntomas y dolencias similares. Se trata de un camionero que acudió anoche a Urgencias ante los síntomas que padecía y al haber regresado recientemente de Italia por lo que se activaron las medidas de control pertinentes. [Más información aquí]
+
+
+
+
+
+
+14.56 
+
+En Sevilla hay dos casos sospechosos de coronavirusDos pacientes aislados, uno en el hospital Virgen Macarena y otro en el hospital de Osuna, aguardan los análisis para descartar o confirmar infección por coronavirus.
+
+
+
+
+
+14.51 
+
+El pánico, el «virus» de Italia que puede causar más daños que el coronavirus«Tenemos que parar el pánico». Este es hoy el grito de alarma del primer ministro, Giuseppe Conte, que ha pedido a la RAI (la radiotelevisión pública) «bajar el tono» para evitar la histeria y alarmas sin sentido. El pánico se ha convertido en el peor virus para Italia, peor que el Covid-19. No se sabe si el coronavirus se convertirá en pandemia (la enfermedad epidémica que se extiende a muchos países o que ataca a casi todos los individuos de una localidad o región, según define la RAE). Lo que sí parece seguro es que en Italia exista lo que podríamos llamar la «pandemia de la histeria y pánico al coronavirus». [Más información aquí]
+
+
+
+
+14.46 Sospechoso en Almería&amp;lt;blockquote class=&quot;twitter-tweet&quot;&amp;gt;&amp;lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&amp;gt;Un hombre de 42 años se encuentra aislado desde la noche del martes en el Hospital Torrecárdenas de la capital &amp;lt;a href=&quot;https://t.co/Ay32tlQPCS&quot;&amp;gt;https://t.co/Ay32tlQPCS&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/Andaluc%C3%ADa?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Andalucía&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/Coronavirus?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Coronavirus&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; ABC de Sevilla (@abcdesevilla) &amp;lt;a href=&quot;https://twitter.com/abcdesevilla/status/1232640235596587009?ref_src=twsrc%5Etfw&quot;&amp;gt;February 26, 2020&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&amp;gt;&amp;lt;/script&amp;gt;
+
+
+
+14.44 
+
+Un médico de Málaga roba 300 mascarillas para llevarlas a su puebloUn médico del Hospital Clínico de Málaga ha sido sorprendido cuando salía del centro sanitario con 14 cajas de mascarillas de alta filtración, las más caras y las indicadas para evitar posibles contagios del coronavirus y otras enfermedades. De la noticia da cuenta este miércoles la cadena Ser, que señala que, al ser detectado, el facultativo -un traumatólogo del centro- portaba unas 300 mascarillas y aseguró que se llevaba el material «para su pueblo». [Más información en este enlace]
+
+
+
+
+
+
+14.36 
+
+Tres pacientes sospechosos de coronavirus en AndalucíaTras descartar ocho casos de los pacientes de Huelva, Puerto Real, Sevilla y de Jaén, las autoridades sanitarias aún tienen pendientes por confirmar tres casos: uno en Osuna, otro en el hospital Virgen Macarena y un tercero en Almería.
+
+
+
+14.32 
+
+Si tengo síntomas, ¿qué hago?Los ochos casos de coronavirus (Covid 2019) detectados en España corresponden a ciudadanos que habían estado recientemente en el norte de Italia. ¿Qué tengo que hacer si he viajado a algunos de los países con casos de coronavirus y ahora tengo síntomas: tos, fiebre, dolor de garganta, dificultad para respirar? El Ministerio de Sanidad recomienda a los viajeros que vuelvan de zonas afectadas seguir una serie de pautas. [Conoce las pautas en el siguiente enlace]
+
+
+
+
+
+
+14.30 
+
+En Huelva se descarta el contagioLos resultados de las pruebas realizadas ayer a las tres personas ingresadas en los hospitales de Huelva por sospechas de coronavirus, al presentar un cuadro compatible con el virus y al haber estado en Italia, han dado negativos, descartando así el contagio, por lo que la provincia queda fuera de momento del mapa de extensión. Las muestras tomadas a los pacientes, una chica ingresada en el Infanta Elena y otras dos personas en el Juan Ramon Jiménez, han sido analizadas en el hospital Virgen del Rocío de Sevilla, y han dado negativo en el virus COVID-19, informó Huelva 24 y confirmó ABC.
+
+
+
+14.29 
+&amp;lt;blockquote class=&quot;twitter-tweet&quot;&amp;gt;&amp;lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&amp;gt;La Comunidad de Madrid ya ha empezado a realizar la investigación epidemiológica para estudiar el riesgo de exposición de las personas que estuvieron en contacto con los dos infectados &amp;lt;a href=&quot;https://t.co/zoWdBBJa9h&quot;&amp;gt;https://t.co/zoWdBBJa9h&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/Coronavirus?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Coronavirus&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; ABC de Sevilla (@abcdesevilla) &amp;lt;a href=&quot;https://twitter.com/abcdesevilla/status/1232647779866042369?ref_src=twsrc%5Etfw&quot;&amp;gt;February 26, 2020&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&amp;gt;&amp;lt;/script&amp;gt;
+
+
+
+14.26 
+
+El paciente aislado en el hospital de Puerto Real da negativo en coronavirusEl médico que había sido aislado en el Hospital Universitario de Puerto Real ha dado negativo en coronavirus. Así lo ha confirmado la Consejería de Salud y Familias, que descarta la llegada del virus a la provincia de Cádiz. [Amplía la información aquí]
+
+
+
+
+
+
+14.19 
+
+Diez casos positivos en EspañaEspaña ha registrado hasta el momento diez casos positivos por coronavirus, de los que dos (los de la Gomera y Palma) ya han recibido el alta. De los hospitalizados, cuatro se encuentran en Tenerife y el resto en Barcelona, Castellón y Madrid. Todos están relacionados con viajes a Italia. Tras finalizar la comparecencia, se confirmó otro caso en Barcelona de un joven 22 años que había estado también en Italia. El número total de casos en nuestro país asciende a nueve.
+
+
+
+14.13 
+
+El Gobierno aumenta el riesgo por coronavirusA nivel nacional es moderado y, «en alguna zona concreta de país podría ser alto o muy alto, aunque en la mayoría del país es moderado». «Entendemos que son situaciones controladas aunque obviamente el número de casos en España es mayor ahora y esto obviamente incrementa el riesgo de transmisión local», advirtió el director del Centro de Coordinación de Alertas y Emergencias Sanitarias, Fernando Simón. 
+
+
+
+14.12 Nombres propios en la crisis internacional del coronavirus&amp;lt;blockquote class=&quot;twitter-tweet&quot;&amp;gt;&amp;lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&amp;gt;Aunque no tiene miedo, ha vuelto porque las universidades, también en la que ella estudia en Milán, han echado el cerrojazo por el virus &amp;lt;a href=&quot;https://t.co/xF2rKsLlRL&quot;&amp;gt;https://t.co/xF2rKsLlRL&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/hashtag/Sevillahoy?src=hash&amp;amp;amp;ref_src=twsrc%5Etfw&quot;&amp;gt;#Sevillahoy&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; ABC de Sevilla (@abcdesevilla) &amp;lt;a href=&quot;https://twitter.com/abcdesevilla/status/1232651651686817792?ref_src=twsrc%5Etfw&quot;&amp;gt;February 26, 2020&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&amp;gt;&amp;lt;/script&amp;gt;
+
+
+
+14.08 
+
+Recomendaciones y protocolo para afrontar el coronavirusEl Estado se han difundido medidas genéricas de protección individual frente a enfermedades respiratorias, tales como el COVID-19, que incluyen las siguientes recomendaciones: realizar una higiene de manos frecuente (lavado con agua y jabón o soluciones alcohólicas), especialmente después de contacto directo con personas enfermas o su entorno; evitar el contacto estrecho con personas que muestren signos de afección respiratoria, como tos o estornudos; mantener una distancia de un metro aproximadamente con las personas con síntomas de infección respiratoria aguda; cubrirse la boca y la nariz con pañuelos desechables o toser o estornudar y lavarse las manos.
+
+
+
+
+Cartel informativo del Gobierno de España- ABC
+
+14.00 
+
+Confirman el primer caso de coronavirus en SevillaEl primer caso de «coronavirus» en Andalucía se encuentra aislado en el Hospital Virgen del Rocío de Sevilla, según ha podido confirmar ABC de fuentes sanitarias. Los análisis practicados en el hospital sevillano han confirmado el positivo, el primero de toda Andalucía hasta este momento, aunque será el Instituto Carlos III de Madrid, al que se han enviado las muestras del paciente, el que debe confirmar oficialmente con otro análisis este positivo Hasta ahora se habían aislado a nueve personas en distintos centros sanitarios de Málaga, Sevilla, Almería y Puerto Real. Todos los análisis hasta ahora habían resultado negativos, aunque en las últimas horas se acaba de aislar a otro paciente en el Hospital Comarcal de Osuna cuyos resultados aún no se conocen. [Más detalles sobre el primer positivo de Sevilla]
+
+
+
+
+13.57 
+
+Un AVE ha sido desinfectadoEl tren AVE 2101 que une Madrid con Sevilla fue detenido esta mañana en la capital andaluza para su desinfección después de que dos pasajeros aseguraran haber estado en contacto con personas portadoras del coronavirus. [Amplía información en este enlace]
+
+
+
+
+
+
+13.55 
+
+Un posible caso por confirmar y dos descartadosDe las tres personas que se encuentran aisladas en Sevilla, dos de ellas han dado negativo en coronavirus, mientras que la tercera está siendo analizada para confirmar o descartar la presencia del «coronavirus». [Más información en este enlace]
+
+
+
+
+13.50 
+
+¡Buenas tardes!A lo largo de este directo contaremos la última hora de todo lo relacionado con el coronavirus en Sevilla y Andalucía, además ofreceremos actualizaciones de los casos por confirmar en el resto de España.</description>
 <category domain="Sevilla">Sevilla</category>
-<pubDate>Mon, 24 Feb 2020 13:32:35 +0100</pubDate>
-<guid>https://sevilla.abc.es/sevilla/sevi-proximo-lunes-iniciaran-obras-nuevo-colector-y-bulevar-verde-ronda-tejares-202002241332_noticia.html</guid>
+<pubDate>Wed, 26 Feb 2020 14:05:49 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-coronavirus-sevilla-confirma-primer-caso-andalucia-ultimas-noticias-directo-202002261405_directo.html</guid>
     <dc:creator>(sevilla)</dc:creator>
 </item>
 <item>
-<title>El militar brasileño detenido en San Pablo tenía que entregar la cocaína a otra persona en Alcampo</title>
-<link>https://sevilla.abc.es/sevilla/sevi-militar-brasileno-detenido-san-pablo-tenia-entregar-cocaina-otra-persona-alcampo-202002241239_noticia.html</link>
-    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/24/s/droga-bolsonaro-sevilla-kKNB--620x349@abc.jpg&quot;&gt;Manoel Silva Rodriguez, el militar brasileño que formaba parte de la comitiva del presidente Jair Bolsonaro y que fue pillado en el aeropuerto de Sevilla con 37 kilos de cocaína, ha sido juzgado este lunes y se ha mostrado «profundamente arrepentido», al tiempo que ha explicado que tenía que entregar la droga a una persona en el centro comercial Alcampo. Ha aceptado una condena de seis años y un día de cárcel por un delito contra la salud pública y una multa de dos millones de euros.
+<title>Confirman el primer caso de coronavirus en Sevilla en un paciente del Hospital Virgen del Rocío</title>
+<link>https://sevilla.abc.es/sevilla/sevi-confirman-primer-caso-coronavirus-sevilla-paciente-hospital-virgen-rocio-202002261400_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static2-sevilla.abc.es/media/sevilla/2020/02/26/s/virgen-rocio-directo-keBH--620x349@abc.jpg&quot;&gt;El primer caso de «coronavirus» en Andalucía se encuentra aislado en el Hospital Virgen del Rocío de Sevilla, según ha podido saber ABC de fuentes sanitarias. Los análisis practicados en el hospital sevillano han confirmado el positivo, el primero de toda Andalucía hasta este momento, y el Instituto Carlos III de Madrid, al que se enviaron las muestras del paciente, ha corroborado oficialmente la enfermedad.
 
 
-Este lunes estaba señalado el juicio contra Silva en la Sección Séptima. Inicialmente se enfrentaba a ocho años de cárcel y una multa de cuatro años, pero tras confesar la Fiscalía ha rebajado la petición de condena. 
+Se trata de un varón de unos 60 años que, al parecer, no responde a ningún criterio epidemiológico. El hombre no habría estado ni en China ni en Italia. El paciente se encuentra aislado en una habitación del hospital, aplicando los protocolos, y, aunque tiene fiebre, su estado no es grave.
 
 
-Silva ha reconocido los hechos, se ha mostrado «profundamente arrepentido» y ha aceptado seis años y un día de cárcel y pagar dos millones de euros de multa. El juicio ha quedado visto para sentencia. 
 
 
-«Mi misión era traer la droga a Europa y volver», explicó el militar, cuya defensa han ejercido los letrados Enrique Rojo y Diego Silva. «Quien me la entregó me dijo que su destino era Suiza y que yo debía meterla en Europa», dijo, detallando que tras salir del aeropuerto debería haber llevado esa cocaína al centro comercial Alcampo «sobre las tres o cuatro de la tarde» del día 25 para allí dar la droga a otro hombre a quien «no conocía». 
+[Recomendaciones para afrontar el coronavirus en Sevilla]
 
 
-«Tenía que ir con ropa de camuflaje, una camisa verde, y la otra persona me conocería por una foto. Íbamos a quedar en el Burger King y él me haría una señal», explicó.
+
+Hasta ahora se encuentran aislado a tres pacientes en distintos centros sanitarios de Sevilla y Almería. Todos los análisis hasta ahora habían resultado negativos, aunque en las últimas horas se acaba de aislar a otro paciente en el Hospital Comarcal de Osuna cuyos resultados aún no se conocen.
 
 
-Tenía un sueldo muy bajo
-«Era la primera vez que lo hacía, me arrepiento profundamente y pido perdón al pueblo español y a las autoridades españolas. En 20 años de militar nunca me han abierto un expediente y nunca he tenido ninguna sanción, pero mi sueldo no es muy alto y estaba pasando por dificultades económicas», ha reconocido ante el juez con la ayuda de un intérprete, indicando además que se sacaba un dinero extra vendiendo y comprando móviles.
+Una pareja de monitores aislada en el Hospital Virgen Macarena de Sevilla dio negativo en Covid-19 y está también pendiente el análisis de una tercera persona ingresada en dicho centro.
 
 
-En el juicio han declarado tres guardias civiles y han coincidido en destacar que cuando pasó por el control, fue trasladado a una máquina de rayos X que detectó los bloques y que al ser preguntado éste contestó que «se trataba de queso».
 
 
-No obstante, ante la prohibición de introducir alimentos procedentes de animales de fuera de la Unión Europea uno de los agentes hizo una cata de uno de los bloques con un punzón, «salió polvo blanco y en un primer análisis ya dio positivo en cocaína». Preguntado por si al militar podrían haberle intercambiado las maletas, uno de los agentes ha precisado que «los bloques estaban repartidos en las tres maletas que llevaba mezclados con efectos suyos».
+El consejero de Salud, Jesús Aguirre, tenía previsto clausurar este miércoles unas jornadas en el Hospital Virgen del Rocío organizadas por el Instituto ProPatiens pero ha cancelado todos los actos de su agenda de hoy para reunirse con su equipo y afrontar esta situación.
 
 
-Tras su declaración, el fiscal ha modificado sus conclusiones al considerar que el acusado «ha sido sincero y ha reconocido los hechos», motivo por el ha rebajado la pena de prisión a los seis años y ha ordenado la destrucción de la droga.
+Bajo índice de mortalidad
+El presidente de la Junta de Andalucía, Juan Moreno, también ha lanzado este miércoles un mensaje de «serenidad» porque «hasta ahora lo que nos dicen las autoridades sanitarias es que tiene un índice de mortalidad inferior a una gripe común y solo en personas en tratamiento, polimedicadas y con patologías previas».
 
 
-En su último turno de palabra, el acusado ha vuelto a mostrar su arrepentimiento y ha asegurado que cuando regrese a su país volverá con su familia y volverá a trabajar.
+Por su parte, el director del Centro de Coordinación de Alertas y Emergencias Sanitarias, Fernando Simón, ha comparecido esta mañana en el Ministerio de Sanidad.
 
 
-Su abogado Diego Silva ha precisado que en sentencia el tribunal tendrá que pronunciarse sobre el plazo de la pena que tendrá que cumplir en España. «Lo normal es que una vez que tenga el tercer grado la libertad condicional se sustituya por la expulsión del país y este periodo final de la pena lo cumpla ya en Brasil en libertad», ha precisado.
+
+España ha registrado diez casos positivos por Covid-19
 
 
-Por último, ha recordado que se hizo una investigación para averiguar el destino de la droga pero «finalmente no fue fructífera y va a ser él el único que asuma toda la responsabilidad». 
+
+Simón ha dicho que el riesgo en España sube a «moderado» aunque ha insistido que todos los casos conocidos hasta el momento son importados o relacionados con casos importados. En cualquier caso, Ha recordado que en nuestro país ahora mismo hay casos en Tenerife, Barcelona, Comunidad Valenciana y Madrid.
 
 
-El militar brasileño formaba parte de una expedición de avanzadilla previa al viaje programado a Japón por el presidente brasileño, Jair Bolsonaro, y fue detenido el 25 junio del año pasado en el aeropuerto de Sevilla con 37 kilogramos de cocaína dentro de una maleta que llevaba consigo.
+España ha registrado hasta el momento diez casos positivos por coronavirus, de los que dos (los de la Gomera y Palma) ya han recibido el alta. De los hospitalizados, cuatro se encuentran en Tenerife y el resto en Barcelona, Castellón y Madrid. Tras finalizar la comparecencia, se confirmó otro caso en Barcelona de un joven 22 años que había estado en Italia.
 
 
-Sobre las 14 horas del 25 de junio de 2019, tras venir junto a otros 20 pasajeros de un vuelo militar de la Brasilian Air Force pasó por el control aduanero del aeropuerto de Sevilla donde la Guardia Civil intervino, en una maleta de su propiedad, «37 bloques rectangulares de una sustancia que debidamente analizada resultó ser cocaína» con un peso de 37 kilos y una pureza base del 80,14 por ciento. Su valor alcanzaba en torno al millón y medio de euros en el mercado clandestino.</description>
+Desinfectan un AVE en Sevilla
+El tren AVE 2101 que une Madrid con Sevilla fue detenido en la mañana de este miércoles en la capital andaluza para su desinfección después de que dos pasajeros aseguraran haber estado en contacto con personas portadoras del coronavirus.
+
+
+Según confirmaron a Servimedia fuentes gubernamentales, a las 9.29 de esta miércoles, en un tren larga distancia que unía Madrid con Sevilla, dos viajeros llamaron al 112 de emergencias andaluz manifestando que habían estado en contacto con personas portadoras del coronavirus.</description>
 <category domain="Sevilla">Sevilla</category>
-<pubDate>Mon, 24 Feb 2020 12:39:28 +0100</pubDate>
-<guid>https://sevilla.abc.es/sevilla/sevi-militar-brasileno-detenido-san-pablo-tenia-entregar-cocaina-otra-persona-alcampo-202002241239_noticia.html</guid>
+<pubDate>Wed, 26 Feb 2020 14:00:53 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-confirman-primer-caso-coronavirus-sevilla-paciente-hospital-virgen-rocio-202002261400_noticia.html</guid>
     <dc:creator>(sevilla)</dc:creator>
 </item>
 <item>
-<title>El rector de la Universidad de Sevilla promete tres centros de transferencia tecnológica en la Cartuja</title>
-<link>https://sevilla.abc.es/sevilla/sevi-rector-universidad-sevilla-promete-tres-centros-transferencia-tecnologica-cartuja-202002241232_noticia.html</link>
-    <description>&lt;img align=&quot;left&quot; src=&quot;https://static2-sevilla.abc.es/media/sevilla/2020/02/24/s/sevilla-rector-castro-kkaC--620x349@abc.jpeg&quot;&gt;El rector de la Universidad de Sevilla y candidato a la reelección, Miguel Ángel Castro, ha anunciado este lunes la creación de tres grandes centros de transferencia tecnológica en la Isla de la Cartuja. Castro, que ha presentado su programa electoral para un segundo mandato, ha explicado que esos tres grandes centros estarían ubicados en unos terrenos de unas dos hectáreas, unos 20.000 metros cuadrados, muy cerca del futuro edificio del Cateps y la Escuela de Ingenieros, terrenos que son propiedad de la Hispalense y en los que pretende poner en marcha tres edificios para llevar a cabo líneas de transferencias del conocimiento. Estos nuevos complejos se sumarían a otros existentes como el Cabimer o a otros proyectos ya iniciados como el gran centro de innovación en los terrenos del Puerto de Sevilla. Para poner en marcha esa idea, Castro también quiere que se revisen los transportes públicos en la zona, ya que cuando la Politécnica se traslade al edificio de la Cartuja habrá 13.000 estudiantes en la zona. 
+<title>Desinfectan un AVE en Sevilla por un posible contagio de coronavirus</title>
+<link>https://sevilla.abc.es/sevilla/sevi-desinfectan-sevilla-posible-contagio-coronavirus-202002261351_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/26/s/ave-santa-justa-U77470017783dZR-620x349@abc.jpg&quot;&gt;El tren AVE 2101 que une Madrid con Sevilla fue detenido esta mañana en la capital andaluza para su desinfección después de que dos pasajeros aseguraran haber estado en contacto con personas portadoras del coronavirus.
 
 
-El rector, que ha dicho presentar «un proyecto ambicioso para seguir transformando la universidad en el segundo ciclo», también ha explicado que la Hispalense está en un momento crucial de cambios y muy importante. «La Universidad de Sevilla está en un momento de tremendos cambios y grandísimos retos. Tengo un proyecto ambicioso y comprometido para los próximos cuatro años», ha dicho Castro, que se presenta con un programa denominado 
-«Constelacion Taurus».
+Según confirmaron a Servimedia fuentes gubernamentales, a las 9.29 de esta miércoles, en un tren larga distancia que unía Madrid con Sevilla, dos viajeros llamaron al 112 de emergencias andaluz manifestando que habían estado en contacto con personas portadoras del coronavirus. 
 
 
-Próximos proyectos
-Basándose en el plan estratégico 2018-2025 de la Universidad de Sevilla, Castro incluye en su programa proyectos ya conocidos como el traslado a la Cartuja, al edificio de Cateps, de la Escuela Politécnica, para el curso 2021-2022, terminar el Campus de Humanidades en la Fábrica de Tabacos, la transformación de la Facultad de Farmacia, culminar la Escuela de Ingeniería Agronómica, el campus de la Facultad de Medicina en la zona de la Macarena y dar una solución a las Escuelas de Ingenería y Edificación en Reina Mercedes. 
+Entonces, según las fuentes consultadas, el tren fue detenido para seguir los protocolos que marcan las autoridades sanitarias andaluzas y se procedió a la evacuación en ambulancia de los dos pasajeros.
 
 
-En el programa también hay un proyecto de transformación digital que supondrá eliminar el papel e incrementar la formación no presencial on line, sobre todo en los másteres, y un importante proyecto de rejuvenecimiento de la Universidad de Sevilla. En este sentido, Castro ha explicado que actualmente la edad de la plantilla de profesores de la Hispalense es alta ya que la media de edad los profesores es de 53 años y de 59 en los catedráticos por los que pretende que salgan nuevas convocatorias por áreas de conocimiento, aunque ese proyecto estará ligado a la financiación y a que se flexibilice la normativa para ello.
-
-
-El rector también ha incluido en su programa un estudio del adelanto de los exámenes de septiembre a julio. Según ha explicado, en los primeros meses del periodo de gobierno, hará un análisis de como va en otras universidades y sus ventajas e inconvenientes. «Creo que es importante que escuche antes de emitir una opinión, porque puedo condicionar el posicionamiento», ha dicho explicando que sería importante ver cómo ha variado la tasa de éxito de los segundo exámenes en otras universidades.
-
-
-Castro ha comenzado hoy su campaña, durante la cual visitará a distintos colectivos, desde los estudiantes, sindicatos o empresarios y el gobierno. Las elecciones son el 19 de marzo y el rector espera el máximo apoyo.</description>
+Por su parte, siguiendo con dicho protocolo, el tren fue desinfectado y se quedó parado en un ramal próximo a la capital andaluza, mientras el resto de viajeros fueron transbordados en otro tren para continuado el trayecto hasta Santa Justa.</description>
 <category domain="Sevilla">Sevilla</category>
-<pubDate>Mon, 24 Feb 2020 12:32:10 +0100</pubDate>
-<guid>https://sevilla.abc.es/sevilla/sevi-rector-universidad-sevilla-promete-tres-centros-transferencia-tecnologica-cartuja-202002241232_noticia.html</guid>
+<pubDate>Wed, 26 Feb 2020 13:51:36 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-desinfectan-sevilla-posible-contagio-coronavirus-202002261351_noticia.html</guid>
     <dc:creator>(sevilla)</dc:creator>
 </item>
 <item>
-<title>Las seis noticias que debes conocer hoy, lunes 24 de febrero</title>
-<link>https://sevilla.abc.es/sevilla/sevi-seis-noticias-debes-conocer-lunes-24-febrero-202002240944_noticia.html</link>
-    <description>&lt;img align=&quot;left&quot; src=&quot;https://static3-sevilla.abc.es/media/sevilla/2020/02/24/s/seis-noticias-lunes-kSeD--620x349@abc.jpg&quot;&gt;Buenos días, estas son las noticias del lunes 24 de febrero que debes conocer. [Si te perdiste las noticias imprescindibles del pasado viernes, puedes leerlas haciendo clic en este enlace].
+<title>Aislado un nuevo paciente en el Hospital Virgen Macarena tras descartarse el coronavirus en otros dos casos sospechosos</title>
+<link>https://sevilla.abc.es/sevilla/sevi-pacientes-hospital-virgen-macarena-no-tienen-coronavirus-pero-aislado-tercero-202002261211_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static2-sevilla.abc.es/media/sevilla/2020/02/26/s/hospital-macarena-virus-kUIF--620x349@abc.jpg&quot;&gt;Los pacientes aislados este martes en el Hospital Virgen Macarena de Sevilla no tienen el «coronavirus», según el análisis realizado en el Hospital Virgen del Rocío. Este negativo deberá ser confirmado, no obstante, por el Centro de Microbiología del Instituto Carlos III de Madrid.
 
 
-
-1. Nueve de cada diez viajeros vendrían a Sevilla a pesar de la tasa turística. La propuesta del Ayuntamiento de Sevilla de crear una tasa turística no encuentra rechazo entre los viajeros que visitan la ciudad. Sólo uno de cada diez cambiaría de destino por este gravamen, como recoge la encuesta anual que realiza el equipo de Turismo Sevilla con más de 4.500 entrevistas a visitantes de una decena de nacionalidades.
-
-
-Entre las cuestiones que se les ha planteado está si seguirían viviendo a la capital andaluza aunque se les cobrase un impuesto de un euro diario por pasar la noche. El 88, 7 por ciento de los consultados aseguró que vendría igualmente; mientras que otro 9,82 por ciento respondió que no seguiría viniendo. Apenas un 1,45 por ciento evitó pronunciarse.
+Según ha podido saber ABC, se trata de una pareja de monitores que pudo estar de vacaciones en Italia y que ingresó con fiebre en el centro sevillano. Se aisló un ala de la planta quinta siguiendo el protocolo marcado para evitar la propagación de esta enfermedad. 
 
 
-Estos datos refuerzan todavía más la determinación del Consistorio para dar curso a la medida, que no tiene un camino fácil. Precisa de un apoyo del Gobierno andaluz para imponerla en todo el territorio o un cambio de la Ley de Haciendas Locales para que cada municipio pueda crearla a título individual. En el primer caso, no hay un consenso general para aplicarla como ya hacen las comunidades de Cataluña y Baleares. En el segundo, sería necesaria la colaboración del Ejecutivo central para articular tal modificación. De una forma u otra, el Ayuntamiento sevillano no cejará en el empeño.
-
-
-
-2. Pablo Casado fulmina a Alfonso Alonso y rescata a Iturgaiz como candidato a lendakari. La crisis del PP vasco acabó estallando entre las manos a Pablo Casado de mala manera. Cuando parecía que las aguas habían vuelto, más o menos, a su cauce al aceptarse desde Vitoria la coalición electoral con Ciudadanos, Alfonso Alonso soltó el bombazo en Twitter a las 18.47, al anunciar que el presidente Pablo Casado le acababa de comunicar que no sería candidato a las elecciones vascas del 5 de abril. El secretario general, Teodoro García Egea, convocó a los medios de comunicación a las ocho de la tarde y anunció que el nuevo candidato a lendakari será Carlos Iturgaiz.
-
-
-El choque entre el PP vasco y la dirección nacional ha sido dramático hasta el final. La confianza entre Alfonso Alonso y Génova estaba totalmente rota, y así era prácticamente imposible no solo encarar unas elecciones autonómicas, sino mantener una relación política, dentro de un mismo partido, que fuera normal.
-
-
-Con este golpe de autoridad de Casado, Génova envía un aviso a otros barones y dirigentes territoriales, que han visto con crudeza cuál es el resultado de enfrentarse a Génova, sobre todo cuando no se tiene fuerza política o votos, como era el caso de Alonso. En Galicia, Feijóo puede imponer sus condiciones e incluso rechazar la coalición con Ciudadanos. Pero el presidente gallego se encamina hacia su cuarta mayoría absoluta. Nadie en el PP está, ahora mismo, en su posición ni con su fuerza.
-
-
-
-3. Andalucía cobrará tasas por utilizar museos, grabar aves silvestres y el control de la contaminación. Cuando el Parlamento andaluz aprobó su primera Ley de Tasas y Precios Públicos gobernaba el país Felipe González. José Rodríguez de la Borbolla presidía el Gobierno autonómico y Juanma Moreno iba al instituto. La selección española había protagonizado una enorme decepción, otra más, al caer en la primera fase de la Eurocopa. Y los niños se reían delante del televisor con la bruja Avería y los electroduendes de «La Bola de Cristal».
-
-
-El mundo ha cambiado mucho en 31 años. Pero no la norma que regula las tasas y precios públicos en Andalucía. Vigente desde 1988, es la ley más antigua de España en esta materia. Se ha quedado tan obsoleta que recogía tasas por servicios públicos que ya ni siquiera se prestan, como la cuota de suscripción del Boletín Oficial de la Junta de Andalucía (BOJA) en papel, que no se imprime desde mayo de 2012, así como otros trámites que han pasado a desempeñar diferentes administraciones. El ejemplo más claro es la tasa que grava la vivienda de protección oficial, cuya calificación provisional y definitiva compete desde el año 2010 a los ayuntamientos.
-
-
-A falta de una regulación homogénea, durante más de tres décadas las distintas consejerías han parcheando la ley existente mediante una treintena de normas distintas, entre leyes de presupuestos y decretos especiales, creando una maraña tan dispersa y tupida que a veces hasta los funcionarios podían perderse en ella.
-
-
-
-4. El coche eléctrico en Sevilla: o paga o lo carga en su garaje. Sevilla, la primera ciudad española que ha declarado la emergencia energética en Pleno municipal, mantiene apagada desde hace más de tres años su red pública de carga de coches enchufables.
-
-
-La infraestructura ya existe. Se creó en 2012 con 75 puntos situados en varias vías principales, garajes de hoteles, centros comerciales, sedes de empresas municipales y aparcamientos subterráneos. Fue el llamado proyecto «Movele», que contó con una generosa financiación europea que hizo de la ciudad un ejemplo para la proliferación de este tipo de coches. Pero el sueño verde apenas duró un lustro, cumpliendo el plazo mínimo para no tener que devolver las ayudas.
-
-
-Tras el abandono de la red de electrolineras, la capital andaluza se sitúa a la cola en la apuesta por el coche eléctrico que gana terreno en los núcleos más poblados. La situación contrasta con ejemplos como Barcelona, que cuenta con más de un centenar o Madrid, que tiene alrededor de cincuenta.
-
-
-
-5. Italia blinda el norte ante la expansión del coronavirus. Aumenta de forma exponencial la epidemia del coronavirus en Italia. Son tres las muertes -una mujer de Cremona en Lombardía es la tercera víctima- y 162 personas infectadas, según el balance de la tarde del domingo. Solo en Lombardía hay 89 contagiados, y 25 en Véneto.
-
-
-Tras el decreto ley del Gobierno con medidas extraordinarias, las autoridades locales están aprobando también ordenanzas con duras restricciones. Se suspenden clases en escuelas y universidades de regiones del norte, se cierran pubs y discotecas en Lombardía y se suspende el Carnaval de Venecia. «Cierra el norte», titulan algunos medios.
-
-
-«Madre mía, parece que estamos en guerra, no se ve a nadie en el pueblo». Así saluda Giuseppina, una vecina de Castiglione d’Adda (Lodi), municipio de 4.700 habitantes, que constituye el epicentro del foco de la epidemia, porque de aquí es originario el «Paciente Uno», de nombre Mattia Y. M., una persona atlética y deportista, de 38 años, el primer contagiado por el coronavirus.
-
-
-
-6. Todas las galerías de fotos del Zurich Maratón de Sevilla 2020. El etíope Mekuant Ayenew Gebre y la ugandesa Juliet Chekwel se han proclamado este domingo vencedores, con récord de la prueba, del Zurich Maratón de Sevilla 2020, una carrera que ha valido también como Campeonato de España y que ha coronado a Javi Guerra y a Marta Galimany, que además han logrado su billete para los Juegos Olímpicos de Tokio.
-
-
-En una prueba que repitió por tercer año consecutivo la Etiqueta de Oro de World Athletics, los atletas etíopes y kenianos se escaparon superado el ecuador de la carrera en categoría masculina. El etíope asestó el golpe definitivo en el kilómetro 35, y entró en solitario en meta marcando 2:04:46, la mejor marca mundial de la temporada, mejor marca personal y que redujo en dos minutos la referencia del año pasado de su compatriota Ayana Tsedat (2:06:36).
-
-
-En la categoría femenina, la debutante Chekwel cruzó la línea de llegada en 2:23:13, más de un minuto por debajo de la marca récord de la edición anterior de la etíope Gutemi Shone Imana (2:24:29). La etíopes Gada Bontu (2:23:39) y Sifan Melaku (2:23:49), también más rápidas que la ganadora de 2019, se subieron al segundo y al tercer cajón del podio, respectivamente.</description>
+En las últimas horas ha surgido otro caso con síntomas sospechosos que ha sido también aislado y que está siendo analizado para confirmar o descartar la presencia del «coronavirus». Las fuentes consultadas por ABC estiman muy poco probable que el contraanálisis desmienta este negativo.</description>
 <category domain="Sevilla">Sevilla</category>
-<pubDate>Mon, 24 Feb 2020 09:44:40 +0100</pubDate>
-<guid>https://sevilla.abc.es/sevilla/sevi-seis-noticias-debes-conocer-lunes-24-febrero-202002240944_noticia.html</guid>
+<pubDate>Wed, 26 Feb 2020 12:11:17 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-pacientes-hospital-virgen-macarena-no-tienen-coronavirus-pero-aislado-tercero-202002261211_noticia.html</guid>
     <dc:creator>(sevilla)</dc:creator>
 </item>
 <item>
-<title>Cirujanos del Virgen del Rocío de Sevilla operarán tumores, hernias, tiroides y lipomas en Uganda</title>
-<link>https://sevilla.abc.es/sevilla/sevi-cirujanos-virgen-rocio-sevilla-operaran-tumores-hernias-tiroides-y-lipomas-uganda-202002240721_noticia.html</link>
-    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/21/s/viaje-uganda-rocio-U04186715732leo-620x349@abc.jpeg&quot;&gt;Un equipo de nueve profesionales del Hospital Universitario Virgen del Rocío ha viajado hasta Kamutur en Uganda, en colaboración con la Fundación Cirujanos en Acción, para intervenir a personas de la región que presenten problemas de salud, principalmente con hernias y patología de tiroides. 
+<title>Recomendaciones y protocolo para afrontar el coronavirus en Sevilla</title>
+<link>https://sevilla.abc.es/sevilla/sevi-recomendaciones-y-protocolo-para-afrontar-coronavirus-sevilla-202002261147_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/26/s/laboratorio-macarena-kNHF-U81771128504ihM-620x349@abc.jpg&quot;&gt;Crece la alarma por coronavirus en Sevilla tras conocerse el aislamiento de tres posibles pacientes infectados en el hospital Virgen Macarena. Ante esta situación de inquietud social, las instituciones oficiales han pedido calma hasta que los resultados de los análisis sean concluyentes. 
 
 
-En total, prevén atender a unos 150 pacientes en quirófanos además de en consultas, durante diez jornadas que se extenderán hasta el 3 de marzo. Entre los procedimientos que habitualmente resuelven en estos países se encuentran las hernias inguinales y umbilicales, lipomas o fibroadenomas gigantes, bocios y otra patología de tiroides, eventraciones, tumores y enfermedades varias en régimen ambulatorio. 
+
+[Actualización, dos de los aislados en Sevilla han dado negativo en coronavirus]
 
 
-Los profesionales van preparados para aplicar anestesias locales con sedación, raquídeas y generales con intubación orotraqueal. Todo ello, en un hospital local en construcción que dispone de dos zonas de quirófano y hospitalización para el postparto. La idea es que los pacientes puedan resolver su problema de salud en un solo acto quirúrgico y al día siguiente puedan regresar a casa para reincorporarse a su vida cotidiana. 
+
+El presidente de la Junta de Andalucía, Juanma Moreno, ha anunciado este miércoles que nueve personas permanecen en observación en hospitales de la comunidad por síntomas compatibles con el coronavirus. Sin embargo, ha querido lanzar un mensaje de «serenidad» puesto que «hasta ahora lo que nos dicen las autoridades sanitarias es que tiene un índice de mortalidad inferior a una gripe común y sólo en personas en tratamiento, polimedicadas» y con patologías previas. Además, el presidente de la Junta ha incidido en que los casos de Sevilla aún se encuentran a la espera de la confirmación oficial por el Centro Nacional de Microbiología.Se han difundido medidas genéricas de protección individual frente a enfermedades como el COVID-19
+
+De hecho, el Gobierno central, a través del Ministerio de Sanidad, ha asegurado que nuestro territorio cuenta con «mecanismos suficientes de contención, que incluyen protocolos clínicos, una red asistencial y de salud pública coordinada y capacidad suficiente para el diagnóstico y tratamiento de los casos». 
 
 
-Para preparar el viaje de cooperación, la Unidad de Esterilización del Virgen del Rocío ha cedido un espacio como almacén y ayuda en las labores necesarias, y la Unidad de Electromedicina ha proporcionado materiales que se emplearán en destino. Además, el Fondo de Cooperación al Desarrollo y Ayuda Humanitaria del Servicio Andaluz de Salud ha concedido los permisos para este viaje humanitario. 
 
 
-El grupo de voluntarios que ha desarrollado el proyecto está formado por nueve profesionales del Hospital Universitario Virgen del Rocío y cuenta además con el apoyo de toda la Unidad de Anestesiología y Rehabilitación y de Cirugía General y del Aparato Digestivo, que han facilitado el apoyo necesario a los integrantes de este proyecto para que puedan desplazarse hasta Kamutur. 
+En cualquier caso, a través de los diferentes canales de comunicación del Estado se han difundido medidas genéricas de protección individual frente a enfermedades respiratorias, tales como el COVID-19, que incluyen las siguientes recomendaciones:
 
 
-Se trata de las enfermeras María del Mar Martínez Gómez y Mariló González Sobrino; Diego Angulo González, radiólogo; las anestesiólogas Inmaculada Benítez Linero y Guiomar Rosel Fernández; los especialistas en Cirugía General y Aparato Digestivo Manuel Bustos Jiménez, Abdul Razak Muchref, Ana Senent Boza, y Eduardo Perea del Pozo, quien además es el responsable de la misión ante la Fundación Cirujanos en Acción y promotor de esta iniciativa cuando era médico residente en el hospital sevillano. 
+- Realizar una higiene de manos frecuente (lavado con agua y jabón o soluciones alcohólicas), especialmente después de contacto directo con personas enfermas o su entorno
 
 
-Otros voluntarios del hospital se han sumado al proyecto prestando apoyo logístico durante toda la etapa de preparación de la misión. La recopilación del material es fruto del aprovechamiento de recursos que dispone el Hospital Universitario Virgen del Rocío, así como a la ayuda recibida desde otras empresas externas.</description>
+- Evitar el contacto estrecho con personas que muestren signos de afección respiratoria, como tos o estornudos
+
+
+- Mantener una distancia de un metro aproximadamente con las personas con síntomas de infección respiratoria aguda
+
+
+- Cubrirse la boca y la nariz con pañuelos desechables o toser o estornudar y lavarse las manos. 
+
+
+Estas medidas, además, protegen frente a enfermedades frecuentes como la gripe. Respecto a animales o alimentos en España, las instituciones recuerdan que no es necesario tomar precauciones especiales para evitar esta infección.
+
+
+De otro lado, el manual del Servicio Andaluz de Salud (SAS) también ofrece estas recomendaciones para evitar el contagio del coronavirus y recuerdan que, en caso de sospechar de estar infectado, la persona deberá aislarse inmediatamente y tanto el enfermo como el personal sanitario debe llevar una mascarilla quirúrgica. El aislamiento hospitalario es para los «casos en investigación, probables y confirmados», señala el protocolo de la Junta contra el coronavirus. En algunos casos puntuales se puede permitir el aislamiento en casa del enfermo, siempre que tenga una habitación individual bien ventilada y acceso a un baño propio.</description>
 <category domain="Sevilla">Sevilla</category>
-<pubDate>Mon, 24 Feb 2020 07:21:13 +0100</pubDate>
-<guid>https://sevilla.abc.es/sevilla/sevi-cirujanos-virgen-rocio-sevilla-operaran-tumores-hernias-tiroides-y-lipomas-uganda-202002240721_noticia.html</guid>
+<pubDate>Wed, 26 Feb 2020 11:47:07 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-recomendaciones-y-protocolo-para-afrontar-coronavirus-sevilla-202002261147_noticia.html</guid>
     <dc:creator>(sevilla)</dc:creator>
 </item>
 <item>
-<title>Manuel López Soriano: «Nuestro incienso “Los tres Reyes” se ha quemado en el Panteón de Agripa»</title>
-<link>https://sevilla.abc.es/sevilla/sevi-manuel-lopez-soriano-nuestro-incienso-tres-reyes-quemado-panteon-agripa-202002240719_noticia.html</link>
-    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/24/s/manuel-lopez-soriano-kwd--620x349@abc.jpg&quot;&gt;Manolo y su hermano Antonio forman la cuarta generación de un negocio que lleva 175 años dando luz y olor a la Cuaresma y a la Semana Santa sevillana. 
+<title>Las seis noticias que debes conocer hoy, miércoles 26 de febrero</title>
+<link>https://sevilla.abc.es/sevilla/sevi-seis-noticias-debes-conocer-miercoles-26-febrero-202002260958_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static2-sevilla.abc.es/media/sevilla/2020/02/26/s/seis-noticias-miercoles-kqPE--620x349@abc.jpg&quot;&gt;Buenos días, estas son las noticias del miércoles 26 de febrero que debes conocer. [Si te perdiste las noticias imprescindibles de ayer martes, puedes leerlas haciendo clic en este enlace].
 
 
-Además de las hermandades, los conventos y las parroquias, en la clientela de este supermercado espiritual del Salvador (hoy en Álvarez Quintero) se encuentran personas que se quieren llevar a sus casas y a sus países de origen «el olor de la Semana Santa sevillana».
 
+1. Aíslan a dos pacientes por posible coronavirus en el hospital Virgen Macarena. El hospital mantiene en aislamiento a dos pacientes con sospecha de haber contraído la enfermedad que provoca el coronavirus. Ambos ingresaron durante la tarde con varias horas de diferencia, aunque no se ha podido determinar que haya relación entre ambas, como confirmaron a ABC fuentes de la Consejería de Salud.
 
-Hagamos historia. Ustedes comenzaron lejos de El Salvador.
 
+Ambos permanecen en habitaciones clausuradas en un ala de la quinta planta del centro hospitalario, que se ha reservado para atenderlas, a la espera de que los resultados confirmen si están o no infectadas. Las fuentes consultadas señalan que «en un principio no hay constancia de que haya relación entre ambos casos».
 
-Así es. Nuestro negocio comenzó en 1845 en la finca de mi bisabuela Rosario en La Puebla del Río, donde se empieza a elaborar nuestras primeras vela.
 
+El primer paciente llegó al hospital durante la tarde y fue trasladado a la quinta planta, donde el personal se protege con mascarillas siguiendo el protocolo previsto para estos casos. No se ha facilitado ningún otro dato respecto a este caso, ni su edad ni su nacionalidad, aunque de confimarse tras los análisis que se le están practicando (y que podrían saberse en las próximas horas) sería el primero en Andalucía.
 
-Imagino que de los bosques que rodeaban el cortijo familiar sacaban sus bisabuelos la cera y la miel para el negocio.
 
 
-Cierto. La finca estaba rodeada de un frondoso eucaliptal donde se ubicaban las colmenas en los propios árboles y allí obtenían la materia prima.
+2. Dimite la presidenta de Vox en Sevilla, María José Piñero. La presidenta de Vox en Sevilla ha presentado su dimisión en el partido de la nueva derecha. La parlamentaria por la formación de Abascal en la Cámara Autonómica no tiene por ahora intención ni de entregar su acta ni pedir ser considerada como diputada no adscrita.
 
 
-Una venta que era, entonces, más doméstica que religiosa.
+Con esta dimisión de la ejecutiva provincial de Sevilla ya son seis las provincias donde han dimitido sus presidentes. Sólo Málaga y Córdoba tienen dirigentes estables. Las demás se encuentran en manos de gestoras hasta la celebración de las primarias que se harán en esta primavera.
 
 
-Efectivamente. El alumbrado que hoy conocemos era prácticamente inexistente. En las casas, para iluminarlas, se empleaban lámparas de aceite y velas.
+María José Piñero, médico de profesión, ha mandado una dura carta a los afiliados y simpatizantes, que reproducimos a continuación: «Me considero una mujer valiente y por eso me puse al frente de Vox cuando nadie quería, pero hace ya más de un año se ha creado en Vox Sevilla una estructura paralela al margen de la voluntad democrática de los afiliados, protagonizada por determinados personalismos y apoyada por Vox España, al margen del ordenamiento estatutario, que ha desplazado al Comité Ejecutivo Provincial y, como no, a mi presidencia y a todo el que no se alinee a la misma».
 
 
-¿Por qué sus bisabuelos deciden dejar La Puebla del Río e instalarse en El Salvador?
 
+3. Cataluña centra la sesión de control al Gobierno. El presidente del Gobierno, Pedro Sánchez, afrontará en la sesión de control de este miércoles las preguntas del líder del PP, Pablo Casado, y de la portavoz de JpCat, Laura Borrràs, sobre Cataluña y su «talante» la mesa de diálago, horas antes de que esta se produzca.
 
-Vinieron buscando el progreso empresarial y un mercado más amplio.
 
+Al ministro de Fomento, José Luis Ábalos, le interpelarán de nuevo sobre el «Delcygate» y al titular de Interior, Fernando Grande-Marlaska sobre el nombramiento del vicepresidente segundo, Pablo Iglesias, en la comisión de control de CNI. Pablo Iglesias no asiste por estar enfermo. Al final han retirado su pregunta.
 
-En El Salvador montan fábrica, comercio y vivienda en una casa de tres plantas. Un tres en uno, ¿no?
 
+El líder del PP, Pablo Casado, pregunta sobre la inauguración de la «mesa de despiece» con un agravante, se lleva al ministro de Sanidad para paliar los efectos del virus del independentismo. Y todo ello con muchos lazos amarillos y líneas rojas. «Más madera para quemar los presupuestos para tapar los escándalos de Delgado y de Ábalos».
 
-(Risas) Totalmente. Un tres en uno que tuvo que serles muy práctico aunque estuvieran un poquito apretados.
 
+4. Castellana Properties invierte 6,5 millones en renovar el centro comercial Los Arcos. La apertura de centros comerciales de nueva planta en Sevilla está impulsando la renovación de la oferta tradicional. Los Arcos es el pionero del sector en la capital y también está pasando por una reforma profunda, tras la compra de la tienda que ocupaba Hipercor por parte de Castellana Properties.
 
-¿La electrificación de Sevilla obligó a reinventar el negocio?
 
+Esta socimi (sociedad anónima cotizada de inversión inmobiliaria) controlada por el fondo sudafricano Vukile se hizo también con el establecimiento de El Corte Inglés del centro comercial Bahía Sur de San Fernando, en Cádiz, una adquisición conjunta cifrada en 36,85 millones de euros.
 
-Evidentemente. Digamos que el negocio focaliza su mercado en la venta de velas, bujías y derivados. En las fotos familiares se visualiza perfectamente esa transición. En las primeras fotos aparece la tienda solo con velas y después se van introduciendo imaginería religiosa y objetos litúrgicos. Según la temporada, la tienda llegó a vender muñecas de juguete para los Reyes.
 
+De esta forma, Castellana Properties reforzó su apuesta por Los Arcos, ya que un año antes había comprado a Unibail-Rodamco la mayor parte del centro comercial hispalense. Con la nueva inversión, la socimi es ya propietaria de 35.634 metros cuadrados de Los Arcos, el 83% de la superficie bruta alquilable, tras sumar los 12.000 metros cuadrados que ocupaba Hipercor.
 
-Hoy están ustedes en la calle Álvarez Quintero, con un retrato de su bisabuelo como tributo a su emprendimiento y se han convertido en una especie de supermercado espiritual…
 
 
-Así es. Hoy ofrecemos las velas de siempre, incienso «Los Tres Reyes» e imaginería religiosa, sin olvidar objetos sacros.
+5. El Brexit, una ocasión para relanzar la economía del Campo de Gibraltar. La Unión Europea (UE) y Reino Unido han aprobado este martes las líneas rojas para comenzar a negociar las relaciones futuras tras el Brexit en el marco de un enfoque que, tal y como pidió España, dejará fuera Gibraltar.
 
 
-Déme algunos datos, por favor: ¿cuántos kilos de cera manejan ustedes en la temporada alta?
+El acuerdo ha llegado un día antes de que comiencen en Algeciras (Cádiz) las reuniones de los primeros comités que regularán las relaciones entre el Peñón y el Campo de Gibraltar durante el periodo de transición, que concluye el próximo 31 de diciembre.
 
 
-Entre 110.000 y 130.000 kilos anuales. En temporada alta manejamos casi el ochenta por ciento de esa cifra. La cera es nacional.
+También este martes, el eurodiputado de Ciudadanos (Cs) en el Parlamento europeo, Jordi Cañas, ha culpado a Gibraltar de lo que ocurre en el Campo de Gibraltar: «Gibraltar es un extractor de renta y de oportunidades, un vampiro que deprime y obliga a generar una economía paralela. Es como tener un barco pirata anclado en la costa».
 
 
-–¿Qué altares son los más iluminados?
 
+6. Asenjo: «La Macarena decidió no hacer salida extraordinaria. ¡Bendito sea Dios!».
 
-Los de mayor relevancia que estamos atendiendo son los de El Silencio, el Gran Poder y el Buen Fin.
 
 
-¿Su mercado es local o regional?
+Juan José Asenjo afronta su última Cuaresma como titular de la Archidiócesis de Sevilla, en la que se jubilará a finales de este año. Recibe a ABC en un pequeño salón del Palacio Arzobispal de Sevilla, donde ha vivido y trabajado los últimos once años de su vida.
 
 
-Nacional. Aunque el acento se pone en el regional y el provincial. Nosotros vendemos desde Cádiz a Almería, aunque también sean clientes hermandades de Madrid, El Ferrol, Barcelona, Valladolid…
-
-
-Hace unos años, en colaboración con la Universidad y Lipassam, crearon ustedes la llamada «cera eco». ¿Qué es eso?
-
-
-Una cera limpia. Su composición es la menos abrasiva para el suelo y la más fácil de limpiar. La que menos residuos deja por llevar menos contenido en aceites y parafinas.
-
-
-¿La cera más pura que ilumina la Semana Santa es la de los palios?
-
-
-Sin duda. La cera de un palio y la de los crucificados es la más olorosa, mantiene las propiedades más naturales y es de ceras de abeja cien por cien, sin añadidos ni aditivos que puedan ser lesivas para las imágenes.
-
-
-Uno de los productos estrellas de su establecimiento es el incienso «Los tres Reyes». ¿De dónde procede y que lo hace distinto a los demás?
-
-
-Procede de Arabia, pero mis bisabuelos le dieron el toque sevillano e inventaron una fórmula que lo hace distinto a los demás. Muchas hermandades usan nuestro incienso como base del suyo, al que le añaden otro aromático para darle un toque más identitario.
-
-
-Hay clientes que cuando lo huelen suelen exclamar: «Éste es el que yo estaba buscando»…
-
-
-Hay clientes que lo dicen gráficamente: «Hombre éste es “El tres Reyes” que yo andaba buscando y no lo que me han dado por ahí».
-
-
-El caso es que ese incienso ha llegado lejos, fuera de Sevilla.
-
-
-Efectivamente. Este incienso se ha quemado en el Panteón de Agripa en Roma, en la Catedral de Niza y, ya mucho más cerca, en la Catedral de Sevilla. Pero muchos clientes extranjeros nos lo piden desde California, México, Francia, Malta. En definitiva, me piden el olor de la Semana Santa que tanto les cautiva.
-
-
-Una cera tan pura y blanqueada al sol como la que hacían sus bisabuelos hace 175 años, ¿se encuentra en el mercado o el mercado pide otras cosas?
-
-
-Sin duda. La cera pura sigue iluminando parte de la Semana Santa como hace más de un siglo.</description>
+Puedes leer la entrevista completa al arzobispo de Sevilla sobre su vida, las hermandades, las salidas extraordinarias y la Iglesia en definitiva haciendo clic en este enlace.</description>
 <category domain="Sevilla">Sevilla</category>
-<pubDate>Mon, 24 Feb 2020 07:19:42 +0100</pubDate>
-<guid>https://sevilla.abc.es/sevilla/sevi-manuel-lopez-soriano-nuestro-incienso-tres-reyes-quemado-panteon-agripa-202002240719_noticia.html</guid>
+<pubDate>Wed, 26 Feb 2020 09:58:49 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-seis-noticias-debes-conocer-miercoles-26-febrero-202002260958_noticia.html</guid>
     <dc:creator>(sevilla)</dc:creator>
 </item>
 <item>
-<title>La tasa turística no es problema para nueve de cada diez viajeros que vienen a Sevilla</title>
-<link>https://sevilla.abc.es/sevilla/sevi-tasa-turistica-no-problema-para-nueve-cada-diez-viajeros-vienen-sevilla-202002232342_noticia.html</link>
-    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/16/s/informe-turistico-sevilla-620x349-kqbC-U15652380636GOZ-620x349@abc.jpg&quot;&gt;La propuesta del Ayuntamiento de Sevilla de crear una tasa turística no encuentra rechazo entre los viajeros que visitan la ciudad. Sólo uno de cada diez cambiaría de destino por este gravamen, como recoge la encuesta anual que realiza el equipo de Turismo Sevilla con más de 4.500 entrevistas a visitantes de una decena de nacionalidades. Entre las cuestiones que se les ha planteado está si seguirían viviendo a la capital andaluza aunque se les cobrase un impuesto de un euro diario por pasar la noche. El 88, 7 por ciento de los consultados aseguró que vendría igualmente; mientras que otro 9,82 por ciento respondió que no seguiría viniendo. Apenas un 1,45 por ciento evitó pronunciarse. 
+<title>Jaime Bretón pide más líneas de autobús para el Polígono Sur de Sevilla</title>
+<link>https://sevilla.abc.es/sevilla/sevi-jaime-breton-pide-mas-lineas-autobus-para-poligono-sevilla-202002260745_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static3-sevilla.abc.es/media/sevilla/2020/02/26/s/comsionado-marquesinas-poligono.jpg-kqqE--620x349@abc.jpg&quot;&gt;El Comisionado para el Polígono sur pidió ayer a Tussam más líneas de autobuses y que reponga las marquesinas de barro que se encuentran muy dañadas. 
 
 
-Estos datos refuerzan todavía más la determinación del Consistorio para dar curso a la medida, que no tiene un camino fácil. Precisa de un apoyo del Gobierno andaluz para imponerla en todo el territorio o un cambio de la Ley de Haciendas Locales para que cada municipio pueda crearla a título individual. En el primer caso, no hay un consenso general para aplicarla como ya hacen las comunidades de Cataluña y Baleares. En el segundo, sería necesaria la colaboración del Ejecutivo central para articular tal modificación. De una forma u otra, el Ayuntamiento sevillano no cejará en el empeño.
+La petición la formuló ayer Jaime Bretón al gerente de Tussam, Ruben García, con el que mantuvo una reunión, porque considera que la situación aislada del Polígono Sur es una razón de peso para ofrecer un servicio de transporte público eficiente y con unos estándares de calidad que fomente una demanda, que se estima inferior al resto de la ciudad.
 
 
-Hotel o piso turístico
-Otra de las cuestiones es el tiempo que se quedan y la vía de reserva. Tanto en un parámetro como en el otro el estudio de Turismo Sevilla difiere de otras como la Encuesta de Ocupación Hotelera del INE, que excluye otras alternativas de alojamiento como las viviendas con fines turísticos y las casas de amigos o familiares. Los viajeros entrevistados se quedan una media de tres días. De ellos, un 35,9 por ciento lo hace en pisos o apartamentos, mientras que otro 32,47 por ciento se hospeda en hoteles de tres y cuatro estrellas. El 21,3 por ciento elige un hostal o una pensión y sólo un 6,7 por ciento lo hace como invitado con familiares o amigos.
-
-
-¿Cómo reservan?
-La manera de contratar el alojamiento es, en más de la mitad de los casos, a través del portal Booking.com para reserva de hoteles y apartamentos turísticos. El 51,5 por ciento lo hace por esta vía, mientras que el 21,1 por ciento utiliza Airbnb, el portal para pisos y casa con fines turísticos. Otro 15,6 por ciento aprovecha las ofertas que les ofrece la web de la aerolínea para reservar y el 9 por ciento restante recurre al propio hospedaje mediante su página de internet o el teléfono. 
-
-
-La previsión a la hora de buscar alojamiento no depende sólo de lo organizado que sea el turista cuando viaja, también de la época. Los meses de mayor ocupación precisan de una mejor planificación, como ocurre en abril y mayo, que coincide con la Semana Santa y la Feria o septiembre y octubre, que son los de mayor ocupación hotelera. Por el contrario, diciembre es el que menos previsión necesita, pues hay mucha disponibilidad en la ciudad. 
-
-
-Sobre la manera de viajar, admiten que lo hacen principalmente en pareja en el 40,1 por ciento de los casos. Le siguen los que optan por visitar otra ciudad con amigos (el 23,03 por ciento) y en tercer lugar, solos (16,94 por ciento). En familia visitó Sevilla un 15,3 por ciento de los encuestados y con los niños, apenas el 2,6 por ciento.
+El Comisionado pidió una necesaria mejora de conexión de lineas con el Oeste de la ciudad, en particular con la estación intermodal Plaza de Armas. Porque, según Bretón, Tussam es «un elemento de vertebración social en nuestros barrios»
 
 
 
-
-¿Cuánto gastan?
-Otro de los aspectos que se ha analizado es el gasto que hacen y que en 2019 se ha visto afectado por los vaivenes del mercado y la inestabilidad política. El temor del Brexit ha calado de lleno en Reino Unido, el cuarto mercado emisor para Sevilla y de los que mayor poder adquisitivo tienen. El desembolso ha bajado de los casi cien euros diarios por persona en 2018 a los 87,35, unos catorceeuros menos. Recortan en salidas nocturnas y comidas fundamentalmente. Por el contrario, destinan más a alojamiento por el aumento del precio en los hoteles y por la mejora de la calidad en los mismos, pues eligen fundamentalmente los de tres y cuatro estrellas, frente a apartamentos y pensiones.
+Bretón también solicitó una mejora sustancial de las 17 marquesinas que se encuentran en mal estado o directamente no existen . En nueve de ellas pide que se sustituyan por marquesinas antivandalicas. Sobre todo en las que confluyen dos líneas como es la parada 756, que tiene un numero importante de usuarios.
 
 
-
-El turista que más gasta es el estadounidense, con una media de 103,42 euros al día, aunque también recortó, con unos 17 euros menos. El que menos, el alemán que se deja 75 euros al día, diez menos que el año pasado.
-
-
-La imagen de Sevilla
-Otro de los aspectos interesantes que se analiza es la imagen que el turista tiene de Sevilla antes y después de visitarla. Antes de conocer el destino la consideran por este orden una ciudad monumental, flamenca, de río, de tapas, taurina, de fiestas populares, cosmopolita, de museos, de Murillo y de rodajes. Sin embargo, el orden de percepción cambia significativamente tras la visita y se anteponen aspectos como ciudad cosmopolita que sube de la séptima posición a la cuarta por delante del flamenco y los toros. También gana puestos la gastronomía tras probarla.
+Brestón solicitó también marquesinas en las paradas numero 547 y 548 ya que están ubicada en Su Eminencia y es un lugar muy desapacible para la espera de los usuarios.
 
 
-
-
-El Alcázar, la primera parada del turista
-El Alcázar y las Setas son los primeros lugares que el turista visita cuando llega a Sevilla. Le siguen el entorno monumental de Triana y el barrio de Santa Cruz. La Catedral ocupa el cuarto lugar, mientras que las zonas comerciales de Sierpes-Tetuán y Nervión se colocan en el quinto puestoo. Le siguen por este orden: la Plaza de España y el parque de María Luisa, la Torre del Oro y el río. A mayor distancia se sitúan la Casa Pilatos, el Museo de Bellas Artes y el Archivo de Indias. El Salvador, el Palacio de Dueñas y la Cartuja son los siguientes lugares de interés turístico que mejor valoran los visitantes. En el último lugar están los estadios de fútbol y el Acuario.</description>
+El Comisionado valoró la «buena disposición» de la Gerencia de Tussam , para hacer conjuntamente campañas de sensibilización como las ya realizadas en alguna zonas, para concienciar de la importancia de tener un servicio publico de calidad.</description>
 <category domain="Sevilla">Sevilla</category>
-<pubDate>Sun, 23 Feb 2020 23:42:14 +0100</pubDate>
-<guid>https://sevilla.abc.es/sevilla/sevi-tasa-turistica-no-problema-para-nueve-cada-diez-viajeros-vienen-sevilla-202002232342_noticia.html</guid>
+<pubDate>Wed, 26 Feb 2020 07:45:38 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-jaime-breton-pide-mas-lineas-autobus-para-poligono-sevilla-202002260745_noticia.html</guid>
     <dc:creator>(sevilla)</dc:creator>
 </item>
 <item>
-<title>El coche eléctrico en Sevilla: o paga o lo carga en su garaje</title>
-<link>https://sevilla.abc.es/sevilla/sevi-coche-electrico-sevilla-o-paga-o-carga-garaje-202002232302_noticia.html</link>
-    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/24/s/coches-electricos-sevilla-kdkE--620x349@abc.jpg&quot;&gt;Sevilla, la primera ciudad española que ha declarado la emergencia energética en Pleno municipal, mantiene apagada desde hace más de tres años su red pública de carga de coches enchufables. 
+<title>Dimite la presidenta de Vox en Sevilla María José Piñero</title>
+<link>https://sevilla.abc.es/sevilla/sevi-dimite-presidenta-sevilla-maria-jose-pinero-202002260704_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static3-sevilla.abc.es/media/sevilla/2020/02/26/s/maria-jose-pinero-vox-kbYG--620x349@abc.jpg&quot;&gt;La presidenta de Vox en Sevilla, María José Piñero, ha presentado su dimisión en el partido de Santiago Abascal. Parlamentaria por dicha formación en la Cámara Autonómica no tiene por ahora intención ni de entregar su acta ni pedir ser considerada como diputada no adscrita. Con esta dimisión de la ejecutiva provincial de Sevilla ya son seis las provincias donde han dimitido sus presidentes. Sólo Málaga y Córdoba tienen dirigentes estables. Las demás se encuentran en manos de gestoras hasta la celebración de las primarias que se harán en esta primavera.
 
 
-La infraestructura ya existe. Se creó en 2012 con 75 puntos situados en varias vías principales, garajes de hoteles, centros comerciales, sedes de empresas municipales y aparcamientos subterráneos. Fue el llamado proyecto «Movele», que contó con una generosa financiación europea que hizo de la ciudad un ejemplo para la proliferación de este tipo de coches. Pero el sueño verde apenas duró un lustro, cumpliendo el plazo mínimo para no tener que devolver las ayudas.
+María José Piñero, médico de profesión, ha mandado una dura carta a los afiliados y simpatizantes, que se reproduce a continuación: «Me considero una mujer valiente y por eso me puse al frente de Vox cuando nadie quería, pero hace ya más de un año se ha creado en Vox Sevilla una estructura paralela al margen de la voluntad democrática de los afiliados, protagonizada por determinados personalismos y apoyada por Vox España, al margen del ordenamiento estatutario, que ha desplazado al Comité Ejecutivo Provincial y, como no, a mi presidencia y a todo el que no se alinee a la misma».
 
 
-Tras el abandono de la red de electrolineras, la capital andaluza se sitúa a la cola en la apuesta por el coche eléctrico que gana terreno en los núcleos más poblados. La situación contrasta con ejemplos como Barcelona, que cuenta con más de un centenar o Madrid, que tiene alrededor de cincuenta. 
+Partido paralelo
+«Por fidelidad al ideario original de Vox he aguantado, esperando que el partido reaccionara y fuera leal conmigo, con sus directivos y sus afiliados. Cuan equivocada estaba hasta el punto de darme cuenta de que, este gobierno del partido paralelo, ha estado prefiriendo perjudicar al partido con tal de desplazar y retirar a cualquier persona que pudiese destacar por trabajadora, inteligente, preparada y capaz que fuese», continúa la misiva
 
 
-
-Los nuevos centros comerciales y grandes superficies han incluido dispositivos de este tipo, pero muchos de ellos son previo pago por el servicio o el tiempo de estancia 
-
-
-
-También la superan Bilbao, Murcia o Zaragoza, todas con menos población y un parque móvil más limitado. Eso sí, disponer de estos dispositivos para la recarga gratuita fomenta la compra de vehículos verdes que contriyen a reducir la contaminación.
-
-
-Hoy la mayor parte de aquellos puntos de «repostaje» de libre acceso que tenía Sevilla están apagados y los propietarios de vehículos ecológicos se ven obligados a recurrir a parkings o complejos comerciales para alimentar las baterías. El mapa de alternativas es limitado, como muestra la apliación electromaps creada para encontrar estaciones de recarga disponibles en tiempo real, en la que se señala con enorme distintivo rojo aquellas que están inuntilizadas.
-
-
-Si el conductor accede a la ciudad por el Patrocinio, que es una de las entradas habituales para los días laborables, los primeros postes de alimentación que encuentra son los de la isla de la Cartuja, donde no queda uno disponible a pie de calle. La empresa Tesla ha instalado cargadores en el garaje de Torre Sevilla, pero suelen ser sólo para los de esta marca y además tienen un coste por el uso. También hay opción en el parking subterráneo de la compañía Insur, que requiere del abono de la tarifa de estacionamiento si se quiere usar.
+«Quiero trasladaros mi más sincero agradecimiento, representáis sin duda alguna el espíritu que todos buscamos en Vox cuando nos leímos los principios fundacionales y apostamos por el proyecto, dedicándole un tiempo, recurso e ilusión incalculable. Lo hemos dado todo por recuperar una España soñada, anhelada y que dábamos por perdida. Hemos devuelto la esperanza a muchos españoles que se sentían abandonados y que han apostado todo por Vox en general y, en particular, aquí en Sevilla, por mí, ¡qué grandes sois! En cambio, he visto como el proyecto tomaba una deriva que no ha gustado a nadie, basada en relaciones de poder, soberbia y miedo», afirma sin especificar nombres.
 
 
 
-El Ayuntamiento está trabajando en un acuerdo con una empresa del sector para una primera experiencia en algunos puntos y posteriormente una licitación a operadores
+«Se ha jugado irregularmente con los recursos económicos de los afiliados», afirma en su misiva
 
 
 
-De uso exclusivo para clientes son el de Red Española Eléctrica (REE), que se encuentra cerca del rascacielos, y el de la compañía de ingeniería Ayesa. También hay otro en el hotel Barceló Renacimiento para huéspedes y clientes que tiene coste ,al menos, del tiempo de permanencia del vehículo en las instalaciones.
+«Personalmente he soportado lo indecible, he visto como se os apartaba de redes sociales y medios de comunicación, de merecidos puestos y de áreas de trabajo para las que estabais perfectamente cualificados. Cuántos proyectos se han perdido por el celo de los que no querían ceder protagonismo y eran incapaces de ejecutarlos con recursos propios. Pero hay determinadas cosas que no estoy dispuesta a soportar y concreto. No voy a tolerar que se juegue irregularmente con los recursos económicos de los afiliados para lanzar la carrera política y las ambiciones de unos pocos, que fuera de todo talento, solo buscan su proyección personal.»
 
 
-Si el conductor abandona la Cartuja y pone rumbo hacia Triana encuentra el primer punto de carga en el hotel Ribera en la plaza de Chapina. De largo tendrá que pasar por el centro comercial Plaza de Armas donde se ubicaba otro que ya no funciona. De camino al Centro sólo cuenta con estaciones en los parkings subterráneos del Arenal, la calle Imagen, el Paseo de ristina, el resto las tienen inutilizadas, según la aplicación. 
+«Hace diez días envié un burofax a las más altas instancias del partido para que estos problemas fuesen subsanados de manera fulminante, obteniendo la negativa y la amenaza por respuesta. Queridos afiliados, es por este motivo que tengo el deber y la responsabilidad de presentar con enorme tristeza mi dimisión irrevocable como presidenta de Vox Sevilla. Espero vuestra comprensión y os llevaré siempre en mi corazón. No os desaniméis, tenemos un gran país que reconstruir y queda mucho por hacer dentro y fuera de unas siglas. Sois la gran esperanza de esta gran nación», continúa
 
 
-En el resto de la ciudad tampoco están disponibles los de la avenida San Francisco Javier, ni los del centro comercial Los Arcos, que actualmente está en plena reforma. Sí disponen de electrolineras los nuevos complejos comerciales como Lagoh y Torre Sevilla y concesionarios que atienden en varios polígonos industriales y que los han instalado por la salida al mercado de los primeros modelos enchufables.</description>
+«No obstante, creo que los principios fundacionales del partido siguen intactos y, por ello, reitero mi compromiso adquirido con los andaluces y sevillanos para defender el ideario del partido por el que se nos votó para el Parlamento de Andalucía, con la esperanza de que estas incoherencias internas del partido sean subsanadas y cambien en breve por los afilados», termina la carta firmando como expresidenta de Vox Sevilla</description>
 <category domain="Sevilla">Sevilla</category>
-<pubDate>Sun, 23 Feb 2020 23:02:38 +0100</pubDate>
-<guid>https://sevilla.abc.es/sevilla/sevi-coche-electrico-sevilla-o-paga-o-carga-garaje-202002232302_noticia.html</guid>
+<pubDate>Wed, 26 Feb 2020 07:04:31 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-dimite-presidenta-sevilla-maria-jose-pinero-202002260704_noticia.html</guid>
     <dc:creator>(sevilla)</dc:creator>
 </item>
 <item>
-<title>La Policía Local de Sevilla precinta diez bares en las inmediaciones de la Alameda de Hércules</title>
-<link>https://sevilla.abc.es/sevilla/sevi-policia-local-sevilla-precinta-diez-bares-inmediaciones-alameda-hercules-202002231715_noticia.html</link>
-    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/23/s/patrulla-alameda-bares-k3tF--620x349@abc.jpg&quot;&gt;La Policía Local de Sevilla precintó la pasada madrugada diez establecimientos en el entorno de Alameda de Hércules. Nueve ellos fueron por expender bebidas alcohólicas para su consumo en la calle y uno, en la calle Faustino Álvarez, por superar el doble del aforo permitido. Estas actuaciones se enmarcan en un operativo de inspección policial impulsado por la Delegación de Gobernación del Ayuntamiento. 
+<title>Aíslan a dos pacientes por posible coronavirus en el hospital Virgen Macarena</title>
+<link>https://sevilla.abc.es/sevilla/sevi-aislan-segundo-paciente-sospecha-coronavirus-hospital-macarena-202002252231_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static3-sevilla.abc.es/media/sevilla/2020/02/25/s/macarena1-k74B--620x349@abc.JPG&quot;&gt;El Hospital Virgen Macarena mantiene en aislamiento a dos pacientes con sospecha de haber contraído la enfermedad que provoca el coronavirus. Ambos ingresaron durante la tarde con varias horas de diferencia, aunque no se ha podido determinar que haya relación entre ambas, como confirmaron a ABC fuentes de la Consejería de Salud. 
 
 
-Siete de los establecimientos precintados por expender bebidas para su consumo en la calle se encuentran en la Alameda de Hércules y los demás están en la calle Peris Mencheta, Miguel de Carvajal y Faustino Álvarez. Este último se clausuró por superar el doble del máximo aforo permitido (115). En el momento de la inspección se encontraban en su interior 260 personas.
+Ambos permanecen en habitaciones clausuradas en un ala de la quinta planta del centro hospitalario, que se ha reservado para atenderlas, a la espera de que los resultados confirmen si están o no infectadas. Las fuentes consultadas señalan que «en un principio no hay constancia de que haya relación entre ambos casos». 
 
 
-A última hora de la madrugada se procedió al desalojo de un local en la Avenida de Blas Infante tras una inspección por agentes de Policía Local. Durante la noche se comprobó además el cumplimiento de los precintos realizados en la madrugada de ayer en otros establecimientos de la ciudad.
+El primer paciente llegó al hospital durante la tarde y fue trasladado a la quinta planta, donde el personal se protege con mascarillas siguiendo el protocolo previsto para estos casos. No se ha facilitado ningún otro dato respecto a este caso, ni su edad ni su nacionalidad, aunque de confimarse tras los análisis que se le están practicando (y que podrían saberse en las próximas horas) sería el primero en Andalucía.
 
 
-El teniente alcalde y delegado de Gobernación y Fiestas Mayores del Ayuntamiento de Sevilla, Juan Carlos Cabrera, insiste en «el carácter prioritario para su delegación de la protección del derecho al descanso en los barrios de Sevilla y, sobre todo, evitar situaciones de riesgo para los clientes al vulnerar algunos responsables de las actividades hosteleras las normas mínimas de autoprotección en los locales. Por ello, vamos a seguir controlando, especialmente de cara a Semana Santa, cualquier incumplimiento o irregularidad en los establecimientos de la zona de influencia que pueda comprometer la seguridad de los clientes y el tránsito por las zonas peatonales», añade Cabrera.</description>
+En todo caso, los análisis que realizará el Virgen del Rocío, hospital de referencia de la enfermedad, deberá revalidarlos el Centro Nacional de Microbiología del Instituto de Salud Carlos III de Madrid, una información que se tendrá un plazo de entre 24 y 48 horas. 
+
+
+Con este segundo caso sospechoso, habría ya cinco posibles contagios que se investigan, tras los dos aparecidos en Málaga y uno en Puerto Real (Cádiz). Ninguno de ellos ha sido hasta ahora confirmado como coronavirus.</description>
 <category domain="Sevilla">Sevilla</category>
-<pubDate>Sun, 23 Feb 2020 17:15:01 +0100</pubDate>
-<guid>https://sevilla.abc.es/sevilla/sevi-policia-local-sevilla-precinta-diez-bares-inmediaciones-alameda-hercules-202002231715_noticia.html</guid>
+<pubDate>Tue, 25 Feb 2020 22:31:40 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-aislan-segundo-paciente-sospecha-coronavirus-hospital-macarena-202002252231_noticia.html</guid>
     <dc:creator>(sevilla)</dc:creator>
 </item>
 <item>
-<title>La Junta de Andalucía pide al Gobierno central que rebaje el IVA del alquiler de sillas de la Semana Santa</title>
-<link>https://sevilla.abc.es/sevilla/sevi-junta-andalucia-pide-gobierno-central-rebaje-alquiler-sillas-semana-santa-202002231711_noticia.html</link>
-    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/23/s/silla-semana-santa-kroG--620x349@abc.jpg&quot;&gt;La Junta de Andalucía ha solicitado al Ministerio de Hacienda una reunión para tratar la rebaja del IVA por el alquiler de sillas, tribunas y palcos para ver las procesiones de Semana Santa.
+<title>Todos los niños sevillanos podrán acceder al Bachillerato en un colegio concertado</title>
+<link>https://sevilla.abc.es/sevilla/sevi-todos-ninos-sevillanos-podran-acceder-bachillerato-colegio-concertado-202002252104_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/26/s/altair23-k0FI-U68065037060bsm-620x349@abc.jpg&quot;&gt;Todos los chicos sevillanos 
+
+podrán estudiar el Bachillerato en los cinco únicos colegios que hay en Sevilla capital con bachillerato concertado. Es una de las principales novedades, consecuencia del nuevo decreto de escolarización aprobado por la Junta de Andalucía.
 
 
-El consejero de Hacienda, Industria y Energía, Juan Bravo, ha trasladado esta inquietud a la ministra de Hacienda, María Jesús Montero, tras la última reunión del Consejo de Política Fiscal y Financiera (CPFF) y ahora el secretario general de Hacienda ha solicitado formalmente por carta a la secretaria de Estado de Hacienda una reunión de trabajo en la que «estudiar la posible aplicación del tipo reducido del diez por ciento» en lugar del 21 previsto.
+La novedad supone un importante cambio si se tiene en cuenta que en la inmensa mayoría de los centros concertados, el concierto no llega al bachillerato y en esta etapa los padres tienen que pagar una cuota que suele estar por encima de los 300 euros y en algunos casos ronda los 400 euros. 
 
 
-Según ha informado el Gobierno andaluz en una nota de prensa, en la carta que la Junta de Andalucía ha remitido al Gobierno de España se pone de manifiesto que «la Semana Santa en Andalucía es un acontecimiento de interés turístico internacional» con una importante «repercusión económica y de empleo».
+Pues bien, en la reunión del consejo escolar provincial celebrada esta tarde en Sevilla, la delegación de Educación ha comunicado a los representantes de sindicatos y padres su propuesta de cómo quedará el nuevo mapa de la escolarización tras el nuevo decreto que implica que todos los escolares podrán tener acceso a un centro concertado. 
 
 
-Para justificar el estudio de la rebaja del IVA, el Gobierno de Andalucía ha destacado el «enorme impacto religioso, cultural y turístico» de la Semana Santa, no sólo a nivel nacional sino también internacional y «la gran labor social que realizan las hermandades y cofradías, siendo la actividad descrita -el alquilar de sillas, tribunas y palcos- una fuente relevante de ingresos para las mismas».
+Esta novedad supone hace una única zona para centros muy distantes ya que los hay en Triana (los Salesianos de San Pedro), en la calle Calatrava en pleno casco histórico (Safa Nuestra Señora de los Reyes), en la calle María Auxiliadora (Salesianos de la Santísima Trinidad), Pino Montano (colegio Virgen Milagrosa) o Parque Amate (Altair).
 
 
-Por ello, se ha solicitado que la reunión se celebre «a la mayor brevedad posible dadas las fechas en las que nos encontramos» al considerar la Junta que se podría encontrar margen dentro de la Ley del IVA para aplicar el tipo reducido del diez por ciento o incluso estudiando el marco de la Directiva Comunitaria.</description>
+Además la propuesta de zonificación realizada por Educación para el proceso de escolarización que empieza el próximo mes de marzo también implica que la zona del Polígono Sur tendrá acceso a varios centros concertado. Concretamente, según han explicado fuentes presentes en la reunión del citado consejo, los niños de esta zona deprimida de la ciudad, que no tenían ningún colegio concertado en el barrio, tendrán la máxima puntuación para estudiar en los centros concertados Corpus Christi y Pontífice Pablo VI en Primaria y éste último para Secundaria.
+
+
+Provincia
+En cuanto a la provincia Educación tiene la intención de introducir también algunos cambios para que todos los niños puedan estudiar en centros concertados. Así se introduce zona única para los centros concertados de Coria del Río, La Puebla de Cazalla, Lora del Río, Tomares, Alcalá de Guadaíra, Camas y Los Palacios y Villafranca. 
+
+
+Igualmente se establece zona única para todo tipo de centros en Osuna y se reorganizan las áreas de La Puebla del Río, una localidad en la que sólo hay centros públicos. 
+
+
+Según fuentes presentes en la reunión la nueva zonificación escolar ha provocado una polémica ya que muchos no estaban de acuerdo con la propuesta. En el consejo escolar, en el que hay reresentantes de la administración educativa, directores de centros públicos y privados, patronales de la privada, sindicatos de profesores de la pública y de la privada, sindicatos del personal de administración y servicios, padres de la pública y de la privada, estudiantes y representantes de la Diputación y algún otro organismo público, la propuesta de la Junta provocó mucha división. Según fuentes presentes en el consejo, hubo diez votos a favor y otros tantos en contra. 
+
+
+Es una polémica más que se suma a la ya creada por el decreto de escolarización contra el que los sindicatos y las Ampas de Sevilla han convocado una huelga para el próximo 4 de marzo.
+
+
+Una decisión polémica
+El sindicato ANPE considera que que el resultado de la votación de la propuesta de escolarización, tanto en el Consejo Escolar Provincial como en varios consejos escolares municipales, pone de manifiesto «la amplia oposición generada», en el seno de la Comunidad Educativa, por el nuevo Decreto por el que se regulan los criterios y procedimiento de admisión de alumnado. El vicepresidente de Anpe Sevilla, Antonio Brea, expresó su desacuerdo con la propuesta de zonificación escolar.</description>
 <category domain="Sevilla">Sevilla</category>
-<pubDate>Sun, 23 Feb 2020 17:11:11 +0100</pubDate>
-<guid>https://sevilla.abc.es/sevilla/sevi-junta-andalucia-pide-gobierno-central-rebaje-alquiler-sillas-semana-santa-202002231711_noticia.html</guid>
+<pubDate>Tue, 25 Feb 2020 21:04:50 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-todos-ninos-sevillanos-podran-acceder-bachillerato-colegio-concertado-202002252104_noticia.html</guid>
     <dc:creator>(sevilla)</dc:creator>
 </item>
 <item>
-<title>Asociaciones vecinales solicitan un estudio de movilidad por los aparcamientos del centro comercial</title>
-<link>https://sevilla.abc.es/sevilla/sevi-asociaciones-vecinales-solicitan-estudio-movilidad-aparcamientos-centro-comercial-202002231439_noticia.html</link>
-    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/19/s/parque-quinto-centenario-ker--620x349@abc.png&quot;&gt;Las asociaciones Parque Vivo del Guadaira, Foro de Heliópolis y Bermejales Activa denuncian la desidia de las autoridades ante la «pérdida de calidad ambiental y de accesibilidad» que sufren los barrios del distrito Bellavista-La Palmera. 
+<title>Una sevillana, en Milán: «La gente entró en pánico, las tiendas se vaciaron»</title>
+<link>https://sevilla.abc.es/sevilla/sevi-coronavirus-gente-entro-panico-milan-supermercados-quedaron-vacios-202002252102_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/26/s/milan-cornoa-virus.jpg-kR4F--620x349@abc.jpg&quot;&gt;Se llama Cristina Espinosa Jiménez-Carlés, tiene 24 años y acaba de volver de Milán, cerca de la zona cero del coronavirus. Esta sevillana, que aterrizó ayer en Sevilla procedente de Milán, es grado en Ingeniería de Telecomunicaciones por la Universidad de Sevilla y está haciendo un máster en Ingeniería Biomédica en el Politécnico de Milán. Ayer volvió a Sevilla procedente del país vecino que vive en situación de alerta por la epidemia.
 
 
-Para estos vecinos, la apertura del centro comercial en Palmas Altas ha generado problemas de circulación y aparcamiento, que se acentúan los días de partido en el Benito Villamarín. Además, denuncian la generalización de las botellonas «en los parques y su entorno».
+La joven, como algunos de sus compañeros que estudió en la Universidad de Sevilla y continúa su formación de postgrado en Italia. Ahora ha decidido volver a casa mientras dure la alarma. Aunque no tiene miedo, lo ha hecho porque las universidades, también en la que ella estudia en Milán, han echado el cerrojazo por el virus. No tiene clase hasta la próxima semana ya que, según han previsto las autoridades italianas, no volverán a las aulas hasta el día 2 de marzo. 
 
 
-Estos colectivos insisten en que han dirigido sus peticiones por escrito al alcalde y a los responsables de diferentes áreas municipales, y en repetidas ocasiones a los encargados del distrito, sin haber recibido por el momento solución alguna a sus demandas.
+Por ello, Cristina ha regresado aprovechando que las universidades están cerradas. Ella que está en una residencia de estudiantes en Milán, no tiene miedo.Vuelve porque estos días no pueden hacer nada. Ni estudiar, ni visitar museos ni ninguna actividad. 
 
 
-En su comunicado, las asociaciones piden que el Ayuntamiento de Sevilla realice, en colaboración con las autoridades pertinentes a nivel autonómico y estatal, un estudio de movilidad relativo al impacto de la puesta en marcha del nuevo centro comercial y de las futuras obras que están previstas en la zona. 
+Su retorno ha dejado a su familia más tranquila. Preferían que me viniese porque aquí estaba más controlada», dice. Hasta el domingo, según relata, todo estaba «normal» en la zona. La pasada semana, aprovechando las vacaciones del final del cuatrimestre, se marchó de viaje con varias compañeras. Estuvieron en Venecia y Turín. «Hemos hecho viajes y no hemos tenido miedo», explica. 
 
 
-Francisco Aguilar, secretario general del Foro de Heliópolis, señala que la falta de aparcamiento en el entorno de la superficie comercial de Palmas Altas lleva a los vehículos a buscar aparcamiento en la zona residencial del barrio de Los Bermejales.
-
-
-Otra de sus quejas es la proliferación de botellonas nocturnas y coincidiendo con los partidos del Betis, ante lo que exigen una mayor presencia y acción de la Policía Local y «la aplicación estricta de las ordenanzas y sanciones». Los principales lugares afectados son «la calle Tajo o Venezuela» y las zonas ajardinadas, ante lo que proponen «el cierre de accesos por la noche de Glorieta de la Enfermería y Colegio de Corpus Christi» para dificultar «la entrada de coches y motos».
-
-
-
-El comunicado de estos vecinos incluye la petición al Ayuntamiento de que solicite al grupo LAR España que restituya los «daños» y que recupere «unos estándares de calidad mínimos» en los terrenos afectados por las obras del centro comercial de Palmas Altas. Por otro lado, los colectivos que suscriben el comunicado temen que el aumento de la circulación de vehículos en la zona pueda conllevar un deterioro ambiental y una pérdida de la calidad del aire. 
+Por la calle
+Sin embargo, cuando salieron a la luz los primeros casos, la cosa cambió.No hay actividad y todo está cerrado. Pero eso no es lo más grave. Lo peor es que la actitud de la mayoría de los ciudadanos cambió. «La gente entró en pánico y los supermercados se quedaron vacíos», explica esta joven, que también revela como se agotaron las mascarillas y los geles para lavarse las manos. Cuando quiso ir a por mascarillas, ya no había. Sin embargo, Cristina sigue mostrando una gran tranquilidad. «Me dijo la farmacéutica que no pasaba nada, que lo importante es lavarse las manos», afirma.
 
 
 
-Para enfrentar esta amenaza, las asociaciones proponen desarrollar un programa de plantación de 3.000 árboles en estos barrios, la mitad en los próximos tres años, prestando especial atención al parque Bermejales Sur. Aguilar, miembro del Foro de Heliópolis, recuerda cómo hace años «el barrio tenía una arboleda muy frondosa, especialmente en verano», que hoy ha disminuido sensiblemente. 
+Según explica, las baldas de alimentación en los centros comerciales estaban vacías y la mayoría se llevaba carros llenos hasta arriba. «Se llevaban leche, agua, pan, de todo», relata. «Había muy poca gente por la calle», dice. Sólo se cruzaba con algunas personas en la plaza del Duomo. 
 
 
-Estos colectivos vecinales piden también al Ayuntamiento que actúe de manera «transparente» y sin improvisaciones respecto a futuros problemas que puedan conllevar «las obras del puente del Centenario y de los nuevos proyectos residenciales» que se pongan en marcha en este distrito.</description>
+
+Ahora ya está en Sevilla. Llegó con otros cinco estudiantes, algunos de máster y otros de grado. A todos ellos les escribieron desde laHispalense para explicarles que siguieran las instrucciones de las autoridades y prestarles su apoyo si fuera necesario. 
+
+
+Una vez aquí, Cristina insiste en que no piensa ir al médico porque no tiene ningún síntoma. Pero por si acaso, lo deja claro. «Voy a hacer vida normal, pero recién llegada no voy a ir a ver a mis abuelos». Hasta que no pasen unos días. 
+
+
+Como ella hay muchos estudiantes sevillanos más. Casi 135 estudiantes sevillanos de la US y la UPOestán de Erasmus en la zona cero de Italia. Según informó la Hispalense, aproximadamente hay 94 estudiantes en el norte de Italia del total de 337 universitarios sevillanos que se encuentran con el mismo programa de movilidad internacional en Italia.
+
+
+Además hay otros 143 estudiantes de la UPO. De ellos, unos 35 en zonas afectadas por la suspensión de actividad académica. Según la UPO llegan hasta 50-60 si a los anteriores se les suma los que están estudiando en zonas como Roma no afectadas por la suspensión pero donde se han detectado casos.
+
+
+Una de esas estudiantes, Andrea Laso, sevillana que estudia 3º de Biología en Turín, sigue allí y, de momento no piensa volver pese a no tener clase. «La mayoría de los padres están asustados y nos llaman continuamente para que volvamos pero se lo hemos explicado y están más tranquilos». Ella y otros compañeros no piensan volver. De momento.</description>
 <category domain="Sevilla">Sevilla</category>
-<pubDate>Sun, 23 Feb 2020 14:39:11 +0100</pubDate>
-<guid>https://sevilla.abc.es/sevilla/sevi-asociaciones-vecinales-solicitan-estudio-movilidad-aparcamientos-centro-comercial-202002231439_noticia.html</guid>
+<pubDate>Tue, 25 Feb 2020 21:02:48 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-coronavirus-gente-entro-panico-milan-supermercados-quedaron-vacios-202002252102_noticia.html</guid>
     <dc:creator>(sevilla)</dc:creator>
 </item>
 <item>
-<title>Cs critica el «deplorable estado de abandono» del Pabellón de Alfonso XII en el parque de María Luisa</title>
-<link>https://sevilla.abc.es/sevilla/sevi-critica-deplorable-estado-abandono-pabellon-alfonso-parque-maria-luisa-202002231340_noticia.html</link>
-    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/23/s/parque-maria-luisa.jpg-k54H--620x349@abc.jpg&quot;&gt;La concejal de Ciudadanos en el Ayuntamiento de Sevilla Amelia Velázquez ha criticado este domingo «el deplorable estado de abandono» que presenta el Pabellón de Alfonso XII en la Isleta de los Patos del Parque de María Luisa.
+<title>Marqués de Contadero tendrá un centro de innovación y un acelerador de empresas de empresas turísticas</title>
+<link>https://sevilla.abc.es/sevilla/sevi-sevilla-marques-contadero-tendra-centro-innovacion-y-acelerador-empresas-empresas-turisticas-202002252058_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static3-sevilla.abc.es/media/sevilla/2020/02/26/s/sevilla-feria-turismo-kVlC--620x349@abc.jpg&quot;&gt;Sevilla puede presumir de albergar este año otro gran hito en el ámbito turístico. De hecho no solo presume ya, sino que lo ha presentado en la capital de España. El alcalde, el socialista Juan Espadas, expuso ayer en Madrid los detalles de la flamante feria sobre la innovación y tecnología aplicadas a la industria turística que se va a poner en marcha, el Tourism Innovation Summit (TIS), cuya primera edición se celebrará entre el 25 y 27 de noviembre de 2020 en el Palacio de Congresos y Exposiciones de Sevilla, Fibes, con una asistencia prevista de 5.000 profesionales y empresas turísticas y de tecnologías tan dispares como móvil, inteligencia artificial, conectividad, big data, ciberseguridad, computación cuántica, robótica, marketing digital, ERP/CPR (planificación de los recursos y gestión de los clientes), geolocalización, drones, etcétera. 
 
 
-En este sentido, ha lamentado que este singular templete hexagonal de inspiración mudéjar, en el que según cuenta la leyenda el rey Alfonso XII declaró su amor a María de las Mercedes, presente «un importante déficit de limpieza y conservación que evidencia la dejadez por parte del equipo de gobierno en cuanto al mantenimiento del patrimonio de nuestra ciudad».
+La cita, que tendrá una parte expositiva y de presentaciones y otra congresual, con ponencias de líderes mundiales de este sector, se ha acordado para 10 años consecutivos con la empresa organizadora de eventos Nebext y pretende «convertir a Sevilla en capital mundial de la innovación aplicada al turismo puesto que, a día de hoy, no existe un evento que reúna a las principales tecnológicas y las empresas turísticas», según expuso el alcalde en las instalaciones de Ifema. 
 
 
-Velázquez, que ha visitado la zona junto al concejal de la formación naranja Lorenzo López, ha puesto el acento en un comunicado en «la suciedad acumulada en el suelo, las columnas y barandillas» del espacio, que «dejan a las claras que hace muchas semanas que los servicios de limpieza no actúan en esta zona del parque».
+Esta feria TIS es parte de una estrategia municipal para que Sevilla sea un referente en innovación y actuaciones de smart city aplicadas al turismo. En esta línea, ABC pudo confirmar que dentro de esos objetivos los responsables municipales ya se buscan fondos europeos para convertir el local vacío de Marqués de Contadero más próximo al Muelle de la Sal (donde estaba previsto el centro de hostelería que ha fracasado) en un centro de innovacion aplicada al turismo, para lo que se vienen manteniendo contactos con entidades públicas y empresas que quieran formar parte de este proyecto, que incluirá una aceleradora para el desarrollo de nuevos modelos de negocio en esa misma instalación.
 
 
-«Una problemática muy grave que afecta de forma preocupante al agua del estanque que rodea al propio templete en el que se acumulan restos de hojas y ramas secas, colillas, latas, papeles e incluso una costra de bacterias y hongos que generan un escenario de insalubridad para la fauna que habita en el parque», ha advertido.
+Para la presentación, el Ayuntamiento, a través de Contursa-Fibes, aprovechó ayer la celebración en Madrid del congreso internacional Hospitality 4.0 ante unos 450 empresarios y directivos de todo el mundo que debaten sobre innovación y nuevas tendencias en la hotelería y la restauración. Espadas estuvo acompañado por el edil de Hábitat Urbano y Turismo del Ayuntamiento, Antonio Muñoz; el viceconsejero de Turismo de la Junta de la Junta de Andalucía, Alejandro Cardenete; Enrique Martínez, presidente Segitur, y Albert Planas, director general Nebext.
 
 
-La concejal de la formación naranja en el Consistorio hispalense ha criticado también «las pintadas y grafitis que pueblan las columnas y capiteles» del templete y que «ofrecen una lamentable imagen a los sevillanos y turistas que visitan a diario este histórico parque de la ciudad».
+En tres años, 30.000 visitantes
+TIS pretende ser una plataforma de negocio para firmas turísticas y tecnológicas, y tanto para grandes corporaciones como startups, además de entidades públicas y académicas. Durante su celebración, se entregarán también los premios TIS Awards 2020, que están destinados a reconocer el trabajo, el liderazgo y la transformación de empresas que apuestan por la innovación en el sector de turismo. La previsión es alcanzar en tres años los 30.000 visitantes, frente a los 5.000 de su primera edición de noviembre próximo. Para los dos años siguientes se quiere duplicar esa cantidad de público.
 
 
-Junto a ello, ha alertado «del mal estado en el que se encuentra la señalética del itinerario botánico de la Isleta de los Patos», que «se muestra totalmente desgastada, con los cristales rotos y parte de su información desactualizada».
+«No se trata sólo de un congreso sino también de un evento para captar inversiones en la industria tecnológica y turística para la ciudad de Sevilla. Por tanto, un evento que supone una oportunidad para el turismo a la hora de innovar, así como para la ciudad y para la atracción de nuevas empresas que quieran invertir en el mercado actual de soluciones tecnológicas y digitales para el sector turístico», abundó el alcalde.
 
 
-Velázquez ha exigido al equipo de gobierno que «de una vez por todas se tome en serio el mantenimiento y la conservación de los jardines históricos de la ciudad», poniendo «especial hincapié&quot; en &quot;la mejora de una de las joyas verdes de nuestro patrimonio como es el Parque de María Luisa, que por la desidia de este Ayuntamiento se encuentra completamente abandonado».
+Espadas aprovechó este foro empresarial para detallar el «ecosistema de innovación de la ciudad, que animan a la inversión». En ese contexto, citó la labor de innovación que se realiza en el Parque Científico y Tecnológico de Cartuja, la Universidad de Sevilla, Aerópolis y el proyecto de innovación abierta Sevilla Futura, impulsado por el Ayuntamiento de Sevilla con 16 compañías de primer nivel y cinco instituciones públicas, que cuenta ya tres proyectos en cartera, en el que entrarán también las necesidades de la industria turística local. 
 
 
-Por ello, ha reclamado al delegado de Parques y Jardines que «actúe de inmediato» para «frenar el deterioro al que están sometidos tanto el Pabellón de Alfonso XII como la propia Isleta de los Patos».</description>
+«Tras el crecimiento del turismo registrado en Sevilla, su sector turístico requiere un salto que propicie atraer inversiones y consolidar otros sectores productivos», recalcó Espadas. 
+
+
+Implantación de empresas
+El delegado de Hábitat Urbano y Turismo, Antonio Muñoz, apuntó que esta gran feria debe también servir para que muchas de las empresas tecnológicas que participen quieran implantarse en Sevilla, algo que con un certamen de diez años por delante es mucho más factible, al generarse ese espacio permanente». Muñoz subrayó que esta cumbre tiene «casi tanta importancia o más que la de la WTTC, porque tiene un afán de permanencia que le va a venir muy bien a la ciudad y porque posee un carácter muy singular al fusionar dos ámbitos que no se encuentran juntos en ninguna feria y donde aquí, en Andalucía y Sevilla, ahora tenemos una posición de liderazgo y privilegio».</description>
 <category domain="Sevilla">Sevilla</category>
-<pubDate>Sun, 23 Feb 2020 13:40:45 +0100</pubDate>
-<guid>https://sevilla.abc.es/sevilla/sevi-critica-deplorable-estado-abandono-pabellon-alfonso-parque-maria-luisa-202002231340_noticia.html</guid>
+<pubDate>Tue, 25 Feb 2020 20:58:21 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-sevilla-marques-contadero-tendra-centro-innovacion-y-acelerador-empresas-empresas-turisticas-202002252058_noticia.html</guid>
     <dc:creator>(sevilla)</dc:creator>
 </item>
 <item>
-<title>El Ayuntamiento aprueba obras para la mejora en los parques empresariales Store y Parsi por 300.000 euros</title>
-<link>https://sevilla.abc.es/sevilla/sevi-ayuntamiento-aprueba-obras-para-mejora-parques-empresariales-store-y-parsi-300000-euros-202002231339_noticia.html</link>
-    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/23/s/obras-poligono-Store.jpg-k2g--620x349@abc.jpg&quot;&gt;El Ayuntamiento de Sevilla, a través de su Delegación de Economía, Comercio, Relaciones con la Comunidad Universitaria y Área Metropolitana y en coordinación con la Gerencia de Urbanismo, ha licitado un nuevo paquete de obras para parques empresariales, que en esta ocasión atañen a la mejora de viales y acerados en el Store y Parsi que suman un presupuesto conjunto de 292.761 euros, y en el marco de la estrategia municipal de impulso a la actividad de estos recintos económicos y, a la vez, facilitar la movilidad de trabajadores y clientes.
+<title>El Hospital Virgen Macarena de Sevilla aísla a un paciente para comprobar si tiene el Coronavirus</title>
+<link>https://sevilla.abc.es/sevilla/sevi-virgen-macarena-sevilla-aisla-paciente-para-comprobar-si-tiene-corona-virus-202002251858_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/25/s/hospital-macarena-virus-klrF--620x349@abc.jpg&quot;&gt;El Hospital Virgen Macarena de Sevilla ha aislado esta tarde a un paciente que podría padecer la enfermedad del coronavirus, según ha podido confirmar ABC de fuentes de la Consejería de Salud. 
 
 
-La primera de estas intervenciones se acometerá sobre el acerado que linda con las traseras de las naves que desarrollan su actividad en la calle Escarpia, entre las vías Alcayata y Serrucho, sitas en el Parque Empresarial Store (distrito Norte) y «ahora en mal estado debido a la fractura de su solería, la presión de las raíces de los árboles sobre el pavimento y la dificultad de evacuación de las lluvias hacia los imbornales, que provoca encharcamientos», según ha explicado en un comunicado.
+
+[Actualización, elevan a dos las personas aisladas por posible coronavirus en Sevilla]
 
 
-Además, ha señalado que el objetivo de esa actuación es unificar el pavimento del acerado, eliminado sus actuales áreas terrizas y creando un itinerario peatonal accesible, sin barreras arquitectónicas. El acerado, con solería hexagonal, tendrá 1,8 metros de anchura y se facilitará el tránsito con nuevos pasos de peatones, según criterios establecidos por el Área de Movilidad. Esa obra cuenta con un presupuesto de 147.883 euros, con tres meses de plazo máximo de ejecución tras la adjudicación y formalización del contrato.
+
+Un ala de la quinta planta del hospital ha sido aislada y todo el personal se protege con mascarillas, siguiendo el protocolo previsto en estos casos. 
 
 
-En el caso del Parque Empresarial Parsi (distrito Cerro-Amate), la actuación supone la mejora de la pavimentación con aglomerado asfáltico de las calzadas para cinco calles (Imprenta, Gramaje, Ilustración, Litografía, Pino Estrobo) y la propia Avenida de Parsi, que se encuentran en mal estado por el paso del tiempo y la acción de las lluvias. Tras el fresado previo, se extenderá la nueva capa de rodadura y se pintarán la señalización horizontal, obras que poseen un presupuesto municipal de 144.877 euros.
+No se ha facilitado ningún otro dato respecto a este caso, ni su edad ni su nacionalidad, aunque de confimarse tras los análisis que se le están practicando (y que podrían saberse en las próximas horas) sería el primero en Andalucía. 
 
 
-«Se trata de nuevas iniciativas en el plan plurianual de inversiones iniciado en el año 2016 para los parques empresariales y que acumulan ocho millones de euros, en estos momentos, están en ejecución las obras de la calle Nivel, también en el Store, y en los últimos meses han culminado intervenciones en viales y acerados de El Pino, La Negrilla y Calonge», ha explicado el delegado de Economía, Comercio, Relaciones con la Comunidad Universitaria y Área Metropolitana del Ayuntamiento, Francisco Páez.
+En todo caso, los análisis que realizará el Virgen del Rocío, hospital de referencia de la enfermedad, deberá revalidarlos el Centro Nacional de Microbiología del Instituto de Salud Carlos III de Madrid.
 
 
-El delegado ha destacado «la importancia del diálogo constante y constructivo» entre el propio Consistorio y la Asociación de Parques Empresariales de Sevilla (APES) y con las distintas comunidades de propietarios de estos recintos económicos para ir abordando «nuevas mejoras y medidas adicionales que contribuyan, asimismo, a la captación de inversiones».
 
-
-Mejoras en la plaza Currito el Practicante en Torreblanca
-El Ayuntamiento de Sevilla, a través del Distrito Este-Alcosa-Torreblanca en coordinación con la Gerencia de Urbanismo, ha iniciado una nueva inversión en el barrio de Torreblanca dentro del programa de mejoras en los barrios de la ciudad, concretamente la ejecución de un proyecto de 36.500 euros y dos meses de obra para la adecuación y mejora de la plaza Currito el Practicante con el objetivo de habilitar una zona de uso infantil y familiar para el barrio.
-
-
-«Con esta iniciativa, avanzamos en la mejora de un área que ya se ha convertido en una referencia para los residentes y que va a contar con mejores instalaciones para la convivencia y ocio familiar y especialmente para los menores», ha resaltado la delegada del Distrito Este-Alcosa-Torreblanca, Adela Castaño, en una visita a la zona.
-
-
-Según reseña en una nota de prensa el Ayuntamiento, con el objetivo de impulsar este uso infantil, el diseño contempla la renovación de la zona central de este enclave a través de una superficie de hormigón pulido sobre la que se rotularán juegos tradicionales. Se trata de una iniciativa que se ha venido desarrollando en los últimos años en patios de centros educativos con resultados positivos. Esta nueva superficie se caracteriza además por su gran resistencia a las condiciones climáticas que prolongan su uso unidas a propiedades antideslizantes.
-
-
-Igualmente, se procederá a la renovación de la zona de juegos infantiles que hasta el momento presentaba una base de caucho, actualmente en mal estado de conservación. Pasará ahora a tener aspecto de césped artificial, que entre sus cualidades el Ayuntamiento destaca que responde a la normativa y minimiza los impactos en caso de caídas. Se actualizarán además los juegos existentes a través de la sustitución del tobogán actual por uno nuevo de acero inoxidable y los juegos biosaludables instalados. Se respetarán los árboles del entorno que se plantaron recientemente y se instalarán dos nuevos bancos junto a papeleras.</description>
+El de Sevilla es el cuarto caso que se investiga, tras los dos aparecidos en Málaga y uno en Puerto Real (Cádiz). Ninguno de ellos ha sido hasta ahora confirmado como «coronavirus».</description>
 <category domain="Sevilla">Sevilla</category>
-<pubDate>Sun, 23 Feb 2020 13:39:39 +0100</pubDate>
-<guid>https://sevilla.abc.es/sevilla/sevi-ayuntamiento-aprueba-obras-para-mejora-parques-empresariales-store-y-parsi-300000-euros-202002231339_noticia.html</guid>
+<pubDate>Tue, 25 Feb 2020 18:58:58 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-virgen-macarena-sevilla-aisla-paciente-para-comprobar-si-tiene-corona-virus-202002251858_noticia.html</guid>
     <dc:creator>(sevilla)</dc:creator>
 </item>
 <item>
-<title>El PP pide una línea de ayudas a comunidades de vecinos para el mantenimiento de zonas verdes</title>
-<link>https://sevilla.abc.es/sevilla/sevi-pp-pide-linea-ayudas-comunidades-vecinos-para-mantenimiento-zonas-verdes-202002231334_noticia.html</link>
-    <description>&lt;img align=&quot;left&quot; src=&quot;https://static3-sevilla.abc.es/media/sevilla/2020/02/23/s/PP-ALMENAS-arbol-ks9G--620x349@abc.jpeg&quot;&gt;El Partido Popular ha solicitado al gobierno socialista, liderado por Juan Espadas, una línea de ayudas a comunidades de vecinos «con zonas verdes de naturaleza privada pero de uso público».
+<title>El derrumbe de la finca en el Casco Antiguo obliga al desalojo de un inmueble por seguridad</title>
+<link>https://sevilla.abc.es/sevilla/sevi-derrumbe-finca-casco-antiguo-obliga-desalojo-inmueble-seguridad-202002251854_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/25/s/derrumbe-obra-finca-k1EE--620x349@abc.jpg&quot;&gt;Una familia, que reside en el callejón Prada, ha tenido que abandonar su vivienda como medida de seguridad tras el derrumbe que se ha producido en una finca anexa que está en obras. El accidente, ocurrido este martes, pasadas las doce del mediodía, ha dejado dos heridos. Se trata de dos trabajadores que se encontraban en el tajo cuando se vino abajo un muro que estaba sujetado por unas cimbras. Fuentes municipales han confirmado a ABC que hay abierta una investigación para aclarar por qué ese muro se soltó de unas sujeciones que aguantaban una de las fachadas de un inmueble de grandes dimensiones que ocupa casi una manzana.
 
 
-Esta propuesta la hace el portavoz popular, Beltrán Pérez, en el marco de una visita a la barriada de las Almenas, en la que viven 400 familias que «hacen un notable esfuerzo por el mantenimiento de sus zonas verdes que, en lo práctico, es disfrutada por cualquier vecino del entorno al ser de uso público».
+El inmueble donde reside la familia desalojada ha sido precintado para impedir el paso a otros posibles ocupantes ya que en la finca hay varias viviendas, indican las mismas fuentes oficiales. Esta medida se ha acordado después de que los bomberos realizaran una inspección de la zona y ordenaran a la empresa promotora de las obras donde se ha producido el accidente, que proceda al derribo controlado del resto de estructuras que están en riesgo de desprenderse.
 
 
-Pérez ha explicado en un comunicado que «el objeto de esta propuesta es instaurar una línea de ayudas, en régimen de concurrencia competitiva, para contribuir al mantenimiento y conservación de las zonas verdes o jardines, que aún siendo de naturaleza privada, mantienen el uso público, como cualquier otro espacio de la ciudad».
+El aviso del desplome del muro llegaba sobre las 12.25 de la mañana. Las primeras noticias apuntaban a que podría haber varias personas atrapadas entre los escombros. Por ese motivo, los bomberos activaron a su unidad de rescate canina. En concreto, al lugar se desplazó una perra de aguas de nombre Dora con su guía Sergio y un pastor alemán, que se llama Upsy de Montefiero, con su guía Andrés. 
 
 
-Pérez ha señalado que «esta propuesta fue elevada al pleno municipal en diciembre de 2017 siendo respaldada por unanimidad». «Sin embargo, el gobierno socialista, como ocurre con tantas propuestas que prosperan en el plenario, no ha hecho absolutamente nada», ha advertido el portavoz popular. 
+Tras rescatarse a las dos heridos, que presentaban diversas contusiones, los perros inspeccionaron el lugar del derrumbe y el rastreo, por suerte, arrojó un resultado negativo. 
 
 
-«Las comunidades de vecinos siguen esperando que el Consistorio anuncie la convocatoria para esa línea de ayudas a las acogerse y, así, poder aliviar la dura y costosa carga que para muchas de ellas supone tener un patrimonio verde que todo el mundo disfruta en perfecto estado», ha explicado.
-
-
-Además, ha indicado que en el caso concreto de la barriada de las Almenas hay un árbol de grandes proporciones afectado por el último temporal de vientos y que «tiene parte de su tronco y copa desplomado sobre un edificio». «Ese árbol constituye, en estos momentos, un verdadero peligro y los vecinos no están recibiendo ningún tipo de ayuda ni respuesta por parte de la administración municipal», ha explicado Pérez.
-
-
-«Han solicitado ayuda al distrito para que se haga cargo del apeo del ejemplar y la única medida adoptada por el gobierno ha sido acordonarlo», ha apuntado Beltrán Pérez, a la vez que ha insistido en que «es necesario colaborar y prestar ayuda a las comunidades de vecinos, Agrupaciones de Comunidades de Propietarios de edificios de viviendas e incluso a las Entidades urbanísticas de Conservación, legalmente constituidas, en atención al esfuerzo que deben realizar para mantener las zonas verdes de su entorno para que pueden ser disfrutadas por cualquier persona».
-
-
-De hecho, para el Partido Popular, las zonas verdes y jardines de uso público «deben mantener las mismas condiciones de seguridad, cuidado y limpieza que las que son de titularidad municipal» y, para ello, «están pensadas estas ayudas y siempre hasta el momento en que dichas barriadas sean recepcionadas por el Ayuntamiento y realmente se asuma el coste de esos trabajos por el municipio».</description>
+Hay abierta una investigación para aclarar qué pudo ocurrir para que fallaran varias cimbras. Las obras que se están ejecutando cuentan con permiso municipal. Según detallan desde el Ayuntamiento, se concedió licencia de obra en julio de 2018 para la reforma integral del inmueble donde se ha proyectado la construcción de trece viviendas, repartidas en dos plantas y áticos. Además, el proyecto contempla un garaje en el sótano para trece plazas de aparcamiento.</description>
 <category domain="Sevilla">Sevilla</category>
-<pubDate>Sun, 23 Feb 2020 13:34:49 +0100</pubDate>
-<guid>https://sevilla.abc.es/sevilla/sevi-pp-pide-linea-ayudas-comunidades-vecinos-para-mantenimiento-zonas-verdes-202002231334_noticia.html</guid>
+<pubDate>Tue, 25 Feb 2020 18:54:40 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-derrumbe-finca-casco-antiguo-obliga-desalojo-inmueble-seguridad-202002251854_noticia.html</guid>
     <dc:creator>(sevilla)</dc:creator>
 </item>
 <item>
-<title>Juzgan este lunes al militar brasileño detenido en el aeropuerto de Sevilla con 37 kilos de cocaína</title>
-<link>https://sevilla.abc.es/sevilla/sevi-juzgan-este-lunes-militar-brasileno-detenido-aeropuerto-sevilla-37-kilos-cocaina-202002231301_noticia.html</link>
-    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/23/s/droga-bolsonaro-sevilla-kuWB--620x349@abc.jpg&quot;&gt;El tribunal de la Sección Séptima de la Audiencia Provincial de Sevilla juzga este lunes a Manoel S.R., el militar brasileño que formaba parte de una expedición de avanzadilla previa al viaje programado a Japón por el presidente brasileño, Jair Bolsonaro, y que fue detenido el pasado 25 junio en el aeropuerto de Sevilla con 37 kilogramos de cocaína dentro de una maleta que llevaba consigo.
+<title>La movilización agraria en Carmona: sin incidentes ni «ruido»</title>
+<link>https://sevilla.abc.es/sevilla/sevi-movilizacion-agraria-carmona-sin-incidentes-ruido-202002251715_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static2-sevilla.abc.es/media/sevilla/2020/02/25/s/carmona-juan-flores-kRVG--620x349@abc.jpeg&quot;&gt;La manifestación de agricultores convocada en el punto de Carmona, donde se han concentrado unos 5.000 productores agrarios y unos 1.000 tractores, ha finalizado sin ningún tipo de incidentes.
 
 
-Por estos hechos, el Ministerio Público solicita para este militar una pena de ocho años de prisión y una multa de cuatro millones de euros por un delito contra la salud pública, en su modalidad de sustancias que causan grave daño a la salud. No obstante, el juicio podría quedar aplazado ante la conclusión de una de las pruebas solicitada por su defensa.
-
-
-En su escrito de acusación, al que ha tenido acceso Europa Press, el Ministerio Fiscal expone que el procesado, sobre las 14 horas del 25 de junio de 2019, tras venir junto a otros 20 pasajeros de un vuelo militar de la Brasilian Air Force pasó por el control aduanero del aeropuerto de Sevilla donde la Guardia Civil intervino, en una maleta de su propiedad, «37 bloques rectangulares de una sustancia que debidamente analizada resultó ser cocaína» con un peso de 37 kilos y una pureza base del 80,14 por ciento. Su valor alcanzaba en torno al millón y medio de euros en el mercado clandestino.
-
-
-Así, los agentes del Instituto Armado intervinieron al inculpado, además de la sustancia estupefaciente, un portatrajes con un uniforme militar, un teléfono móvil, una cartera con documentación con dólares y reales brasileños, así como otros efectos.
-
-
-A mediados de octubre la juez instructora dictó un auto en el que ordenó la apertura de juicio oral contra el militar del país sudamericano tras recibir el escrito de calificación de la Fiscalía en el cual interesaba que se ordenara la apertura de juicio oral y se instara a la representación legal del militar brasileño a redactar un escrito de defensa.
-
-
-De esta manera, las diligencias de esta causa fueron remitidas a la Audiencia Provincial de Sevilla quien ha ordenado su enjuiciamiento, procedimiento que será independiente del que se pueda tomar contra Manoel en su país de origen.</description>
-<category domain="Sevilla">Sevilla</category>
-<pubDate>Sun, 23 Feb 2020 13:01:49 +0100</pubDate>
-<guid>https://sevilla.abc.es/sevilla/sevi-juzgan-este-lunes-militar-brasileno-detenido-aeropuerto-sevilla-37-kilos-cocaina-202002231301_noticia.html</guid>
-    <dc:creator>(sevilla)</dc:creator>
-</item>
-<item>
-<title>Instalaciones públicas que se pudren, la cara B del deporte en Sevilla</title>
-<link>https://sevilla.abc.es/sevilla/sevi-instalaciones-publicas-pudren-cara-deporte-sevilla-202002230753_noticia.html</link>
-    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/23/s/sevilla-piscina-ayuntamiento-k3fH--620x349@abc.jpg&quot;&gt;Todas las miradas se centran este fin de semana en el Zurich Maratón. El lustre de este evento reviste a Sevilla de cierto halo de vanguardia deportiva, algo que, en buena medida, evita que muchos reparen en detalles algo más alejados de las cámaras y que afectan al deporte base. La ciudad ha dirigido en los últimos años casi todos sus esfuerzos a la organización de carreras, principalmente el maratón, que ha escalado posiciones en el escalafón internacional colocándose entre los mejores del planeta, así como al fomento del cross y el propio «running». 
-
-
-En ese ámbito, la capital andaluza es ahora mismo un referente. Pero el deporte va mucho más allá y en son numerosos los escenarios de práctica deportiva sin cámaras ni focos donde los problemas por falta de mantenimiento o reparación impiden el disfrute ciudadano. El contrapunto a esa apuesta por el deporte de moda se encuentra en el deterioro, la mala gestión o el deficiente cuidado de un puñado de 
-infraestructuras públicas, tanto las que estaban llamadas a ser referentes como aquellas más básicas, las del barrio o el distrito, donde también hay carencias significativas. La cara B del maratón tiene también un recorrido particular en Sevilla. 
+Poco antes de las diez de la mañana comenzaban a llegar los primeros manifestantes al polígono industrial El Pilero, donde se han reunido los dirigentes de las organizaciones agrarias convocantes: Asaja, COAG, UPA y Cooperativas Agro-alimentarias.
 
 
 
-
-La instalación que ocupa actualmente la primera plana en ese sentido es la pista de atletismo del estadio de la Cartuja, recinto que ha estado veinte meses cerrado por los desperfectos en su cubierta tras años de pésimo o nulo mantenimiento de la Junta de Andalucía, cuyos nuevos gestores han decidido reflotarlo a base de grandes conciertos y fútbol. Para este segunda actividad, eso sí, se contempla como alternativa sólida la eliminación del tartán sobre el que se disputó el Mundial de Atletismo al aire libre de 1999, en un estado de decrepitud evidente. Con la reparación de la cubierta, el estadio va a recuperar este año su actividad, siendo sede de la final de la Copa del Rey de fútbol el 18 de abril, pero muy probablemente su porvenir sólo se afiance si se retiran las pistas, de modo que se perderá el principal referente del atletismo en la ciudad. Deporte Andaluz ya estudia esa posibilidad cierta de eliminar el viejo tartán (que está impracticable) para convertir el coliseo en un gran estadio sólo de fútbol. 
-
-
-Del Europeo al abandono
-De los grandes eventos que albergó la ciudad hace varios lustros se mantiene un vestigio aún en peores circunstancias que el gran estadio cartujano: la piscina olímpica de San Pablo, única de esas dimensiones en Sevilla y que lleva la friolera de doce años cerrada, abandonada y en deplorable estado a pesar de estar ubicada en el epicentro del deporte municipal, la sede del Instituto Municipal de Deportes (IMD) y ser el Ayuntamiento el responsable de la misma. 
+La protesta ha transcurrido de manera pacífica y tranquila durante todo el recorrido, donde se han podido ver también algunos menores acompañando a sus padres. La hilera de tractores y de manifestantes salía del polígono en dirección a la A-4, donde el tráfico quedó interrumpido en los dos sentidos, a excepción de los dos carriles izquierdos, que quedaron despejados para una posible evacuación. 
 
 
 GALERÍA
@@ -788,89 +808,140 @@ GALERÍA
 
 
 
-Vea la galería completa (21 imágenes)
+Vea la galería completa (15 imágenes)
 
-Una docena de años y ni un euro dispuesto para arreglar el escenario del Europeo de Natación de 1997. La piscina se cerró diez años después de aquel hito, en 2007; según explicó el gobierno local de entonces (PSOE-IU), para arreglar la cubierta. Otra cubierta con negra historia... «En unos meses volverá a abrirse», se aseguró. Pero no han pasado meses sino años sin noticia alguna. El retraso de las obras se justificó en un primer momento en que los plazos del concurso de ideas convocado por el IMD se habían extendido demasiado. Luego, además, se supo que el presupuesto del Ayuntamiento para los trabajos no se pudo aprobar hasta mayo de 2009 y que ascendía ya a 3,5 millones puesto que no sólo hacía falta cambiar la cubierta sino mucho más. 
-
-
-Además, el proyecto recibió incluso una subvención de la Junta de Andalucía de 80.000 euros pero se mantuvo en el cajón sin que el gobierno local supiera usarlos para esa obra; hubo que devolver la subvención. Tampoco el gabinete del popular Juan Ignacio Zoido resolvió la cuestión y no destinó un euro a reflotar la instalación olímpica pese a las evidentes necesidades. 
+Cerca de las 12:00 horas empezaban a formarse las primeras retenciones de tráfico por la protesta, que se han mantenido puntualmente hasta las 14:00 horas. Los conductores que se han visto «atrapados» por la manifestación en la A4 se lo han tomado con calma, y ni siquiera se ha escuchado el sonido del claxon como protesta por la retención, solidarizándose  así con los agricultores.
 
 
-El primer mandato del socialista Juan Espadas también transcurrió en blanco, aunque desde su equipo se aseguró que existe un proyecto ya redactado que incluye la reforma de la cubierta y mejoras generales también en el vestuario y la maquinaria. Su coste, eso sí, supera los seis millones, motivo por el que el gobierno local se detuvo a «encontrar el marco de financiación y el momento en el que se pueda llevar a cabo una iniciativa de esta envergadura». A efectos prácticos, todavía nada.
+Finalización puntual
+
+A las 13:45, la Guardia Civil empezaba a despejar a los viandantes que tomaban la autovía, que regresaban en dirección a Carmona, y alrededor de las 14:00 horas lo han hecho también los tractores, dando por finalizada la manifestación. 
 
 
-Entre los espacios deportivos públicos diseminados por la ciudad, varios también mantienen una imagen muy alejada de lo que debería ser un servicio público de calidad o de primer nivel deportivo. Un clásico en este apartado es el complejo deportivo de Arjona, entre el Barranco y el puente del Cachorro. Muchos espacios del mismo están cedidos al club de piragüísmo Triana, pero las pistas deportivas públicas (fútbol sala y baloncesto) presentan un notable deterioro (porterías, redes, firme, carteles pintados a mano y colgados con cuerdas en el acceso…) sólo superado por el del entorno del propio recinto, que suma años de verdadera degradación. En ese aspecto, el cercano parque para patinadores de Plaza de Armas sufre el mismo problema, con unos accesos tercermundistas de los que las asociaciones que practican esta actividad se han quejado en varias ocasiones. 
-
-
-
-
-Otro de los espacios que más años acumulan sin mejora alguna en varias de sus instalaciones es el centro deportivo Parque Amate. Aunque oficialmente se indica que tiene pista de fútbol sala, ésta no es más que un pedazo resquebrajado de viejo hormigón que se usa para que aparquen los coches de quienes van a usar esas instalaciones, que el Ayuntamiento tiene concedidas hasta este año 2020 al club deportivo Jorge Juan. Tanto esa zona de la supuesta «pista», con sus porterías destrozadas y oxidadas en los casos en que aguantan, como el entorno y los accesos presentan un aspecto bastante deteriorado. Y en los alrededores del propio pabellón de Amate, ya junto a la SE-30, el descuido es la nota característica, aunque el montaje del terreno de juego para el béisbol hace varios años supuso una leve mejoría y que regresase la actividad después de que quedara abandonado aquel espacio y la pista de hockey hierba. Un caso calcado al de Amate es el que se produce en el centro deportivo San Pablo Fútbol, más conocido como El Pilar: se reformó el campo grande y se le puso césped artificial, pero las supuestas pistas de futbito anexas no son más que un trozo de hormigón abandonado y rodeado de maleza. Impracticable la cancha e inhóspito el perímetro.
-
-
-En relación al llamado «deporte rey», también cabe subrayar el lamentable deterioro de las instalaciones deportivas de la calle Francisco Buendía, los conocidos campos de Marqués de Contadero, junto a la Ciudad Jardín, propiedad de la Federación Andaluza de Fútbol. El cerramiento presenta roturas frecuentes y es muy llamativa la mala conservación de la parcela, donde se acumula basura y maleza desde hace meses. Desde el grupo municipal de Izquierda Unida se denunció, incluso, que en la parte de la parcela que colinda con el complejo del antiguo matadero municipal y con el edificio de la Delegación Territorial de Educación, «existe un enorme agujero en la valla y por donde hay personas que acceden al solar para consumir alcohol y estupefacientes». El preocupante estado de abandono de la parcela, destinada a equipamiento deportivo, ha motivado reiteradas quejas vecinales. 
-
-
-También en los Bermejales y Bami se han producido protestas de usuarios por el mal estado de las pistas de pádel, un deporte que ha cobrado mucho auge en los últimos años y que no es fácil practicar en algunas instalaciones de carácter público. Otro punto con importantes carencias es el centro deportivo Pino Montano, cuyas instalaciones vienen presentando diversos problemas a los usuarios que tuvieron su culmen en la inundación del pabellón cubierto a finales de diciembre. La cancha de baloncesto tampoco ha podido usarse en numerosas ocasiones por un problema en el motor que mueve las canastas. 
-
-
-El personal ha denunciado que muchos días sólo hay disponible un operario de mantenimiento en todo el recinto. En el polideportivo municipal El Paraguas, de Triana, las goteras han sido habituales en los últimos inviernos, dificultando enormemente la práctica deportiva en algunas zonas por el peligro de resbalones. Cerca, en Vega del Rey, los accesos y el entorno de las pistas del Charco de la Pava presentan un aspecto que dista mucho del buen mantenimiento y la excelencia en los servicios públicos. 
-
-
-Piscinas cubiertas
-Sí se ha producido una variación relevante en lo que atañe a dos piscinas que vienen presentando problemas importantes por los desperfectos en su cubierta. Por una parte, el Instituto Municipal de Deportes (IMD) anunció hace varios meses que este año se podrá acometer, ya con nuevos presupuestos en vigor, la instalación de la cubierta de la piscina de Torreblanca, a la que se ha destinado un millón de euros. Para la piscina municipal de Alcosa, se han previsto obras de mejora por 110.000 euros para sustituir la actual cubierta, que ha dado muchos problemas, por otra más eficiente energéticamente. 
-
-
-En cuanto a la piscina del centro deportivo Virgen de los Reyes, tras dos años de idas y venidas se han adjudicado recientemente, y al fin, los trabajos para su reforma y la puesta en marcha de nuevas instalaciones en un complejo que era una referencia y lleva ya seis años cerrado por deficiencias de seguridad, higiénicas y sanitarias, por lo que se retiró la concesión a su gestora. También pasó años en el limbo la piscina del Tiro de Línea, reformada y reabierta en junio de 2018 tras resolverse múltiples problemas técnicos.
-
-
-
-
-Nueva pista de atletismo de San Pablo, de color azul - ABC
-El alivio de la nueva pista de atletismo en San Pablo
-En abril del año pasado, el Instituto Municipal de Deportes (IMD) del Ayuntamiento de Sevilla culminó una de las reformas más esperadas por los deportistas sevillanos reabriendo la pista de atletismo al aire libre de San Pablo. Respondía así la administración local a una reclamación que llevaba años sobre la mesa a causa del pésimo estado del tartán en el que se entrenaban cientos de atletas a diario. La instalación fue renovada plenamente usando el color azul tras la consulta popular a través de redes sociales con varios millares de participantes. Además, se añadió a ese equipamiento una pista exterior fabricada en césped artificial en sustitución de la superficie previa de hormigón que se usaba para entrenar y estaba muy deteriorada. La reforma supuso una inversión de más de 400.000 euros. Más allá del tinte electoral de reabrir un mes antes de las elecciones municipales, el de la pista de San Pablo ha sido uno de los hitos del gobierno local socialista en lo que a inversiones para el deporte base se refiere. El concejal David Guevara impulsó, además, la incorporación de pequeños espacios públicos que no eran estrictamente municipales para mejorar su estado y su gestión. Y, por otro lado, se llevó a cabo un plan de reformas e inversiones en centros deportivos durante el pasado mandato que incluía, sobre todo, nuevos campos de césped artificial que se han habilitado por toda la ciudad y otros 350.000 euros para mejoras de fontanerías y electricidad en centros deportivos.</description>
+La manifestación ha estado también secundada por los alcaldes de muchos ayuntamientos de la provincia, como es el caso de Carmona, Lora del Río, Tocina, La Campana, Burguillos y El Viso del Alcor.</description>
 <category domain="Sevilla">Sevilla</category>
-<pubDate>Sun, 23 Feb 2020 07:53:54 +0100</pubDate>
-<guid>https://sevilla.abc.es/sevilla/sevi-instalaciones-publicas-pudren-cara-deporte-sevilla-202002230753_noticia.html</guid>
+<pubDate>Tue, 25 Feb 2020 17:15:05 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-movilizacion-agraria-carmona-sin-incidentes-ruido-202002251715_noticia.html</guid>
     <dc:creator>(sevilla)</dc:creator>
 </item>
 <item>
-<title>El Hospital San Lázaro de Sevilla atendió el pasado año a más de 2.500 pacientes pluripatológicos</title>
-<link>https://sevilla.abc.es/sevilla/sevi-hospital-san-lazaro-sevilla-atendio-pasado-mas-2500-pacientes-pluripatologicos-202002230753_noticia.html</link>
-    <description>&lt;img align=&quot;left&quot; src=&quot;https://static4-sevilla.abc.es/media/sevilla/2020/02/21/s/sanlazaro-pacientes-pluripatologicos-U55120141468qKs-620x349@abc.jpg&quot;&gt;El Hospital San Lázaro cuenta con una unidad de atención a pacientes pluripatológicos, dependiente del Servicio de Medicina Interna del Hospital Universitario Virgen Macarena, que atendió el pasado año a más de 2.500 pacientes. Esta unidad da respuesta tanto a los especialistas de Medicina Familiar y Comunitaria, como a las unidades de Urgencias, en lo referente a las necesidades asistenciales que estos pacientes y sus familiares precisan. Estos pacientes también pueden ser derivados por las distintas especialidades hospitalarias. 
-
-
- Esta nueva modalidad asistencial generó 6.342 consultas, siendo su mayoría en consultas (54%) y con unos programas tan específicos como el de administración de ciclos de furosemida intravenosa en la Insuficiencia Cardíaca, paracentesis periódicas, administración de hierro y transfusiones y nutrición parenteral, que evitaron el ingreso hospitalario de estos pacientes. 
-
-
-Dentro de la misma se realizan consultas virtuales, en los que el paciente solo viene a consulta presencial si el facultativo responsable lo considera necesario, recibiendo en caso contrario un informe por correo previo contacto con el mismo.
+<title>Agricultores de la AP-4: «No podemos asumir los mismos precios de hace 30 años»</title>
+<link>https://sevilla.abc.es/sevilla/sevi-agricultores-ap-4-no-podemos-asumir-mismos-precios-hace-30-anos-202002251653_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/25/s/corte-lebrija-ahernandez-kxoD--620x349@abc.jpg&quot;&gt;Los organizadores de las concentraciones de agricultores en el Bajo Guadalquivir valoran de forma positiva las acciones llevadas a cabo en la carretera N-4 y en la autopista Sevilla-Cádiz. Tanto en el punto kilométrico 608 de la carretera nacional como en el 54 de la autopista, numerosos tractores y agricultores han cortado el tráfico, si bien en la N-4 los cortes fueron intermitentes y en la autopista solo se abrió la muralla humana una vez, manteniendo el corte en los dos sentidos, hacia Sevilla y hacia Cádiz. 
 
 
 
- La Unidad cuenta con un Hospital de Día Polivalente con 22 sillones, 6 camas y tres consultas médicas, que en horario de mañana y tarde – de lunes a viernes- atiende a pacientes pluripatológicos que precisan bien una administración intravenosa de fármacos o transfusiones de sangre, bien maniobras invasivas como paracentesis o toracocentesis, bien consulta preferente diagnóstica o de revisión, u otros servicios. 
+«Hemos cumplido los objetivos marcados para esta reivindicación», ha indicado a ABC a pie de carretera el presidente de la Cooperativa Las Marismas de Lebrija, Juan Sánchez, que ha estimado en más de 500 tractores los participantes en los dos cortes, más de 300 de Lebrija y el resto de Las Cabezas, y más de 3.000 agricultores procedentes de estas dos localidades y de El Cuervo, Los Palacios, El Coronil, Utrera, El Palmar de Troya, Montellano y todas las pedanías del Bajo Guadalquivir. 
 
 
- Con esto se evita tener que acudir al Servicio de Urgencias del Hospital Virgen Macarena, de forma que posibilita la vuelta a casa del paciente ese mismo día. Para el coordinador del equipo profesional de la Unidad, el especialista en Medicina Interna, Salvador Alegre, «esto supone una comodidad para el paciente y la familia, y una clara mejora de su calidad de vida, además de prevenir complicaciones derivadas de la hospitalización, como son las infecciones nosocomiales. También supone un importante ahorro de recursos sanitarios», añade. 
+La convocatoria contemplaba el corte en la autopista pero no en la Nacional. Fueron los agricultores de Las Marismas los que optaron unilateralmente por cortar la N-4. «No nos hemos desmarcado», ha asegurado Sánchez, «nos iban a meter donde no cabíamos y decidimos quedarnos en la N-4 para que se nos visualice mejor». Finalmente, los agricultores llegaron a un acuerdo con la Guardia Civil y relajaron el corte de tráfico abriéndolo cada quince minutos y sacando los tractores a la cuneta de la carretera.
 
 
- Para poder hacer uso de este recurso asistencial, los propios médicos de Atención Primaria pueden contactar directamente con los facultativos de la citada Unidad si hay una necesidad con respuesta urgente; pueden remitir una solicitud de consulta o tratamiento si es posible por cita reglada, o bien a través de los equipos de Urgencias. «Siempre hay disponibles seis puestos del Hospital de Día para las necesidades que puedan aparecer las 24 horas del día en el Servicio de Urgencias hospitalario», dice Alegre. 
+Mientras los ánimos se calmaban en la Nacional, a poco más de un kilómetro, en el punto kilométrico 54 de la autopista, la tensión subía por momentos ante la negativa de los manifestantes a realizar cortes intermitentes. El coordinador de Asaja en Lebrija, Juan Luis Gutiérrez, ha sido el que ha mantenido las conversaciones más tensas con los mandos del Instituto armado que controlaban el tráfico.
 
 
-Además atiende pacientes crónicos reingresadores procedentes del propio Servicio de medicina Interna con el objetivo de intentar evitar mayor número de ingresos hospitalarios, junto con la posibilidad del ingreso hospitalario directamente desde el domicilio del paciente, sin requerir su paso por Urgencias, lo que hace mucho más eficaz y cómodo el trámite para una hospitalización. 
+GALERÍA
 
 
- Coordinados por este doctor, el equipo que integra la Unidad de Pacientes Pluripatológicos y hospital de día, se compone de dos médicos especialistas más en Medicina Interna, una enfermera supervisora y un total de cinco enfermeros, a los que se suma una auxiliar de enfermería y un equipo administrativo. Igualmente, la Unidad cuenta con el apoyo de una trabajadora social y un psicólogo adscrito a la Unidad de Paliativos, para una adecuada atención integral del paciente pluripatológico y sus familias. 
 
 
- Actualmente, para mejorar la atención de estos pacientes en el Hospital de San Lázaro, cuenta con un total de 24 camas en el que además de poder ingresar estos pacientes se encuentra la Unidad de paliativos y la presencia de pacientes crónicos socio sanitarios» que permite llevar a cabo un ingreso más personalizado y reducir la estancia hospitalaria. 
 
 
-Asimismo, se encuentra coordinada esta unidad, con los equipos de Cuidados Paliativos cuando se hace necesaria la intervención de los mismos. Los pacientes y familiares son atendidos en el ingreso hospitalario por los mismos profesionales que los atienden en consultas y Hospital de Día, y esto supone una mayor calidad y calidez de la atención, que se traduce en una mayor satisfacción por parte de pacientes y familiares. 
 
 
- Alegre dice que «aconsejamos a los pacientes y familiares que piensen que pueden beneficiarse de esta modalidad asistencial, pregunten a los profesionales de su centro de salud, y cada vez que tengan que acudir a su centro hospitalario ya sea por urgencias, o por consulta de otros especialistas». «Aquí en la Unidad de Atención de los Pacientes Pluripatológicos pueden ser atendidos desde una perspectiva integral por los especialistas de Medicina Interna, ofreciendo una mayor accesibilidad y cercanía en la atención», asegura.</description>
+
+
+
+
+Vea la galería completa (11 imágenes)
+
+Enfado de los agricultores
+Gutiérrez ha manifestado a este medio que «a los agricultores no nos pagan nada, estamos haciendo el canelo después de llevar cuarenta años sufriendo en la agricultura». El agricultor ha culpado a Pedro Sanchez y a «el coletas» de no hacer nada por el sector y, manifestándose con un profundo acento del Bajo Guadalquivir, se ha preguntado que, si todo seguía igual «¿dónde me voy yo, me meto debajo de un eucalipto?».
+
+
+
+El enfado de los manifestantes se ha centrado en los bajos precios que reciben por su producciones y así lo dejaron claro los representantes de cooperativas de la comarca. Socorro Moreno, presidenta de Utreace, 110 socios con pequeñas explotaciones familiares que producen aceituna de mesa gordal, se quejaba de que «producimos con costes europeos y competimos con productos africanos». En particular, su variedad de aceituna mantiene una dura competencia con una parecida que viene de Egipto «y cuyos costes de producción son muy bajos». 
+
+
+«Las materias primas suben y los precios de los productos, no», ha insistido Felipe Miranda, gerente de la Cooperativa San Roque de El Coronil, que cuenta con 350 agricultores con explotaciones pequeñas de cereales y oleaginosas. Según Miranda, «las ventas disminuyen año tras año y los costes de producción y transporte suben todos los años».
+
+
+Por la Cooperativa Los Ángeles de Montellano, productora de cereales y aceite al 50 por ciento y con 920 socios propietarios de pequeñas y medianas explotaciones, Juan Rafael Guerrero ha asegurado que «el aceite este año está al 50 por ciento del precio de los últimos tres años; estamos vendiendo a menos de tres euros, prácticamente a pérdida». Guerrero ha subrayado que «la producción se la llevan los gastos».
+
+
+Mismos precios que hace 30 años
+Rafael Castillo, de la cooperativa Arroceros del Bajo Guadalquivir, con 173 socios que se reparten más de 3.800 hectáreas de la margen izquierda del Guadalquivir en la zona de Los Palacios, ha apuntado que «sufrimos la invasión de otros arroces procedentes de Vietnam, Camboya y Brasil, que nos hacen competencia desleal mientras nosotros hacemos producción integrada y sostenible». Castillo ha recalcado que «llevamos 30 años con el mismo precio mientras se duplican y triplican los gastos».
+
+
+
+En el mismo sentido, el presidente de la Cooperativa La Campiña de Lebrija, Miguel Falcón, ha manifestado que «los precios están tirados por los suelos y los gastos van al alza todos los años, acabaremos asfixiándonos». La Campiña está integrada en Agroquivir, cooperativa de segundo grado que suma más de 1.200 agricultores de Lebrija, Las Cabezas, Maribáñez y El Trobal.</description>
 <category domain="Sevilla">Sevilla</category>
-<pubDate>Sun, 23 Feb 2020 07:53:48 +0100</pubDate>
-<guid>https://sevilla.abc.es/sevilla/sevi-hospital-san-lazaro-sevilla-atendio-pasado-mas-2500-pacientes-pluripatologicos-202002230753_noticia.html</guid>
+<pubDate>Tue, 25 Feb 2020 16:53:38 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-agricultores-ap-4-no-podemos-asumir-mismos-precios-hace-30-anos-202002251653_noticia.html</guid>
+    <dc:creator>(sevilla)</dc:creator>
+</item>
+<item>
+<title>Así ha sido la histórica y multitudinaria tractorada de Sevilla que ha recorrido la provincia</title>
+<link>https://sevilla.abc.es/sevilla/sevi-sido-historica-y-multitudinaria-tractorada-sevilla-recorrido-provincia-202002251637_noticia.html</link>
+    <description>&lt;img align=&quot;left&quot; src=&quot;https://static1-sevilla.abc.es/media/sevilla/2020/02/25/s/tractorada-juanflores-kIfD--620x349@abc.jpeg&quot;&gt;Si hay una imagen que ha llamado la atención en la tractorada de la A-4, una de cuatro que ha recorrido la provincia de Sevilla este martes, era el silencio de los vehículos retenidos tras la larga columna de tractores. Ni pitidos ni protestas a voz en grito de los conductores «paralizados». «Eso demuestra que la sociedad está con nosotros, que con estas manifestaciones estamos dando a conocer lo mal que lo está pasando el campo», afirmaban algunos de los agricultores presentes. 
+
+
+Y es que la «histórica» tractorada, como la han calificado las organizaciones convocantes (Asaja, COAG, UPA y Cooperativas Agro-alimentarias), ha finalizado sin incidentes relevantes, a pesar de que ha cortado cuatro de las principales carreteras sevillanas. 
+
+
+Respecto a la capital hispalense, la protesta agraria tan solo ha tenido repercusiones en algunos autobuses metropolitanos, que ya anunciaban que variarían su recorrido en municipios como Benacazón o Carmona. 
+
+
+Aparte de eso, no se han registrado altercados de importancia por parte de los agricultores y, aunque ha habido algunos conatos de tensión en puntos como Aguadulce, han sido rápidamente controlados por la Guardia Civil.
+
+
+GALERÍA
+Vea la galería completa (0 imágenes)
+
+En total, han sido 16.000 agricultores y ganaderos, y 5.000 tractores, según el balance que manejan las organizaciones, los que han participado en los cuatro puntos de las protestas: la A-4, a la altura de Carmona, la A-92, en Aguadulce, la A-49, en la salida de Benacazón, y la antigua AP-4, junto a Lebrija y El Cuervo.
+
+
+El corte en la A-4
+El día ha comenzado temprano, algo nada extraño para este sector, en la mayoría de los pueblos de la provincia: era la hora de encaminarse a la gran manifestación, que ha estado acompañada de un paro agrario que han secundado numerosas empresas, como Agrosevilla o cooperativas como CorSevilla o SCA Herrera, que no han abierto sus puertas este martes para mostrar su apoyo a las movilizaciones. 
+
+
+En la A-4, el inicio estaba en el Polígono El Pilero, donde los representantes de las organizaciones agrarias coincidían en sus reivindicaciones: precios justos para sus productos, defensa ante la competencia desleal de terceros países y un impulso al relevo generacional. 
+
+
+Aunque en principio estaba previsto que la Autovía A-4 se cortase tan solo en dirección Madrid, sí ha habido momentos en los que los dos sentidos de la carretera han estado ocupados por manifestantes y tractores. No obstante, la Guardia Civil ha dejado en todo momento un carril libre para emergencias.
+
+
+Presencia masiva en la A-92
+Por su parte, en la A-92, dicho carril de emergencias ha servido para dejar el paso a varias ambulancias lo que, a juicio de los convocantes, ha demostrado «el buen funcionamiento» de la manifestación. «No ha sido fácil reunir a tanta gente», insistía Emilio Vieira, de Asaja Sevilla, que ha reconocido que el único incidente «con cierta importancia» ha estado protagonizado por el Sindicato Andaluz de Trabajadores, cuyos miembros «han sido rápidamente aislados por la Guardia Civil, ya que solo querían su minuto de fama». 
+
+
+La de Aguadulce, que ha discurrido desde las inmediaciones del área de servicio de El Caserío hasta la salida a Gilena, ha sido la más numerosa de la provincia, con 1.000 tractores. Puede leerse más información aquí.
+
+
+
+
+Protesta en la A-49
+En la A-49, donde se han reunido las numerosas empresas agrarias de una comarca agrícola como el Aljarafe, han estado presentes más de 1.400 personas y alrededor de 500 tractores.
+
+
+
+En las horas centrales de la mañana, la A-49 ha estado cortada en su totalidad, en ambos sentidos, desde la salida 16 hasta la 11, pero no se han detectado incidentes relevantes. 
+
+
+En esta tractorada estaban presentes también los alcaldes de numerosos pueblos del Aljarafe. «La agricultura es el principal motor de nuestros pueblos, por eso estamos aquí apoyándoles», afirmaba Juana María Carmona, la alcaldesa de Benacazón. Más detalles aquí.
+
+
+Tractorada en la AP-4
+Por último, los agricultores y ganaderos han cortado la antigua AP-4 a la altura de Lebrija y El Cuervo, donde el carril de emergencias ha servido para dejar pasar, entre otros vehículos, a un camión que transportaba ganado ovino y que iba en dirección Cádiz.
+
+
+En este punto de la manifestación agraria sí que ha habido un intento de «desmarcarse» del recorrido oficial por parte de algunos tractores de Lebrija, que han cortado la N-4 a la altura de la antigua venta de Santa Luisa, a pocos kilómetros de El Cuervo. Camiones, coches y tractores han confluido con dificultad por la zona durante un corto periodo de tiempo hasta que la Guardia Civil ha ordenado a los tractores estacionar fuera de la carretera nacional.
+
+
+No obstante, a pocos minutos de las 14:00 horas, el horario fijado por las organizaciones convocantes, ya había comenzado el dispositivo de desalojo de la autovía, por lo que la protesta ha terminado sin grandes altercados que destacar.</description>
+<category domain="Sevilla">Sevilla</category>
+<pubDate>Tue, 25 Feb 2020 16:37:39 +0100</pubDate>
+<guid>https://sevilla.abc.es/sevilla/sevi-sido-historica-y-multitudinaria-tractorada-sevilla-recorrido-provincia-202002251637_noticia.html</guid>
     <dc:creator>(sevilla)</dc:creator>
 </item>
 </channel>
