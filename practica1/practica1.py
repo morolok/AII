@@ -2,15 +2,16 @@ import tkinter as tk
 import sqlite3
 from bs4 import BeautifulSoup
 import urllib.request
+from tkinter import messagebox
+from datetime import datetime
 
 
 conexion = sqlite3.connect('meneame.db')
 
-#conexion.execute('''DROP TABLE NOTICIA;''')
+conexion.execute('''DROP TABLE IF EXISTS NOTICIA;''')
 
 conexion.execute('''CREATE TABLE NOTICIA
-         (ID INT PRIMARY KEY     NOT NULL,
-         TITULO           TEXT    NOT NULL,
+         (TITULO           TEXT    NOT NULL,
          LINK            TEXT     NOT NULL,
          NOMBRE_AUTOR        TEXT   NOT NULL,
          FECHA  TEXT);''')
@@ -23,10 +24,7 @@ def extraerNoticias():
         fichero = urllib.request.urlopen(url2)
         s = BeautifulSoup(fichero, "lxml")
         res += s.find_all("div", class_=["center-content","no-padding"])
-    #print(res[0])
     return res
-
-extraerNoticias()
 
 def cargar():
     conexion.text_factory = str
@@ -36,10 +34,74 @@ def cargar():
         link = n.find("h2").find("a")['href']
         nombre_autor = n.find("div", class_="news-submitted").find_all("a")[1].text
         fecha = n.find_all("span", class_=["ts","visible"])[1]["data-ts"]
-        print(fecha)
-        
+        conexion.execute("INSERT INTO NOTICIA (TITULO,LINK,NOMBRE_AUTOR,FECHA) VALUES (?, ?, ?, ?)", (titulo, link, nombre_autor, fecha))
+    conexion.commit()
+    msg = messagebox.showinfo("Información BD", "BD creada correctamente con " + str(len(ls)) + " elementos")
 
-cargar()
+def mostrar():
+    ventanaMostrar = tk.Tk()
+    ventanaMostrar.title("Elementos de la BD")
+    noticiasBD = conexion.execute("SELECT TITULO, NOMBRE_AUTOR, FECHA FROM NOTICIA;")
+    listboxMostrar = tk.Listbox(ventanaMostrar)
+    contador = 1
+    for n in noticiasBD:
+        titulo = n[0]
+        nombre_autor = n[1]
+        fecha = n[2]
+        fechaFormateada = datetime.fromtimestamp(int(fecha))
+        texto = titulo + " " + nombre_autor + " " + str(fechaFormateada)
+        listboxMostrar.insert(contador, texto)
+        contador += 1
+    listboxMostrar.pack()
+    ventanaMostrar.mainloop()
+
+def salir(ventanaACerrar):
+    ventanaACerrar.destroy()
+
+def buscarAutor():
+    ventanaBuscarAutor = tk.Tk()
+    ventanaBuscarAutor.title("Buscar noticia por autor")
+    noticiasBD = conexion.execute("SELECT TITULO, NOMBRE_AUTOR, FECHA FROM NOTICIA;")
+    autores = list({n[1] for n in noticiasBD})
+    spinboxVentana = tk.Spinbox(ventanaBuscarAutor, values = autores)
+    spinboxVentana.pack()
+    entradaAutor = tk.Entry(ventanaBuscarAutor)
+    entradaAutor.grid(row=0, column=1)
+
+    def buscarNoticiasAutor(event):
+        #conexion.text_factory = str
+        ventanaMostrar = tk.Tk()
+        ventanaMostrar.title("Noticias del autor")
+        autorSeleccionado = spinboxVentana.get()
+        listboxMostrar = tk.Listbox(ventanaMostrar)
+        #autorBuscar = "%" + autorSeleccionado + "%"
+        #noticasBuscadas = conexion.execute("SELECT TITULO, NOMBRE_AUTOR, FECHA FROM NOTICIA WHERE NOMBRE_AUTOR LIKE ?",(autorBuscar,))
+        listboxMostrar.pack()
+        barraScroll = tk.Scrollbar(frame, orient="vertical")
+        barraScroll.config(command=listboxMostrar.yview)
+        barraScroll.pack(side="right", fill="y")
+        listboxMostrar.config(yscrollcommand=scrollbar.set)
+        contador = 1
+        for n in noticiasBD:
+            if (n[1]==autorSeleccionado):
+                titulo = n[0]
+                nombre_autor = n[1]
+                fecha = n[2]
+                fechaFormateada = datetime.fromtimestamp(int(fecha))
+                texto = titulo + " " + nombre_autor + " " + str(fechaFormateada)
+                listboxMostrar.insert(contador, texto)
+                contador += 1
+        ventanaMostrar.mainloop()
+    
+    entradaAutor.bind("<Return>", buscarNoticiasAutor)
+    ventanaBuscarAutor.mainloop()
+
+    
+
+
+
+
+
 
 def interfazGrafica():
     # Interfaz gráfica
@@ -54,9 +116,9 @@ def interfazGrafica():
     # Creamos la opción de "Datos" con las opciones que va a tener
 
     datosMenu = tk.Menu(barraMenu, tearoff=0)
-    datosMenu.add_command(label="Cargar")
-    datosMenu.add_command(label = "Mostrar")
-    datosMenu.add_command(label = "Salir")
+    datosMenu.add_command(label="Cargar", command=cargar)
+    datosMenu.add_command(label = "Mostrar", command=mostrar)
+    datosMenu.add_command(label = "Salir", command= lambda: salir(ventana))
 
     # Añadimos la opción a la barra del menú con las opciones anteriores
 
@@ -65,7 +127,7 @@ def interfazGrafica():
     # Creamos la opción de "Buscar" con las opciones que va a tener
 
     buscarMenu = tk.Menu(barraMenu, tearoff=0)
-    buscarMenu.add_command(label="Autor")
+    buscarMenu.add_command(label="Autor", command=buscarAutor)
     buscarMenu.add_command(label = "Fecha")
 
     # Añadimos la opción a la barra del menú con las opciones anteriores
@@ -79,5 +141,5 @@ def interfazGrafica():
 
 interfazGrafica()
 
-conexion.execute('''DROP TABLE NOTICIA;''')
+conexion.execute('''DROP TABLE IF EXISTS NOTICIA;''')
 conexion.close()
