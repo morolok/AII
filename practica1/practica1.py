@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import urllib.request
 from tkinter import messagebox
 from datetime import datetime
+import time
 
 
 conexion = sqlite3.connect('meneame.db')
@@ -66,7 +67,7 @@ def salir(ventanaACerrar):
 
 def buscarAutor():
     ventanaBuscarAutor = tk.Tk()
-    ventanaBuscarAutor.title("Buscar noticia por autor")
+    ventanaBuscarAutor.title("Buscar noticias por autor")
     noticiasBD = conexion.execute("SELECT TITULO, NOMBRE_AUTOR, FECHA FROM NOTICIA;")
     autores = list({n[1] for n in noticiasBD})
     spinboxVentana = tk.Spinbox(ventanaBuscarAutor, values = autores)
@@ -104,6 +105,45 @@ def buscarAutor():
     botonBuscar = tk.Button(ventanaBuscarAutor, text="Buscar", command=buscarNoticiasAutor)
     botonBuscar.place(x=7*largoSpinbox, y=0)
 
+def buscarFecha():
+    ventanaBuscarFecha = tk.Tk()
+    ventanaBuscarFecha.title("Buscar noticias por fecha")
+    tk.Label(ventanaBuscarFecha, text="Introduzca la fecha dd/mm/aaaa").grid(row=0)
+    entradaFecha = tk.Entry(ventanaBuscarFecha)
+    entradaFecha.grid(row=0, column=1)
+
+    def metodoBuscar(event):
+        ventanaMostrar = tk.Tk()
+        ventanaMostrar.title("Noticias a partir de la fecha")
+        subventana = tk.Frame(ventanaMostrar)
+        subventana.pack()
+        listboxMostrar = tk.Listbox(subventana, width=150, height=20)
+        barraScroll = tk.Scrollbar(subventana, orient="vertical")
+        barraScroll.pack(side="right", fill="y")
+        barraScroll.config(command=listboxMostrar.yview)
+        listboxMostrar.config(yscrollcommand=barraScroll.set)
+        fechaABuscar = entradaFecha.get()
+        fechaFormateada = str(time.mktime(datetime.strptime(fechaABuscar, "%d/%m/%Y").timetuple()))
+        conexionBuscarFecha = sqlite3.connect('meneame.db')
+        conexionBuscarFecha.text_factory = str
+        noticiasBuscadas = conexionBuscarFecha.execute("SELECT TITULO, NOMBRE_AUTOR, FECHA FROM NOTICIA;")
+        contador = 1
+        for n in noticiasBuscadas:
+            if (float(n[2]) > float(fechaFormateada)):
+                titulo = n[0]
+                nombre_autor = n[1]
+                fecha = n[2]
+                fechaForm = datetime.fromtimestamp(int(fecha))
+                texto = titulo + " " + nombre_autor + " " + str(fechaForm)
+                listboxMostrar.insert(contador, texto)
+                contador += 1
+        listboxMostrar.pack()
+        ventanaMostrar.mainloop()
+    
+    entradaFecha.bind("<Return>", metodoBuscar)
+    ventanaBuscarFecha.mainloop()
+
+
 def interfazGrafica():
     # Interfaz gráfica
 
@@ -129,7 +169,7 @@ def interfazGrafica():
 
     buscarMenu = tk.Menu(barraMenu, tearoff=0)
     buscarMenu.add_command(label="Autor", command=buscarAutor)
-    buscarMenu.add_command(label = "Fecha")
+    buscarMenu.add_command(label = "Fecha", command=buscarFecha)
 
     # Añadimos la opción a la barra del menú con las opciones anteriores
 
