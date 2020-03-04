@@ -42,7 +42,13 @@ def mostrar():
     ventanaMostrar = tk.Tk()
     ventanaMostrar.title("Elementos de la BD")
     noticiasBD = conexion.execute("SELECT TITULO, NOMBRE_AUTOR, FECHA FROM NOTICIA;")
-    listboxMostrar = tk.Listbox(ventanaMostrar)
+    subventana = tk.Frame(ventanaMostrar)
+    subventana.pack()
+    listboxMostrar = tk.Listbox(subventana, width=150, height=20)
+    barraScroll = tk.Scrollbar(subventana, orient="vertical")
+    barraScroll.pack(side="right", fill="y")
+    barraScroll.config(command=listboxMostrar.yview)
+    listboxMostrar.config(yscrollcommand=barraScroll.set)
     contador = 1
     for n in noticiasBD:
         titulo = n[0]
@@ -52,7 +58,7 @@ def mostrar():
         texto = titulo + " " + nombre_autor + " " + str(fechaFormateada)
         listboxMostrar.insert(contador, texto)
         contador += 1
-    listboxMostrar.pack()
+    listboxMostrar.pack()    
     ventanaMostrar.mainloop()
 
 def salir(ventanaACerrar):
@@ -64,44 +70,39 @@ def buscarAutor():
     noticiasBD = conexion.execute("SELECT TITULO, NOMBRE_AUTOR, FECHA FROM NOTICIA;")
     autores = list({n[1] for n in noticiasBD})
     spinboxVentana = tk.Spinbox(ventanaBuscarAutor, values = autores)
+    spinboxVentana.place(x=0,y=0)
+    spinboxVentana.update()
     spinboxVentana.pack()
-    entradaAutor = tk.Entry(ventanaBuscarAutor)
-    entradaAutor.grid(row=0, column=1)
 
-    def buscarNoticiasAutor(event):
-        #conexion.text_factory = str
+    def buscarNoticiasAutor():
+        conexion.text_factory = str
         ventanaMostrar = tk.Tk()
         ventanaMostrar.title("Noticias del autor")
         autorSeleccionado = spinboxVentana.get()
-        listboxMostrar = tk.Listbox(ventanaMostrar)
-        #autorBuscar = "%" + autorSeleccionado + "%"
-        #noticasBuscadas = conexion.execute("SELECT TITULO, NOMBRE_AUTOR, FECHA FROM NOTICIA WHERE NOMBRE_AUTOR LIKE ?",(autorBuscar,))
-        listboxMostrar.pack()
-        barraScroll = tk.Scrollbar(frame, orient="vertical")
-        barraScroll.config(command=listboxMostrar.yview)
+        subventana = tk.Frame(ventanaMostrar)
+        subventana.pack()
+        listboxMostrar = tk.Listbox(subventana, width=150, height=20)
+        autorBuscar = "%" + autorSeleccionado + "%"
+        noticasBuscadas = conexion.execute("SELECT TITULO, NOMBRE_AUTOR, FECHA FROM NOTICIA WHERE NOMBRE_AUTOR LIKE ?",(autorBuscar,))
+        barraScroll = tk.Scrollbar(subventana, orient="vertical")
         barraScroll.pack(side="right", fill="y")
-        listboxMostrar.config(yscrollcommand=scrollbar.set)
+        barraScroll.config(command=listboxMostrar.yview)
+        listboxMostrar.config(yscrollcommand=barraScroll.set)
         contador = 1
-        for n in noticiasBD:
-            if (n[1]==autorSeleccionado):
-                titulo = n[0]
-                nombre_autor = n[1]
-                fecha = n[2]
-                fechaFormateada = datetime.fromtimestamp(int(fecha))
-                texto = titulo + " " + nombre_autor + " " + str(fechaFormateada)
-                listboxMostrar.insert(contador, texto)
-                contador += 1
+        for n in noticasBuscadas:
+            titulo = n[0]
+            nombre_autor = n[1]
+            fecha = n[2]
+            fechaFormateada = datetime.fromtimestamp(int(fecha))
+            texto = titulo + " " + nombre_autor + " " + str(fechaFormateada)
+            listboxMostrar.insert(contador, texto)
+            contador += 1
+        listboxMostrar.pack()
         ventanaMostrar.mainloop()
     
-    entradaAutor.bind("<Return>", buscarNoticiasAutor)
-    ventanaBuscarAutor.mainloop()
-
-    
-
-
-
-
-
+    largoSpinbox = spinboxVentana.winfo_width()
+    botonBuscar = tk.Button(ventanaBuscarAutor, text="Buscar", command=buscarNoticiasAutor)
+    botonBuscar.place(x=7*largoSpinbox, y=0)
 
 def interfazGrafica():
     # Interfaz gráfica
