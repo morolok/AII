@@ -48,6 +48,7 @@ def cargarBD():
 def interfazGrafica():
 
     ventana = tk.Tk()
+    ventana.title("Jornadas")
 
     bBuscarJornadas = tk.Button(ventana, text="Buscar Jornadas")
     bBuscarJornadas.place(x=0, y=0)
