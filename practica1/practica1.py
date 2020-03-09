@@ -143,7 +143,6 @@ def buscarFecha():
     entradaFecha.bind("<Return>", metodoBuscar)
     ventanaBuscarFecha.mainloop()
 
-
 def interfazGrafica():
     # Interfaz gráfica
 
