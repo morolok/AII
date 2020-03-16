@@ -15,7 +15,7 @@ conexion.execute('''CREATE TABLE PELICULA
          (TITULO           TEXT    NOT NULL,
          TITULO_ORIGINAL            TEXT     NOT NULL,
          PAISES        TEXT   NOT NULL,
-         FECHA_ESTRENO        TEXT   NOT NULL,
+         FECHA_ESTRENO_ESPAÑA        TEXT   NOT NULL,
          DIRECTOR        TEXT   NOT NULL,    
          GENEROS  TEXT     NOT NULL);''')
 
@@ -47,13 +47,28 @@ def cargar():
         tup = (generos, informacion)
         info_peli.append(tup)
     
-    for p in info_peli:
-        p1 = p[0]
-        p2 = p[1]
+    #print(info_peli[0])
+
+    for peli in info_peli:
+        p1 = peli[0]
+        p2 = peli[1]
         gen = p1.find_all("a")
+        inf = p2.find_all("dd")
+        generos = ""
+        for i in range(0, len(gen)):
+            if(i==(len(gen)-1)):
+                g = gen[i].text.strip()
+                generos += g
+            else:
+                g = gen[i].text.strip()
+                generos += g + ", "
+        
+        for peli in inf:
+            texto = peli.text.strip()
 
 
-cargar()
+
+#cargar()
 
 
 
