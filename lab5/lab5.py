@@ -28,15 +28,15 @@ def indexar(dirdocs,dirindex):
     
 def buscarRemitente(dirindex):
     def mostrar_lista(event):
-        lb.delete(0,END)   #borra toda la lista
+        lb.delete(0,tk.END)   #borra toda la lista
         ix=open_dir(dirindex)      
         with ix.searcher() as searcher:
             query = QueryParser("remitente", ix.schema).parse(str(en.get()))
             results = searcher.search(query)
             for r in results:
-                lb.insert(END,r['destinatarios'])
-                lb.insert(END,r['asunto'])
-                lb.insert(END,'')
+                lb.insert(tk.END,r['destinatarios'])
+                lb.insert(tk.END,r['asunto'])
+                lb.insert(tk.END,'')
     v = tk.Toplevel()
     v.title("Busqueda por rttes")
     f = tk.Frame(v)
@@ -84,5 +84,6 @@ def interfazGrafica():
     bBuscarRemitente.place(x=largoIndexar+1, y=0)
 
     ventana.mainloop()
+
 
 interfazGrafica()
