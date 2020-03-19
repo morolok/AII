@@ -38,7 +38,7 @@ def buscarRemitente(dirindex):
                 lb.insert(tk.END,r['asunto'])
                 lb.insert(tk.END,'')
     v = tk.Toplevel()
-    v.title("Busqueda por rttes")
+    v.title("Busqueda por remitentes")
     f = tk.Frame(v)
     f.pack(side=tk.TOP)
     l = tk.Label(f, text="Introduzca el correo del rtte:")
