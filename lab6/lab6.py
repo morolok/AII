@@ -8,8 +8,9 @@ from whoosh.fields import Schema, TEXT, KEYWORD
 from whoosh.qparser import QueryParser
 from datetime import datetime
 
+
 def get_schema():
-    return Schema(titulo=TEXT(stored=True), autor=TEXT(stored=True), fuente=KEYWORD(stored=True), enlace=TEXT(stored=True), fecha=TEXT(stored=True), contenido=TEXT(stored=True))
+    return Schema(titulo=TEXT(stored=True), autor=TEXT(stored=True), fuente=TEXT(stored=True), enlace=TEXT(stored=True), fecha=TEXT(stored=True), contenido=TEXT(stored=True))
 
 def extraerNoticias():
     res = []
@@ -57,25 +58,52 @@ def buscarNoticia(dirindex):
     entradaNoticia.pack(side=tk.LEFT)
 
     def metodoBuscar(event):
-        lb.delete(0,tk.END)   #borra toda la lista
+        listBox.delete(0,tk.END)
         index = open_dir(dirindex)
         with index.searcher() as searcher:
             query = QueryParser("contenido", index.schema).parse(entradaNoticia.get())
-            noticias = searcher.search(query)
+            noticias = searcher.search(query, terms=True)
             for n in noticias:
-                lb.insert(tk.END, n['titulo'])
-                lb.insert(tk.END, n['autor'])
-                lb.insert(tk.END, n['enlace'])
-                lb.insert(tk.END,'')
-    
+                listBox.insert(tk.END, n['titulo'])
+                listBox.insert(tk.END, n['autor'])
+                listBox.insert(tk.END, n['enlace'])
+                listBox.insert(tk.END,'')
+
     entradaNoticia.bind("<Return>", metodoBuscar)
-    sc = tk.Scrollbar(ventanaBuscarNoticia)
-    sc.pack(side=tk.RIGHT, fill=tk.Y)
-    lb = tk.Listbox(ventanaBuscarNoticia, yscrollcommand=sc.set)
-    lb.pack(side=tk.BOTTOM, fill = tk.BOTH)
-    sc.config(command = lb.yview)
+    barraScroll = tk.Scrollbar(ventanaBuscarNoticia)
+    barraScroll.pack(side=tk.RIGHT, fill=tk.Y)
+    listBox = tk.Listbox(ventanaBuscarNoticia, yscrollcommand=barraScroll.set)
+    listBox.pack(side=tk.BOTTOM, fill = tk.BOTH)
+    barraScroll.config(command = listBox.yview)
 
+def buscarFuente(dirindex):
+    ventanaBuscarFuente = tk.Toplevel()
+    ventanaBuscarFuente.title("Buscar fuente")
+    frame = tk.Frame(ventanaBuscarFuente)
+    frame.pack(side=tk.TOP)
+    etiqueta = tk.Label(frame, text="Introduzca la fuente exacta que quiere buscar: ")
+    etiqueta.pack(side=tk.LEFT)
+    entradaFuente = tk.Entry(frame)
+    entradaFuente.pack(side=tk.LEFT)
 
+    def metodoBuscar(event):
+        listBox.delete(0,tk.END)
+        index = open_dir(dirindex)
+        with index.searcher() as searcher:
+            query = QueryParser("fuente", index.schema).parse(entradaFuente.get())
+            noticias = searcher.search(query, terms=True)
+            for n in noticias:
+                listBox.insert(tk.END, n['titulo'])
+                listBox.insert(tk.END, n['autor'])
+                listBox.insert(tk.END, n['fuente'])
+                listBox.insert(tk.END,'')
+    
+    entradaFuente.bind("<Return>", metodoBuscar)
+    barraScroll = tk.Scrollbar(ventanaBuscarFuente)
+    barraScroll.pack(side=tk.RIGHT, fill=tk.Y)
+    listBox = tk.Listbox(ventanaBuscarFuente, yscrollcommand=barraScroll.set)
+    listBox.pack(side=tk.BOTTOM, fill = tk.BOTH)
+    barraScroll.config(command = listBox.yview)
 
 def interfazGrafica():
     # Interfaz gráfica
@@ -103,7 +131,7 @@ def interfazGrafica():
 
     buscarMenu = tk.Menu(barraMenu, tearoff=0)
     buscarMenu.add_command(label="Noticia", command= lambda: buscarNoticia(dirindex))
-    buscarMenu.add_command(label = "Fuente")
+    buscarMenu.add_command(label = "Fuente", command= lambda: buscarFuente(dirindex))
 
     # Añadimos la opción a la barra del menú con las opciones anteriores
 
