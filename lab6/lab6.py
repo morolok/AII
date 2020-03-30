@@ -41,7 +41,7 @@ def cargar(dirindex):
             contenido = n.find("div", class_="news-content").text.strip()
             writer.add_document(titulo=titulo, autor=autor, fuente=fuente, enlace=enlace, fecha=fechaFormateada, contenido=contenido)
             cont += 1
-    msg = messagebox.showinfo("Información BD", "BD creada correctamente con " + str(cont) + " elementos")
+    messagebox.showinfo("Información BD", "BD creada correctamente con " + str(cont) + " elementos")
     writer.commit()
 
 def salir(ventanaACerrar):
