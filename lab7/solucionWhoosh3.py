@@ -61,7 +61,8 @@ def apartado_c(dirindex):
         
 
 def get_schema():
-    return Schema(remitente=TEXT(stored=True), destinatarios=TEXT(stored=True), fecha=DATETIME(stored=True), asunto=TEXT(stored=True), contenido=TEXT(stored=True), nombrefichero=ID(stored=True))
+    return Schema(remitente=TEXT(stored=True), destinatarios=TEXT(stored=True), fecha=DATETIME(stored=True), asunto=TEXT(stored=True), 
+        contenido=TEXT(stored=True), nombrefichero=ID(stored=True))
 
 
 def add_doc(writer, path, docname):
@@ -97,8 +98,10 @@ def crea_agenda(dirage):
         print ("Error: No se ha podido crear la agenda. Compruebe que existe el fichero "+dirage+'\\'+"agenda.txt")
            
 def main():
-    crea_index("Docs\Correos","Index")
-    agenda=crea_agenda("Docs\Agenda")
+    crea_index(r"Docs\Correos","Index")
+    #crea_index("Docs\Correos","Index")
+    agenda=crea_agenda(r"Docs\Agenda")
+    #agenda=crea_agenda("Docs\Agenda")
     apartado_a("Index",agenda)
     apartado_b("Index")
     apartado_c("Index")
