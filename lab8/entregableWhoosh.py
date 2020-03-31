@@ -6,7 +6,7 @@ import urllib.request
 import os
 from whoosh.index import create_in,open_dir
 from whoosh.fields import Schema, TEXT, KEYWORD
-from whoosh.qparser import QueryParser
+from whoosh.qparser import QueryParser, MultifieldParser
 
 # Método para crear el esquema que me piden en el enunciado
 
@@ -137,17 +137,9 @@ def apartado_b_b(dirjornadas):
         listBox.delete(0,tk.END)
         jornadas = open_dir(dirjornadas)
         with jornadas.searcher() as searcher:
-            queryLocal = QueryParser("equipoLocal", jornadas.schema).parse(equipoABuscar)
-            partidosLocal = searcher.search(queryLocal, terms=True)
-            for p in partidosLocal:
-                listBox.insert(tk.END, p['jornada'])
-                listBox.insert(tk.END, p['equipoLocal'])
-                listBox.insert(tk.END, p['equipoVisitante'])
-                listBox.insert(tk.END, p['resultado'])
-                listBox.insert(tk.END,'')
-            queryVisitante = QueryParser("equipoVisitante", jornadas.schema).parse(equipoABuscar)
-            partidosVisitante = searcher.search(queryVisitante, terms=True)
-            for p in partidosVisitante:
+            query = MultifieldParser(["equipoLocal", "equipoVisitante"], jornadas.schema).parse(equipoABuscar)
+            partidos = searcher.search(query, sortedby="jornada")
+            for p in partidos:
                 listBox.insert(tk.END, p['jornada'])
                 listBox.insert(tk.END, p['equipoLocal'])
                 listBox.insert(tk.END, p['equipoVisitante'])
