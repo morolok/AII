@@ -1,9 +1,10 @@
-#encoding:latin-1
+#encoding:utf-8
+
 import tkinter as tk
 from tkinter import messagebox
 from bs4 import BeautifulSoup
 import urllib.request
-import os
+import re, os, shutil
 from whoosh.index import create_in,open_dir
 from whoosh.fields import Schema, TEXT, DATETIME
 from whoosh.qparser import QueryParser, MultifieldParser
@@ -89,7 +90,7 @@ def cargar():
         if(todoBien):
             fechaEstrenoSpain = datetime.strptime(auxFecha, '%d/%m/%Y')
             writer.add_document(titulo=titulo, tituloOriginal=tituloOriginal, fechaEstrenoSpain=fechaEstrenoSpain, paises=paises, 
-                generos=generos, director=director, sinopsis=sinopsis)
+                generos=generos, director=director, sinopsis=str(sinopsis))
             cont += 1
     
     writer.commit()
@@ -99,10 +100,7 @@ def salir(ventanaACerrar):
     
     def eliminarDirectorioCreado():
         if(os.path.exists(dirpeliculas)):
-            archivos = os.listdir(dirpeliculas)
-            for archivo in archivos:
-                os.remove(os.path.join(dirpeliculas, archivo))
-            os.rmdir(dirpeliculas)
+            shutil.rmtree(dirpeliculas)
     
     eliminarDirectorioCreado()
     ventanaACerrar.destroy()
@@ -187,9 +185,11 @@ def buscarFecha():
     entradaFecha.pack(side=tk.LEFT)
     
     def metodoBuscar(event):
+        if(not re.match("\d{8} \d{8}", entradaFecha.get())):
+            messagebox.showinfo("Error", "Formato del rango de fecha incorrecto")
+            return
         fechas = entradaFecha.get().split(" ")
-        fechaInicio = datetime.strptime(fechas[0], '%Y%m%d')
-        fechaFin = datetime.strptime(fechas[1], '%Y%m%d')
+        rango_fecha = '[' + fechas[0] + ' TO ' + fechas[1] + ']'
         ventanaResultados = tk.Toplevel()
         ventanaResultados.title("Resultados para el rango de fechas dado")
         ventanaResultados.geometry("600x165")
@@ -201,7 +201,7 @@ def buscarFecha():
         listBox.delete(0,tk.END)
         peliculas = open_dir(dirpeliculas)
         with peliculas.searcher() as searcher:
-            query = QueryParser("fechaEstrenoSpain", peliculas.schema).parse(fechaInicio)
+            query = QueryParser("fechaEstrenoSpain", peliculas.schema).parse(rango_fecha)
             pelis = searcher.search(query)
             for p in pelis:
                 listBox.insert(tk.END, p['titulo'])
@@ -209,7 +209,6 @@ def buscarFecha():
                 listBox.insert(tk.END,'')
     
     entradaFecha.bind("<Return>", metodoBuscar)
-
 
 def interfazGrafica():
     # Interfaz gráfica
