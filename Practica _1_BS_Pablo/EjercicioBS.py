@@ -55,7 +55,7 @@ def almacenar_bd():
 
 #Este metodo nos permite mostrar cada una de las noticias almacenadas en la  base de datos
 def mostrar_noticias():
-    muestra = tk.Tk();
+    muestra = tk.Tk()
     #Esto nos permitira ver las noticias almacenadas en la base de datos
     muestra.title("Elementos Base de Datos")
     noticias = conn.execute("SELECT TITULO,AUTOR,FECHA FROM NOTICIAS;")
