@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+
+{% block contenido %}
+
+<h1>Colaboradores</h1>
+
+<ul>
+    {% for usuario in usuarios %}
+
+        <li>{{usuario.username}} - {{usuario.email}}</li>
+
+            <ul>
+                {% for receta in recetas %}
+                    
+                    {% if receta.usuario == usuario %}
+
+                        <li>{{receta.titulo}}</li>
+
+                    {% endif %}
+
+                {% endfor %}
+            </ul>
+
+    {% endfor %}
+</ul>
+
+{% endblock %}

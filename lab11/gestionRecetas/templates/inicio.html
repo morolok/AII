@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block contenido %}
+
+<h1>Recetario</h1>
+
+<p>Actualmente tenemos registrados:</p>
+
+<ul>
+    {% for receta in recetas %}
+
+        <li>{{receta.titulo}}</li>
+
+    {% endfor %}
+</ul>
+
+{% endblock %}
