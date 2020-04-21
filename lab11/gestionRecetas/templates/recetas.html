@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block contenido %}
+
+
+<h1>Nuestras recetas</h1>
+
+<ul>
+    {% for receta in recetas %}
+
+        <li>
+            <a>{{receta.titulo}}</a>
+            <img src='{{MEDIA_URL}}{{receta.imagen}}'>
+        </li>
+
+
+    {% endfor %}
+</ul>
+
+
+{% endblock %}

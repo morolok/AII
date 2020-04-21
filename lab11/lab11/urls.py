@@ -15,11 +15,15 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from django.views import static
+from django.conf import settings
 from gestionRecetas import views as views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('media/<path>', static.serve, {'document_root': settings.MEDIA_ROOT,}),
     path('', views.inicio),
     path('sobre/', views.sobre),
     path('usuarios/', views.usuarios),
+    path('recetas/', views.recetas),
 ]

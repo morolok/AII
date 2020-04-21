@@ -2,6 +2,7 @@ from django.shortcuts import render
 from django.http import HttpResponse
 from django.contrib.auth.models import User
 from gestionRecetas.models import Receta, Comentario
+from django.conf import settings
 
 # Create your views here.
 
@@ -16,3 +17,7 @@ def usuarios(request):
 
 def sobre(request):
     return render(request, "sobre.html")
+
+def recetas(request):
+    recetas = Receta.objects.all()
+    return render(request, "recetas.html", {'recetas': recetas, 'MEDIA_URL': settings.MEDIA_URL})
