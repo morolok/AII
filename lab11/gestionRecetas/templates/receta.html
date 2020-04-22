@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block contenido %}
+
+<h1>{{receta.titulo}}</h1>
+
+<h2>Ingredientes</h2>
+
+<p>{{receta.ingredientes}}</p>
+
+<h2>Preparación</h2>
+
+<p>{{receta.preparacion}}</p>
+
+<img src={{MEDIA_URL}}{{receta.imagen}}>
+
+<h2>Comentarios</h2>
+
+    {% for comentario in comentarios %}
+
+        <p>{{comentario.texto}}</p> 
+    {% empty %}
+        <p>Sin comentarios registrados</p>
+
+    {% endfor %}
+
+<footer>
+    <p>Registrado {{receta.fecha_hora_registro}} por {{receta.usuario}}</p>
+</footer>
+
+{% endblock %}

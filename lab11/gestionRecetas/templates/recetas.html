@@ -7,10 +7,10 @@
 
 <ul>
     {% for receta in recetas %}
-
         <li>
-            <a>{{receta.titulo}}</a>
-            <img src='{{MEDIA_URL}}{{receta.imagen}}'>
+            <a href='receta/{{receta.id}}'>{{receta.titulo}}</a>
+            <br>
+            <img src='{{MEDIA_URL}}{{dato.imagen}}'>
         </li>
 
 

@@ -21,9 +21,11 @@ from gestionRecetas import views as views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('media/<path>', static.serve, {'document_root': settings.MEDIA_ROOT,}),
+    path('media/<path>', static.serve,
+            {'document_root': settings.MEDIA_ROOT,}),
     path('', views.inicio),
     path('sobre/', views.sobre),
     path('usuarios/', views.usuarios),
     path('recetas/', views.recetas),
+    path('recetas/receta/<int:id_receta>', views.receta),
 ]
