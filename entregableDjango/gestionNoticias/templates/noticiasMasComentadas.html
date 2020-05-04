@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block encabezado %}
+
+    <h1>Noticias</h1>
+
+{% endblock %}
+
+
+{% block contenido %}
+
+    {% for noticia in noticias %}
+        
+        <dt><b>Titulo: </b>{{ noticia.titulo }}</dt>
+        <dt><b>Fuente: </b>{{ noticia.fuenteNoticia }}</dt>
+        <dt><b>Número de comentarios: </b>{{ noticia.numeroComentario }}</dt>
+        <br>
+        
+    {% endfor %}
+
+{% endblock %}

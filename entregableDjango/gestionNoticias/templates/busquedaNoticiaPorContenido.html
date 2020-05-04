@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block encabezado %}
+
+    <h1>Busqueda por contenido</h1>
+
+{% endblock %}
+
+{% block contenido %}
+
+    <form id="formulario" method="post" action='.'>{% csrf_token %}
+        {{ formulario }}
+        <input type='submit' value='Buscar'/>
+    </form>
+
+    <hr>
+
+    {% if noticias %}
+
+        <h3>Noticias encontradas para {{ palabra }}: </h3>
+
+        {% for noticia in noticias %}
+        
+            <dt><b>Titulo: </b>{{ noticia.titulo }}</dt>
+            <dt><b>Contenido: </b>{{ noticia.contenido }}</dt>
+            <br>
+        
+        {% endfor %}
+    {% endif %}
+
+{% endblock %}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang='es'>
+<head>
+  <meta charset='utf-8'>
+  <style>
+        {% block style_css %}
+        {% endblock %}
+  </style>
+</head>
+<body>
+  <header> 
+      {% block encabezado %}
+      {% endblock %}
+
+ 			<dd><a href='/'>Inicio</a></dd>
+			<dd><a href='/listaDeNoticias'>Lista de Noticias</a></dd>
+			<dd><a href='/noticiasMasComentadas'>Noticias más comentadas</a></dd>
+			<dd><a href='/busquedaNoticiaPorContenido'>Buscar noticias por contenido</a></dd>
+			<dd><a href='/carga'>Cargar la BD</a></dd>
+	    <hr>
+  </header>
+  <section>
+    {% block contenido %}
+    {% endblock %}
+  </section>
+  {% block pie %}
+  {% endblock %} 
+</body>
+</html>
