@@ -4,12 +4,18 @@ import lxml
 from datetime import datetime
 from gestionPeliculas.models import Pais, Director, Genero, Pelicula
 #import gestionPeliculas.models as modelos
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 
 # Create your views here.
 
 
 def poblarBD():
+
+    Director.objects.all().delete()
+    Pais.objects.all().delete()
+    Genero.objects.all().delete()
+    Pelicula.objects.all().delete()
+
     url = "https://www.elseptimoarte.net/estrenos/"
     fichero = urllib.request.urlopen(url)
     s = BeautifulSoup(fichero, "lxml")
@@ -55,18 +61,41 @@ def poblarBD():
     
         lsGeneros = s.find("p", class_="categorias").find_all("a")
         todosGeneros = [lsGeneros[i].text.strip() for i in range(0, len(lsGeneros))]
+        lsGeneros = []
         
         for genero in todosGeneros:
-            Genero.objects.create(nombre = genero)
+            gen, creado = Genero.objects.get_or_create(nombre = genero)
+            lsGeneros.append(gen)
 
-        Pais.objects.create(nombre = pais)
-        Director.objects.create(nombre = director)
-        Genero.objects.create(nombre = genero)
+        Pais.objects.get_or_create(nombre = pais)
+        Director.objects.get_or_create(nombre = director)
+        Genero.objects.get_or_create(nombre = genero)
         pelicula = Pelicula.objects.create(titulo = titulo, tituloOriginal = tituloOriginal, pais = pais, director = director, fechaEstreno = fechaEstreno)
 
-        for genero in todosGeneros:
-            pelicula.genero.add(genero)
+        for g in lsGeneros:
+            pelicula.genero.add(g)
 
 
 def inicio(request):
     return render(request, 'inicio.html')
+
+
+def carga(request):
+    contexto = {}
+    if(request.method=='POST'):
+        if('Aceptar' in request.POST):
+            poblarBD()
+            peliculas = Pelicula.objects.all()
+            mensaje = 'Se han cargado ' + str(len(peliculas)) + ' películas'
+            contexto['mensaje'] = mensaje
+            return render(request, 'carga.html', contexto)
+        else:
+            return redirect('inicio')
+    return render(request, "carga.html", contexto)
+
+
+def pelicula(request):
+    pelicula = Pelicula.objects.get(titulo = "Personal Assistant")
+    print(pelicula.genero)
+    contexto = {'pelicula': pelicula}
+    return render(request, "pelicula.html", contexto)

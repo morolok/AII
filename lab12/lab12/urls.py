@@ -19,5 +19,7 @@ import gestionPeliculas.views as views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', views.inicio),
+    path('', views.inicio, name='inicio'),
+    path('carga/', views.carga, name='carga'),
+    path('pelicula/', views.pelicula, name='pelicula')
 ]
