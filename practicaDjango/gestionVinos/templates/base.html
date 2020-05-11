@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang='es'>
+<head>
+  <meta charset='utf-8'>
+  <style>
+        {% block style_css %}
+        {% endblock %}
+  </style>
+</head>
+<body>
+  <header> 
+      {% block encabezado %}
+      {% endblock %}
+
+ 			<dd><a href='/'>Inicio</a></dd>
+			<dd><a href='/listaDeVinos'>Lista de Vinos</a></dd>
+			<dd><a href='/vinosMejorPuntuados'>Vinos mejor puntuados</a></dd>
+      <dd><a href='/buscarPorUva'>Buscar vinos por uva</a></dd>
+      <dd><a href='/vinosAgrupadosPorDenominacion'>Vinos agrupados por denominación</a></dd>
+      <dd><a href='/mejorBodega'>Mejor bodega</a></dd>
+			<dd><a href='/carga'>Cargar la BD</a></dd>
+	    <hr>
+  </header>
+  <section>
+    {% block contenido %}
+    {% endblock %}
+  </section>
+  {% block pie %}
+  {% endblock %} 
+</body>
+</html>

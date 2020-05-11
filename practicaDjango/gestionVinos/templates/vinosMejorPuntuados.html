@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block encabezado %}
+
+    <h1>Vinos mejor puntuados</h1>
+
+{% endblock %}
+
+
+{% block contenido %}
+
+    {% for vino in vinos %}
+        
+        <dt><b>Nombre: </b>{{ vino.nombre }}</dt>
+        <dt><b>Bodega: </b>{{ vino.bodega }}</dt>
+        <dt><b>Denominación de origen: </b>{{ vino.denominacion }}</dt>
+        <dt><b>Puntuación: </b>{{ vino.estrellas }}★</dt>
+        <br>
+            
+    {% endfor %}
+
+{% endblock %}

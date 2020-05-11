@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block encabezado %}
+
+    <h1>Vinos agrupados por denominación de origen</h1>
+
+{% endblock %}
+
+{% block contenido %}
+
+    {% for denominacion,vinosMedia in denomacionVinos.items %}
+
+        <dt><b>Denominación: </b>{{denominacion}} <b>Precio medio: </b> {{vinosMedia.1}}€</dt><br>
+
+        {% for vino in vinosMedia.0 %}
+            <dt><b>Nombre: </b>{{ vino.0 }}, <b>Bodega: </b>{{ vino.1 }}, <b>Precio: </b>{{ vino.2 }}</dt>
+        {% endfor %}
+
+        <br><br>
+
+    {% endfor %}
+    
+{% endblock %}
