@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Sistema de Recomendacion - Movielens</title>
+</head>
+<body>
+{% include 'header.html' %}
+<section>
+<h1>Peliculas y Puntuaciones para el Usuario {{usuario.id}}</h1>
+{% for rating in usuario.rating_set.all %}
+<ul>Movie: {{rating.film.movieTitle}} - Rating: {{rating.rating}}</ul>
+{% empty %}
+<h2> El Usuario no ha puntuado ninguna Pelicula </h2>
+{% endfor %}
+</section>
+</body>
+</html>
