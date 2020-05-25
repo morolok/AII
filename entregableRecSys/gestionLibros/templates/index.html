@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>Sistema de Recomendacion - Book-Crossing</title>
+</head>
+<body>
+{% include 'header.html' %}
+<h1>Bienvenido al Sistema de Recomendacion de Book-Crossing!!!</h1> 
+<p>
+
+Se desea construir una página web, que permita recomendar a usuarios libros en función de las
+puntuaciones que han dado otros usuarios y los gustos de éstos.
+Construir el modelo de datos en Django que almacene la información siguiente:
+<br>
+a) Libro: ISBN, Título, Autor, Año de publicación, Editor.
+<br>
+b) Puntuación: IdUsuario, ISBN, Puntuación (0-10)
+<br>
+Poblar la base de datos extrayendo los datos del Book-Crossing Dataset adjunto a este
+enunciado.
+<br>
+Se pide construir una web con un menú principal, que permita las siguientes opciones:
+<br>
+a) CARGAR LA BASE DE DATOS. Muestre un formulario con un formulario de
+confirmación. Si se acepta, borrar la base de datos y volverla a crear con los datos de la
+web. Después mostrar información de los registros almacenados en cada tabla.
+<br>
+b) CARGAR RECSYS. Que cargue el Sistema de Recomendación.
+<br>
+c) PUNTUACIONES DE UN USUARIO. Dado un usuario (IdUsuario), muestre los libros
+que ha puntuado (ISBN y título) y puntuación que les ha dado.
+<br>
+d) MEJORES LIBROS. Muestre los tres libros (ISBN, título y autor) mejor puntuados
+(puntuación media).
+<br>
+e) LIBROS PARECIDOS. Dado un libro (ISBN), presente los cinco libros que más se
+parecen (ISBN y coeficiente de similaridad).
+<br>
+f) RECOMENDAR LIBROS. Dado un usuario (IdUsuario), le recomiende diez libros que
+no haya puntuado (ISBN, título, autor y puntuación propuesta por el sistema de
+recomendación), usando un sistema de recomendación de tipo filtrado colaborativo
+basado en usuario.
+
+</p>
+</body>
+</html>

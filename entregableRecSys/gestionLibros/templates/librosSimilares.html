@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Sistema de Recomendacion - Book-Crossing</title>
+</head>
+<body>
+{% include 'header.html' %}
+
+<h1>Cinco libros que más se parecen a {{libro.isbn}} son:</h1>
+
+<l>
+{% for l, s in libros %}
+    <li>ISBN: {{l.isbn}} - Similaridad: {{s | floatformat:"2"}}</li>
+{% endfor %}
+</l>
+
+</body>
+</html>

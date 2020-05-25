@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Sistema de Recomendacion - Book-Crossing</title>
+</head>
+<body>
+
+{% include 'header.html' %}
+
+<h1>Libros recomendados para el usuario {{idUsuario}}</h1>
+{% for item, score in items %}
+    <ul>
+    <li>ISBN: {{item.isbn}} - Título: {{item.titulo}} - Autor: {{item.autor}} - Puntuación:{{score | floatformat:"2"}}</li>
+    </ul>
+{% empty %}
+    <h2> Datos insuficientes para el usuario </h2>
+{% endfor %}
+
+</body>
+</html>

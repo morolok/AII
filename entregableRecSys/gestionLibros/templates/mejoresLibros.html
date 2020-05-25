@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Sistema de Recomendacion - Book-Crossing</title>
+</head>
+<body>
+
+{% include 'header.html' %}
+
+<h1>Mejores libros</h1>
+
+{% for resultado in res %}
+    <ul>ISBN: {{resultado.0}} - Título: {{resultado.1}} - Autor: {{resultado.2}}</ul>
+{% endfor %}
+
+</body>
+</html>
