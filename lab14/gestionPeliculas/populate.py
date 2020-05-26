@@ -101,3 +101,28 @@ def populateFilms():
     print("Movies inserted: " + str(Film.objects.count()))
     print("---------------------------------------------------------")
     return(dict)
+
+
+def populateRatings(u,m):
+    print("Loading ratings...")
+    Rating.objects.all().delete()
+
+    lista=[]
+    fileobj=open(path+"\\u.data", "r")
+    for line in fileobj.readlines():
+        rip = line.split('\t')
+        lista.append(Rating(user=u[int(rip[0].strip())], film=m[int(rip[1].strip())], rating=int(rip[2].strip()), rateDate= datetime.fromtimestamp(int(rip[3].strip())) ))
+    fileobj.close()
+    Rating.objects.bulk_create(lista)
+    print("Ratings inserted: " + str(Rating.objects.count()))
+    print("---------------------------------------------------------")
+
+
+def populateDatabase():
+    deleteTables()
+    populateOccupations()
+    populateGenres()
+    u=populateUsers()
+    m=populateFilms()
+    populateRatings(u,m)
+    print("Finished database population")
