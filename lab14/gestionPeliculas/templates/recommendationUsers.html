@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Sistema de Recomendacion - Movielens</title>
+</head>
+<body>
+{% include 'header.html' %}
+<h1>Usuarios Recomendados para la Pelicula {{film.movieTitle}}</h1>
+{% for item, score in items %}
+<ul>
+<li>User ID:{{item.id}}   Edad:{{item.age}}  CP:{{item.zipCode}}   Score: {{score | floatformat:"2"}}</li>
+</ul>
+{% empty %}
+<h2> Insuficientes datos </h2>
+{% endfor %}
+</body>
+</html>

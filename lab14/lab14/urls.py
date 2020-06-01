@@ -20,5 +20,11 @@ from gestionPeliculas import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.index),
-    path('populate/', views.populate, name='populate')
+    path('populate/', views.populate, name='populate'),
+    path('loadRS', views.loadRS),
+    path('recommendedFilmsItems', views.recommendedFilmsItems),
+    path('recommendedFilmsUser', views.recommendedFilmsUser),
+    path('similarFilms', views.similarFilms),
+    path('recommendedUsersFilms', views.recommendedUsersFilms),
+    path('search', views.search),
 ]
