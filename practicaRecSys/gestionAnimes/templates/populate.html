@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Sistema de Recomendacion - Animes Dataset</title>
+</head>
+<body>
+{% include 'header.html' %}
+
+<h3>AVISO: Este proceso es lento, borra la base de datos actual y requiere conexion a internet</h3>
+
+    <form id='formulario' method='post' action='.'>{% csrf_token %}
+        <input type="submit" name="Aceptar" value="Aceptar">
+        <input type="submit" name="Cancelar" value="Cancelar">
+    </form>
+
+
+</body>
+</html>

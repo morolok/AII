@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Sistema de Recomendacion - Animes Dataset</title>
+</head>
+<body>
+{% include 'header.html' %}
+
+<h1>Animes para el género {{genero}}</h1>
+{% for info in informacion %}
+    <ul>Título: {{info.0}} - Géneros: {{info.1}} - Formato de emisión: {{info.2}} - Número de episodios: {{info.3}}</ul>
+{% empty %}
+<h2> No hay animes para ese género </h2>
+{% endfor %}
+
+</body>
+</html>
